@@ -1,0 +1,244 @@
+.back-button {
+  background-color: #6c757d;
+  padding: 8px 16px;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+
+.back-button:hover {
+  background-color: #545b62;
+}
+
+.order-detail {
+  background: white;
+  border-radius: 8px;
+  padding: 30px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.order-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #eee;
+}
+
+.order-header h2 {
+  margin: 0 0 5px 0;
+  color: #333;
+}
+
+.order-date {
+  color: #666;
+  font-size: 14px;
+  margin: 0;
+}
+
+.status-section {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.status-section label {
+  font-weight: bold;
+  color: #555;
+}
+
+.status-select {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.update-button {
+  padding: 8px 16px;
+  font-size: 14px;
+}
+
+.update-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.order-content {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.customer-section h3,
+.items-section h3,
+.notes-section h3 {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.info-grid > div {
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+}
+
+.info-grid label {
+  display: block;
+  font-weight: bold;
+  color: #666;
+  margin-bottom: 5px;
+  font-size: 12px;
+}
+
+.info-grid p {
+  margin: 0;
+  color: #333;
+  font-size: 16px;
+}
+
+/* Items Table */
+.items-table-wrapper {
+  overflow-x: auto;
+}
+
+.items-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.items-table th {
+  background-color: #f8f9fa;
+  padding: 12px;
+  text-align: left;
+  font-weight: bold;
+  color: #333;
+  border-bottom: 2px solid #dee2e6;
+}
+
+.items-table td {
+  padding: 12px;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.items-table tr:hover {
+  background-color: #f8f9fa;
+}
+
+.item-with-image {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.order-item-image {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.notes-section {
+  background-color: #f8f9fa;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.notes-section p {
+  margin: 0;
+  color: #333;
+  line-height: 1.6;
+}
+
+.total-section {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.total-amount {
+  background-color: #e7f3ff;
+  border: 2px solid #007bff;
+  border-radius: 8px;
+  padding: 20px;
+  min-width: 250px;
+  text-align: right;
+}
+
+.total-amount h3 {
+  margin: 0 0 10px 0;
+  color: #333;
+  font-size: 16px;
+}
+
+.total-amount .amount {
+  margin: 0;
+  color: #007bff;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.actions button {
+  padding: 10px 20px;
+}
+
+@media (max-width: 768px) {
+  .order-detail {
+    padding: 15px;
+  }
+
+  .order-header {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .status-section {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .status-section label {
+    width: 100%;
+  }
+
+  .status-select {
+    width: 100%;
+  }
+
+  .info-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .total-section {
+    justify-content: flex-start;
+  }
+
+  .total-amount {
+    min-width: 100%;
+  }
+
+  .items-table {
+    font-size: 12px;
+  }
+
+  .items-table th,
+  .items-table td {
+    padding: 8px;
+  }
+
+  .order-item-image {
+    width: 40px;
+    height: 40px;
+  }
+}
