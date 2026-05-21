@@ -11,18 +11,30 @@ import { getDatabase } from './database.js';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export async function seedDatabase() {
-  const seedFile = path.join(__dirname, 'seed_data.json');
-  if (!fs.existsSync(seedFile)) return;
+  try {
+    const seedFile = path.join(__dirname, 'seed_data.json');
+    if (!fs.existsSync(seedFile)) {
+      console.log('No seed_data.json found, skipping seed.');
+      return;
+    }
 
-  const db = getDatabase();
-  const existing = await db.get('SELECT COUNT(*) as count FROM categories');
-  if (existing.count > 0) return; // already has data, skip
+    const db = getDatabase();
+    if (!db) {
+      console.error('Seed: database not initialized');
+      return;
+    }
 
-  const { categories, items, customers, orders, orderItems } = JSON.parse(
-    fs.readFileSync(seedFile, 'utf8')
-  );
+    const existing = await db.get('SELECT COUNT(*) as count FROM categories');
+    if (existing.count > 0) {
+      console.log(`Seed skipped: database already has ${existing.count} categories.`);
+      return;
+    }
 
-  console.log('Seeding database from seed_data.json...');
+    const { categories, items, customers, orders, orderItems } = JSON.parse(
+      fs.readFileSync(seedFile, 'utf8')
+    );
+
+    console.log(`Seeding database: ${categories.length} categories, ${items.length} items...`);
 
   // Insert categories (preserve original IDs)
   for (const c of categories) {
@@ -64,5 +76,9 @@ export async function seedDatabase() {
     );
   }
 
-  console.log(`Seeded: ${categories.length} categories, ${items.length} items, ${orders.length} orders`);
+    console.log(`Seeded: ${categories.length} categories, ${items.length} items, ${orders.length} orders`);
+  } catch (err) {
+    console.error('Seed failed:', err.message);
+    // Non-fatal — server continues without seed data
+  }
 }

@@ -3,6 +3,7 @@ import multer from 'multer';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { getDatabase } from '../database.js';
+import { seedDatabase } from '../seed.js';
 
 const router = express.Router();
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -194,6 +195,25 @@ router.delete('/customers/:id', async (req, res) => {
   try {
     await db.run('DELETE FROM customers WHERE id = ?', [id]);
     res.json({ success: true });
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// Force re-seed the database from seed_data.json
+router.post('/force-seed', async (req, res) => {
+  try {
+    const db = getDatabase();
+    // Clear existing data so seed can re-run
+    await db.run('DELETE FROM order_items');
+    await db.run('DELETE FROM orders');
+    await db.run('DELETE FROM items');
+    await db.run('DELETE FROM customers');
+    await db.run('DELETE FROM categories');
+    await seedDatabase();
+    const cat = await db.get('SELECT COUNT(*) as count FROM categories');
+    const itm = await db.get('SELECT COUNT(*) as count FROM items');
+    res.json({ success: true, categories: cat.count, items: itm.count });
   } catch (error) {
     res.status(500).json({ error: error.message });
   }
