@@ -4,6 +4,7 @@ import bodyParser from 'body-parser';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { initializeDatabase } from './database.js';
+import { seedDatabase } from './seed.js';
 import adminRoutes from './routes/admin.js';
 import itemsRoutes from './routes/items.js';
 import ordersRoutes from './routes/orders.js';
@@ -45,6 +46,7 @@ app.get('*', (req, res) => {
 async function startServer() {
   try {
     await initializeDatabase();
+    await seedDatabase();
     app.listen(PORT, () => {
       console.log(`Server running on http://localhost:${PORT}`);
     });

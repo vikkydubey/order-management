@@ -1,0 +1,4628 @@
+{
+  "categories": [
+    {
+      "id": 299,
+      "name": "RICE & FLOUR",
+      "description": null,
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 300,
+      "name": "SCHANI",
+      "description": null,
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 301,
+      "name": "SNACKS",
+      "description": null,
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 302,
+      "name": "DRINKS",
+      "description": null,
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 303,
+      "name": "PATANJALI",
+      "description": null,
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 304,
+      "name": "MARIO",
+      "description": null,
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 305,
+      "name": "OTHERS",
+      "description": null,
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 306,
+      "name": "TATA",
+      "description": null,
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 307,
+      "name": "MDH",
+      "description": null,
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 308,
+      "name": "DABUR",
+      "description": null,
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 309,
+      "name": "COSMETICS",
+      "description": null,
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 310,
+      "name": "JALPUR",
+      "description": null,
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 311,
+      "name": "medicine",
+      "description": null,
+      "created_at": "2026-05-21 10:41:45"
+    }
+  ],
+  "items": [
+    {
+      "id": 1630,
+      "category_id": 299,
+      "name": "30079 ANJAPPAR SONA MASOORI RICE 10KG",
+      "price": 10.99,
+      "image_path": "/uploads/img_xref_7999.png",
+      "description": "ANJAPPAR SONA MASOORI RICE 10KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1631,
+      "category_id": 299,
+      "name": "30001 ANJAPPAR SONA MASOORI RICE 5KG",
+      "price": 5.99,
+      "image_path": "/uploads/img_xref_8000.png",
+      "description": "ANJAPPAR SONA MASOORI RICE 5KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1632,
+      "category_id": 299,
+      "name": "10620 BEGUM BASMATI RICE 20KG",
+      "price": 29,
+      "image_path": "/uploads/img_xref_8001.png",
+      "description": "BEGUM BASMATI RICE 20KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1633,
+      "category_id": 299,
+      "name": "10619 BEGUM BASMATI RICE 5KG",
+      "price": 8,
+      "image_path": "/uploads/img_xref_8002.png",
+      "description": "BEGUM BASMATI RICE 5KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1634,
+      "category_id": 299,
+      "name": "10610 HASINA EXTRA LONG BASMATI RICE 20KG",
+      "price": 25.75,
+      "image_path": "/uploads/img_xref_8003.png",
+      "description": "HASINA EXTRA LONG BASMATI RICE 20KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1635,
+      "category_id": 299,
+      "name": "10611 HASINA EXTRA LONG BASMATI RICE 10KG",
+      "price": 12.99,
+      "image_path": "/uploads/img_xref_8004.png",
+      "description": "HASINA EXTRA LONG BASMATI RICE 10KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1636,
+      "category_id": 299,
+      "name": "10612 HASINA EXTRA LONG BASMATI RICE 5KG",
+      "price": 6.99,
+      "image_path": "/uploads/img_xref_8005.png",
+      "description": "HASINA EXTRA LONG BASMATI RICE 5KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1637,
+      "category_id": 299,
+      "name": "21079 HEER CHAKKI ATTA (INDIAN WHEAT) 10KG",
+      "price": 8.5,
+      "image_path": "/uploads/img_xref_8006.png",
+      "description": "HEER CHAKKI ATTA (INDIAN WHEAT) 10KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1638,
+      "category_id": 299,
+      "name": "21078 HEER CHAKKI ATTA (INDIAN WHEAT) 5KG",
+      "price": 4.99,
+      "image_path": "/uploads/img_xref_10.png",
+      "description": "HEER CHAKKI ATTA (INDIAN WHEAT) 5KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1639,
+      "category_id": 299,
+      "name": "10601 HEER EASY COOK SELLA RICE 20KG",
+      "price": 26.5,
+      "image_path": "/uploads/img_xref_8.png",
+      "description": "HEER EASY COOK SELLA RICE 20KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1640,
+      "category_id": 299,
+      "name": "10602 HEER EASY COOK SELLA RICE 10KG",
+      "price": 13.25,
+      "image_path": "/uploads/img_xref_7.png",
+      "description": "HEER EASY COOK SELLA RICE 10KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1641,
+      "category_id": 299,
+      "name": "10603 HEER EASY COOK SELLA RICE 5KG",
+      "price": 6.65,
+      "image_path": "/uploads/img_xref_9.png",
+      "description": "HEER EASY COOK SELLA RICE 5KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1642,
+      "category_id": 299,
+      "name": "10624 HEER EXTRA LONG BASMATI RICE 20KG",
+      "price": 29.99,
+      "image_path": "/uploads/img_xref_3.png",
+      "description": "HEER EXTRA LONG BASMATI RICE 20KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1643,
+      "category_id": 299,
+      "name": "10625 HEER EXTRA LONG BASMATI RICE 10KG",
+      "price": 16.5,
+      "image_path": "/uploads/img_xref_4.png",
+      "description": "HEER EXTRA LONG BASMATI RICE 10KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1644,
+      "category_id": 299,
+      "name": "10626 HEER EXTRA LONG BASMATI RICE 5 KG",
+      "price": 8.5,
+      "image_path": "/uploads/img_xref_5.png",
+      "description": "HEER EXTRA LONG BASMATI RICE 5 KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1645,
+      "category_id": 299,
+      "name": "10604 HEER EXTRA LONG BASMATI RICE 6X1KG",
+      "price": 13.5,
+      "image_path": "/uploads/img_xref_6.png",
+      "description": "HEER EXTRA LONG BASMATI RICE 6X1KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1646,
+      "category_id": 299,
+      "name": "10627 HEER GOLDEN SELLA RICE 20KG",
+      "price": 27,
+      "image_path": "/uploads/img_xref_18.png",
+      "description": "HEER GOLDEN SELLA RICE 20KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1647,
+      "category_id": 299,
+      "name": "10628 HEER GOLDEN SELLA RICE 10KG",
+      "price": 13.5,
+      "image_path": "/uploads/img_xref_19.png",
+      "description": "HEER GOLDEN SELLA RICE 10KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1648,
+      "category_id": 299,
+      "name": "10629 HEER GOLDEN SELLA RICE 5KG",
+      "price": 6.75,
+      "image_path": "/uploads/img_xref_17.png",
+      "description": "HEER GOLDEN SELLA RICE 5KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1649,
+      "category_id": 299,
+      "name": "10772 HEER ORIGINAL BASMATI RICE 20KG",
+      "price": 30.5,
+      "image_path": "/uploads/img_xref_20.png",
+      "description": "HEER ORIGINAL BASMATI RICE 20KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1650,
+      "category_id": 299,
+      "name": "10778 HEER ORIGINAL BASMATI RICE 5 KG",
+      "price": 7.65,
+      "image_path": "/uploads/img_xref_16.png",
+      "description": "HEER ORIGINAL BASMATI RICE 5 KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1651,
+      "category_id": 299,
+      "name": "10764 HEER SONA MASOORI RICE 10KG",
+      "price": 12,
+      "image_path": "/uploads/img_xref_15.png",
+      "description": "HEER SONA MASOORI RICE 10KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1652,
+      "category_id": 299,
+      "name": "10763 HEER SONA MASOORI RICE 5 KG",
+      "price": 6.25,
+      "image_path": "/uploads/img_xref_14.png",
+      "description": "HEER SONA MASOORI RICE 5 KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1653,
+      "category_id": 300,
+      "name": "19103 SCHANI CANNED CHICK PEAS 2500GX6",
+      "price": 14,
+      "image_path": "/uploads/img_xref_24.png",
+      "description": "SCHANI CANNED CHICK PEAS 2500GX6",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1654,
+      "category_id": 300,
+      "name": "19102 SCHANI CANNED CHICK PEAS 400GX12",
+      "price": 4.49,
+      "image_path": "/uploads/img_xref_25.png",
+      "description": "SCHANI CANNED CHICK PEAS 400GX12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1655,
+      "category_id": 300,
+      "name": "19185 SCHANI CANNED TOMATOES CHOPPED",
+      "price": 14.75,
+      "image_path": "/uploads/img_xref_26.png",
+      "description": "SCHANI CANNED TOMATOES CHOPPED",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1656,
+      "category_id": 300,
+      "name": "19247 SCHANI CANNED TOMATOES CHOPPED",
+      "price": 4.49,
+      "image_path": "/uploads/img_xref_27.png",
+      "description": "SCHANI CANNED TOMATOES CHOPPED",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1657,
+      "category_id": 300,
+      "name": "19105 SCHANI CANNED TOMATOES PLUM",
+      "price": 14.75,
+      "image_path": "/uploads/img_xref_28.png",
+      "description": "SCHANI CANNED TOMATOES PLUM",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1658,
+      "category_id": 300,
+      "name": "13291 SCHANI CHUTNEY MANGO SWEET 1 X",
+      "price": 41,
+      "image_path": "/uploads/img_xref_29.png",
+      "description": "SCHANI CHUTNEY MANGO SWEET 1 X",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1659,
+      "category_id": 300,
+      "name": "13290 SCHANI CHUTNEY MANGO SWEET 4 X 5KG",
+      "price": 29.99,
+      "image_path": "/uploads/img_xref_30.png",
+      "description": "SCHANI CHUTNEY MANGO SWEET 4 X 5KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1660,
+      "category_id": 300,
+      "name": "19230 SCHANI JAGGERY POWDER PUNJABI",
+      "price": 29,
+      "image_path": "/uploads/img_xref_31.png",
+      "description": "SCHANI JAGGERY POWDER PUNJABI",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1661,
+      "category_id": 300,
+      "name": "26008 SCHANI FOOD COLOUR GREEN 20 X 500G",
+      "price": 36.45,
+      "image_path": "/uploads/img_xref_35.png",
+      "description": "SCHANI FOOD COLOUR GREEN 20 X 500G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1662,
+      "category_id": 300,
+      "name": "26009 SCHANI FOOD COLOUR GREEN 1 X 500G",
+      "price": 2,
+      "image_path": "/uploads/img_xref_35.png",
+      "description": "SCHANI FOOD COLOUR GREEN 1 X 500G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1663,
+      "category_id": 300,
+      "name": "26015 SCHANI FOOD COLOUR ORANGE 20 X 500G",
+      "price": 30.5,
+      "image_path": "/uploads/img_xref_36.png",
+      "description": "SCHANI FOOD COLOUR ORANGE 20 X 500G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1664,
+      "category_id": 300,
+      "name": "26002 SCHANI FOOD COLOUR ORANGE 1 X 500G",
+      "price": 3.15,
+      "image_path": "/uploads/img_xref_36.png",
+      "description": "SCHANI FOOD COLOUR ORANGE 1 X 500G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1665,
+      "category_id": 300,
+      "name": "26011 SCHANI FOOD COLOUR RED 20 X 500G",
+      "price": 30.35,
+      "image_path": "/uploads/img_xref_37.png",
+      "description": "SCHANI FOOD COLOUR RED 20 X 500G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1666,
+      "category_id": 300,
+      "name": "26003 SCHANI FOOD COLOUR RED 1 X 500G",
+      "price": 2.05,
+      "image_path": "/uploads/img_xref_37.png",
+      "description": "SCHANI FOOD COLOUR RED 1 X 500G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1667,
+      "category_id": 300,
+      "name": "26010 SCHANI FOOD COLOUR YELLOW 20 X 500G",
+      "price": 36.45,
+      "image_path": "/uploads/img_xref_38.png",
+      "description": "SCHANI FOOD COLOUR YELLOW 20 X 500G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1668,
+      "category_id": 300,
+      "name": "26000 SCHANI FOOD COLOUR YELLOW 1 X 500G",
+      "price": 2,
+      "image_path": "/uploads/img_xref_38.png",
+      "description": "SCHANI FOOD COLOUR YELLOW 1 X 500G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1669,
+      "category_id": 300,
+      "name": "13015 SCHANI KASOORI METHI LEAVES 6X1KG CTN",
+      "price": 37.19,
+      "image_path": "/uploads/img_xref_42.png",
+      "description": "SCHANI KASOORI METHI LEAVES 6X1KG CTN",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1670,
+      "category_id": 300,
+      "name": "13007 SCHANI KASOORI METHI 48X100G CTN",
+      "price": 38.22,
+      "image_path": "/uploads/img_xref_45.png",
+      "description": "SCHANI KASOORI METHI 48X100G CTN",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1671,
+      "category_id": 300,
+      "name": "19196 SCHANI MANGO PULP ALPHONSO TRAY 6 X",
+      "price": 9.25,
+      "image_path": "/uploads/img_xref_43.png",
+      "description": "SCHANI MANGO PULP ALPHONSO TRAY 6 X",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1672,
+      "category_id": 300,
+      "name": "19193 SCHANI MANGO PULP KESAR 12 X 850G",
+      "price": 17,
+      "image_path": "/uploads/img_xref_43.png",
+      "description": "SCHANI MANGO PULP KESAR 12 X 850G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1673,
+      "category_id": 300,
+      "name": "19194 SCHANI MANGO PULP KESAR TRAY 6 X 850G",
+      "price": 8.75,
+      "image_path": "/uploads/img_xref_44.png",
+      "description": "SCHANI MANGO PULP KESAR TRAY 6 X 850G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1674,
+      "category_id": 300,
+      "name": "19241 SCHANI MUSTARD OIL INDIAN 1LX12",
+      "price": 29.9,
+      "image_path": "/uploads/img_xref_48.png",
+      "description": "SCHANI MUSTARD OIL INDIAN 1LX12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1675,
+      "category_id": 300,
+      "name": "19240 SCHANI MUSTARD OIL 500MLX24",
+      "price": 34,
+      "image_path": "/uploads/img_xref_47.png",
+      "description": "SCHANI MUSTARD OIL 500MLX24",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1676,
+      "category_id": 300,
+      "name": "19239 SCHANI MUSTARD OIL 250MLX24",
+      "price": 18.72,
+      "image_path": "/uploads/img_xref_46.png",
+      "description": "SCHANI MUSTARD OIL 250MLX24",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1677,
+      "category_id": 300,
+      "name": "13687 SCHANI PAPAD MADRAS PLAIN 6\" 250GX60",
+      "price": 49.5,
+      "image_path": "/uploads/img_xref_52.png",
+      "description": "SCHANI PAPAD MADRAS PLAIN 6\" 250GX60",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1678,
+      "category_id": 300,
+      "name": "21281 SCHANI PAPAD MADRAS PLAIN 6\" 200GX60",
+      "price": 41,
+      "image_path": "/uploads/img_xref_53.png",
+      "description": "SCHANI PAPAD MADRAS PLAIN 6\" 200GX60",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1679,
+      "category_id": 300,
+      "name": "19323 SCHANI PHOOL MAKHANA 20X50G",
+      "price": 26,
+      "image_path": "/uploads/img_xref_54.png",
+      "description": "SCHANI PHOOL MAKHANA 20X50G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1680,
+      "category_id": 300,
+      "name": "00308 SCHANI RED(MASOOR DAL) 1 X 25KG",
+      "price": 26,
+      "image_path": "/uploads/img_xref_59.png",
+      "description": "SCHANI RED(MASOOR DAL) 1 X 25KG",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1681,
+      "category_id": 300,
+      "name": "19255 SCHANI ROASTED CHANA HING JEERA",
+      "price": 20.95,
+      "image_path": "/uploads/img_xref_55.png",
+      "description": "SCHANI ROASTED CHANA HING JEERA",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1682,
+      "category_id": 300,
+      "name": "19256 SCHANI ROASTED CHANA LEMON 24X200G",
+      "price": 20.95,
+      "image_path": "/uploads/img_xref_56.png",
+      "description": "SCHANI ROASTED CHANA LEMON 24X200G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1683,
+      "category_id": 300,
+      "name": "19257 SCHANI ROASTED CHANA PERI PERI",
+      "price": 20.95,
+      "image_path": "/uploads/img_xref_57.png",
+      "description": "SCHANI ROASTED CHANA PERI PERI",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1684,
+      "category_id": 300,
+      "name": "19258 SCHANI ROASTED CHANA PLAIN 24X200G",
+      "price": 20.95,
+      "image_path": "/uploads/img_xref_58.png",
+      "description": "SCHANI ROASTED CHANA PLAIN 24X200G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1685,
+      "category_id": 300,
+      "name": "13572 SCHANI SOYA CHAAP ACHARI 6X800G",
+      "price": 15.45,
+      "image_path": "/uploads/img_xref_63.png",
+      "description": "SCHANI SOYA CHAAP ACHARI 6X800G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1686,
+      "category_id": 300,
+      "name": "13543 SCHANI SOYA CHAAP ITALIAN 6X800G",
+      "price": 15.45,
+      "image_path": "/uploads/img_xref_64.png",
+      "description": "SCHANI SOYA CHAAP ITALIAN 6X800G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1687,
+      "category_id": 300,
+      "name": "13573 SCHANI SOYA CHAAP PERI PERI 6X800G",
+      "price": 15.45,
+      "image_path": "/uploads/img_xref_65.png",
+      "description": "SCHANI SOYA CHAAP PERI PERI 6X800G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1688,
+      "category_id": 300,
+      "name": "13570 SCHANI SOYA CHAAP PLAIN 6X800G",
+      "price": 15.45,
+      "image_path": "/uploads/img_xref_66.png",
+      "description": "SCHANI SOYA CHAAP PLAIN 6X800G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1689,
+      "category_id": 300,
+      "name": "13571 SCHANI SOYA CHAAP PUNJABI 6X800G",
+      "price": 15.45,
+      "image_path": "/uploads/img_xref_67.png",
+      "description": "SCHANI SOYA CHAAP PUNJABI 6X800G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1690,
+      "category_id": 301,
+      "name": "16723 KURKURE CHILLI CHATKA (RCC) 30s",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_71.png",
+      "description": "KURKURE CHILLI CHATKA (RCC) 30s",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1691,
+      "category_id": 301,
+      "name": "16722 KURKURE GREEN CHUTNEY (GCR) 30s",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_72.png",
+      "description": "KURKURE GREEN CHUTNEY (GCR) 30s",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1692,
+      "category_id": 301,
+      "name": "16720 KURKURE MASALA MUNCH 30s",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_73.png",
+      "description": "KURKURE MASALA MUNCH 30s",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1693,
+      "category_id": 301,
+      "name": "16721 KURKURE NAUGHTY TOMATO 30s",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_74.png",
+      "description": "KURKURE NAUGHTY TOMATO 30s",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1694,
+      "category_id": 301,
+      "name": "16838 KURKURE PUFF CORN 30s",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_75.png",
+      "description": "KURKURE PUFF CORN 30s",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1695,
+      "category_id": 301,
+      "name": "16837 KURKURE SCHEZWAN CHUTNEY 30s",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_76.png",
+      "description": "KURKURE SCHEZWAN CHUTNEY 30s",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1696,
+      "category_id": 301,
+      "name": "16725 KURKURE SOLID MASTI 30s",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_77.png",
+      "description": "KURKURE SOLID MASTI 30s",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1697,
+      "category_id": 301,
+      "name": "16727 LAYS CHILLI LEMON 30s",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_78.png",
+      "description": "LAYS CHILLI LEMON 30s",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1698,
+      "category_id": 301,
+      "name": "16728 LAYS CLASSIC SALTED 30s",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_82.png",
+      "description": "LAYS CLASSIC SALTED 30s",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1699,
+      "category_id": 301,
+      "name": "16729 LAYS HOT & SWEET 30s",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_83.png",
+      "description": "LAYS HOT & SWEET 30s",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1700,
+      "category_id": 301,
+      "name": "16726 LAYS MAGIC MASALA 30s",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_84.png",
+      "description": "LAYS MAGIC MASALA 30s",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1701,
+      "category_id": 301,
+      "name": "16753 LAYS SIZZLING HOT 30s",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_85.png",
+      "description": "LAYS SIZZLING HOT 30s",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1702,
+      "category_id": 301,
+      "name": "16735 LAYS SPANISH TOMATO 30s",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_86.png",
+      "description": "LAYS SPANISH TOMATO 30s",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1703,
+      "category_id": 301,
+      "name": "16707 UNCLE CHIPS SPICY TREAT 30s",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_87.png",
+      "description": "UNCLE CHIPS SPICY TREAT 30s",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1704,
+      "category_id": 302,
+      "name": "17142 FANTA CAN (24X300ML)",
+      "price": 12.99,
+      "image_path": "/uploads/img_xref_98.png",
+      "description": "FANTA CAN (24X300ML)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1705,
+      "category_id": 302,
+      "name": "17473 KASHMIRA SODA CAN (24X250ML)",
+      "price": 14.99,
+      "image_path": "/uploads/img_xref_91.png",
+      "description": "KASHMIRA SODA CAN (24X250ML)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1706,
+      "category_id": 302,
+      "name": "17472 LIMCA CAN (24X300ML)",
+      "price": 12.99,
+      "image_path": "/uploads/img_xref_92.png",
+      "description": "LIMCA CAN (24X300ML)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1707,
+      "category_id": 302,
+      "name": "17140 MIRINDA CAN (24X330ML)",
+      "price": 13.29,
+      "image_path": "/uploads/img_xref_93.png",
+      "description": "MIRINDA CAN (24X330ML)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1708,
+      "category_id": 302,
+      "name": "17182 MOUNTAIN DEW CAN (24X330ML)",
+      "price": 13.29,
+      "image_path": "/uploads/img_xref_94.png",
+      "description": "MOUNTAIN DEW CAN (24X330ML)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1709,
+      "category_id": 302,
+      "name": "17471 THUMS UP CAN (24X300ML)",
+      "price": 12.99,
+      "image_path": "/uploads/img_xref_95.png",
+      "description": "THUMS UP CAN (24X300ML)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1710,
+      "category_id": 302,
+      "name": "17179 LIMCA GLASS BOTTLE (24X200ML)",
+      "price": 10.99,
+      "image_path": "/uploads/img_xref_96.png",
+      "description": "LIMCA GLASS BOTTLE (24X200ML)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1711,
+      "category_id": 302,
+      "name": "17178 THUMS UP GLASS BOTTLE (24X300ML)",
+      "price": 13.99,
+      "image_path": "/uploads/img_xref_97.png",
+      "description": "THUMS UP GLASS BOTTLE (24X300ML)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1712,
+      "category_id": 302,
+      "name": "17183 LIMCA PET BOTTLE (28X250ML)",
+      "price": 12.99,
+      "image_path": "/uploads/img_xref_102.png",
+      "description": "LIMCA PET BOTTLE (28X250ML)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1713,
+      "category_id": 302,
+      "name": "17184 THUMS UP PET BOTTLE (28X250ML)",
+      "price": 12.99,
+      "image_path": "/uploads/img_xref_103.png",
+      "description": "THUMS UP PET BOTTLE (28X250ML)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1714,
+      "category_id": 302,
+      "name": "17226 FROOTI TETRA PACK (40X125ML)",
+      "price": 8.99,
+      "image_path": "/uploads/img_xref_104.png",
+      "description": "FROOTI TETRA PACK (40X125ML)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1715,
+      "category_id": 303,
+      "name": "20765 PATANJALI CANDY AMLA CHATPATA 500G",
+      "price": 11.95,
+      "image_path": "/uploads/img_xref_108.png",
+      "description": "PATANJALI CANDY AMLA CHATPATA 500G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1716,
+      "category_id": 303,
+      "name": "20766 PATANJALI CANDY BEL 500G X 4",
+      "price": 9.9,
+      "image_path": "/uploads/img_xref_109.png",
+      "description": "PATANJALI CANDY BEL 500G X 4",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1717,
+      "category_id": 303,
+      "name": "20767 PATANJALI CANDY GINGER 100G X 16",
+      "price": 18.6,
+      "image_path": "/uploads/img_xref_110.png",
+      "description": "PATANJALI CANDY GINGER 100G X 16",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1718,
+      "category_id": 303,
+      "name": "20760 PATANJALI COW GHEE 2KG X 6",
+      "price": 134.99,
+      "image_path": "/uploads/img_xref_112.png",
+      "description": "PATANJALI COW GHEE 2KG X 6",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1719,
+      "category_id": 303,
+      "name": "20758 PATANJALI COW GHEE 1KG X 12",
+      "price": 134.99,
+      "image_path": "/uploads/img_xref_113.png",
+      "description": "PATANJALI COW GHEE 1KG X 12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1720,
+      "category_id": 303,
+      "name": "20756 PATANJALI COW GHEE 500G X 12",
+      "price": 70.49,
+      "image_path": "/uploads/img_xref_111.png",
+      "description": "PATANJALI COW GHEE 500G X 12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1721,
+      "category_id": 303,
+      "name": "20763 PATANJALI ISABGOL HUSK 100G X 10",
+      "price": 27.39,
+      "image_path": "/uploads/img_xref_114.png",
+      "description": "PATANJALI ISABGOL HUSK 100G X 10",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1722,
+      "category_id": 303,
+      "name": "20776 PATANJALI JAMUN VINEGAR 500ML X 12",
+      "price": 15.75,
+      "image_path": "/uploads/img_xref_115.png",
+      "description": "PATANJALI JAMUN VINEGAR 500ML X 12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1723,
+      "category_id": 303,
+      "name": "20752 PATANJALI JUICE AMLA 500ML X 24",
+      "price": 31.49,
+      "image_path": "/uploads/img_xref_119.png",
+      "description": "PATANJALI JUICE AMLA 500ML X 24",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1724,
+      "category_id": 303,
+      "name": "20781 PATANJALI JUICE AMLA 500ML X 12",
+      "price": 15.75,
+      "image_path": "/uploads/img_xref_119.png",
+      "description": "PATANJALI JUICE AMLA 500ML X 12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1725,
+      "category_id": 303,
+      "name": "20775 PATANJALI JUICE ARJUN AMLA 500ML X 12",
+      "price": 15.75,
+      "image_path": "/uploads/img_xref_120.png",
+      "description": "PATANJALI JUICE ARJUN AMLA 500ML X 12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1726,
+      "category_id": 303,
+      "name": "20762 PATANJALI MUSTARD OIL 1L X 12",
+      "price": 43.3,
+      "image_path": "/uploads/img_xref_121.png",
+      "description": "PATANJALI MUSTARD OIL 1L X 12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1727,
+      "category_id": 303,
+      "name": "20769 PATANJALI PACHAK AJWAIN WITH",
+      "price": 15.6,
+      "image_path": "/uploads/img_xref_122.png",
+      "description": "PATANJALI PACHAK AJWAIN WITH",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1728,
+      "category_id": 303,
+      "name": "20771 PATANJALI PACHAK ANARDANA GOLI 100G X",
+      "price": 14,
+      "image_path": "/uploads/img_xref_123.png",
+      "description": "PATANJALI PACHAK ANARDANA GOLI 100G X",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1729,
+      "category_id": 303,
+      "name": "20773 PATANJALI PACHAK HING GOLI 100G X 12",
+      "price": 14,
+      "image_path": "/uploads/img_xref_124.png",
+      "description": "PATANJALI PACHAK HING GOLI 100G X 12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1730,
+      "category_id": 303,
+      "name": "20779 PATANJALI TOOTHPASTE DANTKANTI 150G X 6",
+      "price": 9.39,
+      "image_path": "/uploads/img_xref_125.png",
+      "description": "PATANJALI TOOTHPASTE DANTKANTI 150G X 6",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1731,
+      "category_id": 303,
+      "name": "20777 PATANJALI TOOTHPASTE HERBAL 100G X 12",
+      "price": 14.25,
+      "image_path": "/uploads/img_xref_129.png",
+      "description": "PATANJALI TOOTHPASTE HERBAL 100G X 12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1732,
+      "category_id": 304,
+      "name": "25123 MARIO BISCUITS BUTTER (6 X 8 X 90G)",
+      "price": 15.76,
+      "image_path": "/uploads/img_xref_133.png",
+      "description": "MARIO BISCUITS BUTTER (6 X 8 X 90G)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1733,
+      "category_id": 304,
+      "name": "25111 MARIO BISCUITS CASHEW (6 X 8 X 90G)",
+      "price": 15.76,
+      "image_path": "/uploads/img_xref_134.png",
+      "description": "MARIO BISCUITS CASHEW (6 X 8 X 90G)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1734,
+      "category_id": 304,
+      "name": "25094 MARIO BISCUITS COCONUT (6 X 8 X 90G)",
+      "price": 15.76,
+      "image_path": "/uploads/img_xref_135.png",
+      "description": "MARIO BISCUITS COCONUT (6 X 8 X 90G)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1735,
+      "category_id": 304,
+      "name": "25121 MARIO BISCUITS CRACK'EM (6 X 8 X 80G)",
+      "price": 15.76,
+      "image_path": "/uploads/img_xref_136.png",
+      "description": "MARIO BISCUITS CRACK'EM (6 X 8 X 80G)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1736,
+      "category_id": 304,
+      "name": "25136 MARIO BISCUITS GLUCOSE (10X12X45G)",
+      "price": 14.12,
+      "image_path": "/uploads/img_xref_137.png",
+      "description": "MARIO BISCUITS GLUCOSE (10X12X45G)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1737,
+      "category_id": 304,
+      "name": "25126 MARIO BISCUITS MARIE (6 X 8 X 80G)",
+      "price": 15.76,
+      "image_path": "/uploads/img_xref_138.png",
+      "description": "MARIO BISCUITS MARIE (6 X 8 X 80G)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1738,
+      "category_id": 304,
+      "name": "25137 MARIO BISCUITS NICE (10 X 12 X 45G)",
+      "price": 14.12,
+      "image_path": "/uploads/img_xref_139.png",
+      "description": "MARIO BISCUITS NICE (10 X 12 X 45G)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1739,
+      "category_id": 304,
+      "name": "25112 MARIO BISCUITS PISTACHIO (6 X 8 X 90G)",
+      "price": 15.76,
+      "image_path": "/uploads/img_xref_140.png",
+      "description": "MARIO BISCUITS PISTACHIO (6 X 8 X 90G)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1740,
+      "category_id": 304,
+      "name": "25096 MARIO NOODLES MASALA (10 X 560G)",
+      "price": 10.4,
+      "image_path": "/uploads/img_xref_144.png",
+      "description": "MARIO NOODLES MASALA (10 X 560G)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1741,
+      "category_id": 304,
+      "name": "25127 MARIO NOODLES TEZ TADKA (8X5X85G) 425G",
+      "price": 9.2,
+      "image_path": "/uploads/img_xref_145.png",
+      "description": "MARIO NOODLES TEZ TADKA (8X5X85G) 425G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1742,
+      "category_id": 304,
+      "name": "25058 MARIO RUSK CARDAMOM (12 X",
+      "price": 24.09,
+      "image_path": "/uploads/img_xref_151.png",
+      "description": "MARIO RUSK CARDAMOM (12 X",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1743,
+      "category_id": 304,
+      "name": "25056 MARIO RUSK CARDAMOM (12 X",
+      "price": 13.79,
+      "image_path": "/uploads/img_xref_146.png",
+      "description": "MARIO RUSK CARDAMOM (12 X",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1744,
+      "category_id": 304,
+      "name": "25135 MARIO MILK RUSK (12X600G) FREE TT",
+      "price": 24.09,
+      "image_path": "/uploads/img_xref_147.png",
+      "description": "MARIO MILK RUSK (12X600G) FREE TT",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1745,
+      "category_id": 304,
+      "name": "25064 MARIO MILK RUSK (12 X 600G)",
+      "price": 24.09,
+      "image_path": "/uploads/img_xref_150.png",
+      "description": "MARIO MILK RUSK (12 X 600G)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1746,
+      "category_id": 304,
+      "name": "25062 MARIO MILK RUSK (12 X 300G)",
+      "price": 13.79,
+      "image_path": "/uploads/img_xref_148.png",
+      "description": "MARIO MILK RUSK (12 X 300G)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1747,
+      "category_id": 304,
+      "name": "25068 MARIO RUSK SAUNF (12 X 300G)",
+      "price": 13.79,
+      "image_path": "/uploads/img_xref_149.png",
+      "description": "MARIO RUSK SAUNF (12 X 300G)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1748,
+      "category_id": 305,
+      "name": "24114 AGARBATTI CYCLE 3IN1 WITH OUTER (12PCK)",
+      "price": 3.2,
+      "image_path": "/uploads/img_xref_155.png",
+      "description": "AGARBATTI CYCLE 3IN1 WITH OUTER (12PCK)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1749,
+      "category_id": 305,
+      "name": "24120 AGARBATTI FLUTE RED ROSE HEXA 9 (6PCK)",
+      "price": 1.45,
+      "image_path": "/uploads/img_xref_155.png",
+      "description": "AGARBATTI FLUTE RED ROSE HEXA 9 (6PCK)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1750,
+      "category_id": 305,
+      "name": "24115 AGARBATTI SANDALIUM 250G 9 (6PCK)",
+      "price": 1.45,
+      "image_path": "/uploads/img_xref_157.png",
+      "description": "AGARBATTI SANDALIUM 250G 9 (6PCK)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1751,
+      "category_id": 305,
+      "name": "22997 ENO FRUIT SALT LEMON 6X100G (8SL=MC)",
+      "price": 12.99,
+      "image_path": "/uploads/img_xref_158.png",
+      "description": "ENO FRUIT SALT LEMON 6X100G (8SL=MC)",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1752,
+      "category_id": 305,
+      "name": "22996 ENO FRUIT SALT ORIGINAL 6X100G",
+      "price": 12.99,
+      "image_path": "/uploads/img_xref_159.png",
+      "description": "ENO FRUIT SALT ORIGINAL 6X100G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1753,
+      "category_id": 305,
+      "name": "12415 KINGS CURRY POWDER ROASTED JAR 24 X 900G",
+      "price": 202.69,
+      "image_path": "/uploads/img_xref_161.png",
+      "description": "KINGS CURRY POWDER ROASTED JAR 24 X 900G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1754,
+      "category_id": 305,
+      "name": "23299 MAGGI MASALA E MAGIC 72G X 60",
+      "price": 62.5,
+      "image_path": "/uploads/img_xref_162.png",
+      "description": "MAGGI MASALA E MAGIC 72G X 60",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1755,
+      "category_id": 305,
+      "name": "22016 PG TIPS - 1100 CATERING 2 X 1100'S",
+      "price": 34.99,
+      "image_path": "/uploads/img_xref_160.png",
+      "description": "PG TIPS - 1100 CATERING 2 X 1100'S",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1756,
+      "category_id": 305,
+      "name": "22007 PG TIPS - TEA BAGS 8 X 300'S",
+      "price": 59.5,
+      "image_path": "/uploads/img_xref_167.png",
+      "description": "PG TIPS - TEA BAGS 8 X 300'S",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1757,
+      "category_id": 305,
+      "name": "22260 RED LABEL TEA 1KG X 12",
+      "price": 75,
+      "image_path": "/uploads/img_xref_170.png",
+      "description": "RED LABEL TEA 1KG X 12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1758,
+      "category_id": 305,
+      "name": "22261 TAJ MAHAL TEA 1KG X 12",
+      "price": 99,
+      "image_path": "/uploads/img_xref_169.png",
+      "description": "TAJ MAHAL TEA 1KG X 12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1759,
+      "category_id": 305,
+      "name": "22034 TAPAL TEA DANEDAR - JAR 6 X 1000G",
+      "price": 43.99,
+      "image_path": "/uploads/img_xref_168.png",
+      "description": "TAPAL TEA DANEDAR - JAR 6 X 1000G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1760,
+      "category_id": 305,
+      "name": "12801 TELEPHONE ISABGOL BHUSI 100 X 100G CTN",
+      "price": 191,
+      "image_path": "/uploads/img_xref_168.png",
+      "description": "TELEPHONE ISABGOL BHUSI 100 X 100G CTN",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1761,
+      "category_id": 305,
+      "name": "12803 TELEPHONE ISABGOL BHUSI 10 X 100G",
+      "price": 19.12,
+      "image_path": "/uploads/img_xref_166.png",
+      "description": "TELEPHONE ISABGOL BHUSI 10 X 100G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1762,
+      "category_id": 305,
+      "name": "14375 TELEPHONE ISABGOL BHUSI 50 X 200G CTN",
+      "price": 190,
+      "image_path": "/uploads/img_xref_166.png",
+      "description": "TELEPHONE ISABGOL BHUSI 50 X 200G CTN",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1763,
+      "category_id": 305,
+      "name": "14549 TELEPHONE ISABGOL BHUSI 5 X 200G",
+      "price": 19,
+      "image_path": "/uploads/img_xref_166.png",
+      "description": "TELEPHONE ISABGOL BHUSI 5 X 200G",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1764,
+      "category_id": 305,
+      "name": "13106 VANDEVI HING POWDER YELLOW 500GX10 CTN",
+      "price": 56.68,
+      "image_path": "/uploads/img_xref_174.png",
+      "description": "VANDEVI HING POWDER YELLOW 500GX10 CTN",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1765,
+      "category_id": 305,
+      "name": "13108 VANDEVI HING POWDER YELLOW 500GX2",
+      "price": 11.34,
+      "image_path": "/uploads/img_xref_174.png",
+      "description": "VANDEVI HING POWDER YELLOW 500GX2",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1766,
+      "category_id": 305,
+      "name": "13105 VANDEVI HING POWDER YELLOW 200GX25 CTN",
+      "price": 56.97,
+      "image_path": "/uploads/img_xref_174.png",
+      "description": "VANDEVI HING POWDER YELLOW 200GX25 CTN",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1767,
+      "category_id": 305,
+      "name": "13107 VANDEVI HING POWDER YELLOW 200GX5",
+      "price": 11.4,
+      "image_path": "/uploads/img_xref_174.png",
+      "description": "VANDEVI HING POWDER YELLOW 200GX5",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1768,
+      "category_id": 305,
+      "name": "12753 VANDEVI HING POWDER YELLOW 100GX50 CTN",
+      "price": 56.68,
+      "image_path": "/uploads/img_xref_175.png",
+      "description": "VANDEVI HING POWDER YELLOW 100GX50 CTN",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1769,
+      "category_id": 305,
+      "name": "12751 VANDEVI HING POWDER YELLOW 100GX5",
+      "price": 6.22,
+      "image_path": "/uploads/img_xref_175.png",
+      "description": "VANDEVI HING POWDER YELLOW 100GX5",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1770,
+      "category_id": 305,
+      "name": "12750 VANDEVI HING POWDER YELLOW 50GX100 CTN",
+      "price": 56.62,
+      "image_path": "/uploads/img_xref_175.png",
+      "description": "VANDEVI HING POWDER YELLOW 50GX100 CTN",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1771,
+      "category_id": 305,
+      "name": "12752 VANDEVI HING POWDER YELLOW 50GX10",
+      "price": 5.66,
+      "image_path": "/uploads/img_xref_175.png",
+      "description": "VANDEVI HING POWDER YELLOW 50GX10",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1772,
+      "category_id": 306,
+      "name": "22160 TATA SALT CANISTER 650GX16",
+      "price": 16.65,
+      "image_path": "/uploads/img_xref_179.png",
+      "description": "TATA SALT CANISTER 650GX16",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1773,
+      "category_id": 306,
+      "name": "22298 TATA SALT HIMALAYAN ROCK 1KG X 12",
+      "price": 16.69,
+      "image_path": "/uploads/img_xref_180.png",
+      "description": "TATA SALT HIMALAYAN ROCK 1KG X 12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1774,
+      "category_id": 306,
+      "name": "22297 TATA SALT LOW SODIUM 1KG X 12",
+      "price": 14.19,
+      "image_path": "/uploads/img_xref_181.png",
+      "description": "TATA SALT LOW SODIUM 1KG X 12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1775,
+      "category_id": 306,
+      "name": "22158 TATA SALT POUCH 1KGX12",
+      "price": 7.99,
+      "image_path": "/uploads/img_xref_182.png",
+      "description": "TATA SALT POUCH 1KGX12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1776,
+      "category_id": 306,
+      "name": "22246 TATA SAMPANN CHAAT MASALA 100X24 PM1.49",
+      "price": 18,
+      "image_path": "/uploads/img_xref_182.png",
+      "description": "TATA SAMPANN CHAAT MASALA 100X24 PM1.49",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1777,
+      "category_id": 306,
+      "name": "22247 TATA SAMPANN CHAAT MASALA 100X8 PM1.49",
+      "price": 6,
+      "image_path": "/uploads/img_xref_183.png",
+      "description": "TATA SAMPANN CHAAT MASALA 100X8 PM1.49",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1778,
+      "category_id": 306,
+      "name": "22234 TATA SAMPANN CHICKEN MASALA",
+      "price": 18,
+      "image_path": "/uploads/img_xref_184.png",
+      "description": "TATA SAMPANN CHICKEN MASALA",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1779,
+      "category_id": 306,
+      "name": "22235 TATA SAMPANN CHICKEN MASALA",
+      "price": 6,
+      "image_path": "/uploads/img_xref_184.png",
+      "description": "TATA SAMPANN CHICKEN MASALA",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1780,
+      "category_id": 306,
+      "name": "22242 TATA SAMPANN DAL TADKA MASALA",
+      "price": 18,
+      "image_path": "/uploads/img_xref_188.png",
+      "description": "TATA SAMPANN DAL TADKA MASALA",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1781,
+      "category_id": 306,
+      "name": "22243 TATA SAMPANN DAL TADKA MASALA 100GX8",
+      "price": 6,
+      "image_path": "/uploads/img_xref_188.png",
+      "description": "TATA SAMPANN DAL TADKA MASALA 100GX8",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1782,
+      "category_id": 306,
+      "name": "22230 TATA SAMPANN GARAM MASALA",
+      "price": 18,
+      "image_path": "/uploads/img_xref_191.png",
+      "description": "TATA SAMPANN GARAM MASALA",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1783,
+      "category_id": 306,
+      "name": "22231 TATA SAMPANN GARAM MASALA",
+      "price": 6,
+      "image_path": "/uploads/img_xref_191.png",
+      "description": "TATA SAMPANN GARAM MASALA",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1784,
+      "category_id": 306,
+      "name": "22236 TATA SAMPANN KITCHEN KING MASALA",
+      "price": 18,
+      "image_path": "/uploads/img_xref_189.png",
+      "description": "TATA SAMPANN KITCHEN KING MASALA",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1785,
+      "category_id": 306,
+      "name": "22237 TATA SAMPANN KITCHEN KING MASALA",
+      "price": 6,
+      "image_path": "/uploads/img_xref_189.png",
+      "description": "TATA SAMPANN KITCHEN KING MASALA",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1786,
+      "category_id": 306,
+      "name": "22232 TATA SAMPANN MEAT MASALA 100GX24",
+      "price": 18,
+      "image_path": "/uploads/img_xref_190.png",
+      "description": "TATA SAMPANN MEAT MASALA 100GX24",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1787,
+      "category_id": 306,
+      "name": "22233 TATA SAMPANN MEAT MASALA 100GX8",
+      "price": 6,
+      "image_path": "/uploads/img_xref_190.png",
+      "description": "TATA SAMPANN MEAT MASALA 100GX8",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1788,
+      "category_id": 306,
+      "name": "22238 TATA SAMPANN PANEER MASALA",
+      "price": 18,
+      "image_path": "/uploads/img_xref_195.png",
+      "description": "TATA SAMPANN PANEER MASALA",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1789,
+      "category_id": 306,
+      "name": "22239 TATA SAMPANN TATA S PANEER MASALA",
+      "price": 6,
+      "image_path": "/uploads/img_xref_195.png",
+      "description": "TATA SAMPANN TATA S PANEER MASALA",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1790,
+      "category_id": 306,
+      "name": "22244 TATA SAMPANN PAV BHAJI MASALA 100GX24",
+      "price": 18,
+      "image_path": "/uploads/img_xref_196.png",
+      "description": "TATA SAMPANN PAV BHAJI MASALA 100GX24",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1791,
+      "category_id": 306,
+      "name": "22245 TATA SAMPANN PAV BHAJI MASALA 100GX8",
+      "price": 6,
+      "image_path": "/uploads/img_xref_196.png",
+      "description": "TATA SAMPANN PAV BHAJI MASALA 100GX8",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1792,
+      "category_id": 306,
+      "name": "22240 TATA SAMPANN PUNJABI CHOLE",
+      "price": 18,
+      "image_path": "/uploads/img_xref_197.png",
+      "description": "TATA SAMPANN PUNJABI CHOLE",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1793,
+      "category_id": 306,
+      "name": "22241 TATA SAMPANN PUNJABI CHOLE",
+      "price": 6,
+      "image_path": "/uploads/img_xref_197.png",
+      "description": "TATA SAMPANN PUNJABI CHOLE",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1794,
+      "category_id": 306,
+      "name": "22248 TATA SAMPANN SAMBAR MASALA",
+      "price": 18,
+      "image_path": "/uploads/img_xref_198.png",
+      "description": "TATA SAMPANN SAMBAR MASALA",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1795,
+      "category_id": 306,
+      "name": "22249 TATA SAMPANN SAMBAR MASALA",
+      "price": 6,
+      "image_path": "/uploads/img_xref_198.png",
+      "description": "TATA SAMPANN SAMBAR MASALA",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1796,
+      "category_id": 306,
+      "name": "22254 TATA COFFEE GOLD JAR 100GX12",
+      "price": 42.59,
+      "image_path": "/uploads/img_xref_202.png",
+      "description": "TATA COFFEE GOLD JAR 100GX12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1797,
+      "category_id": 306,
+      "name": "22303 TATA TEA AGNI 900GX12 PMP 3.99",
+      "price": 39.49,
+      "image_path": "/uploads/img_xref_203.png",
+      "description": "TATA TEA AGNI 900GX12 PMP 3.99",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1798,
+      "category_id": 306,
+      "name": "22156 TATA TEA AGNI 900GX12",
+      "price": 54.99,
+      "image_path": "/uploads/img_xref_204.png",
+      "description": "TATA TEA AGNI 900GX12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1799,
+      "category_id": 306,
+      "name": "22189 TATA TEA CHAI ELAICHI BAGS 50SX12",
+      "price": 24.99,
+      "image_path": "/uploads/img_xref_205.png",
+      "description": "TATA TEA CHAI ELAICHI BAGS 50SX12",
+      "created_at": "2026-05-21 09:28:36"
+    },
+    {
+      "id": 1800,
+      "category_id": 306,
+      "name": "22157 TATA TEA CHAI GINGER BAGS 50SX12",
+      "price": 24.99,
+      "image_path": "/uploads/img_xref_206.png",
+      "description": "TATA TEA CHAI GINGER BAGS 50SX12",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1801,
+      "category_id": 306,
+      "name": "22190 TATA TEA CHAI MASALA BAGS 50SX12",
+      "price": 24.99,
+      "image_path": "/uploads/img_xref_207.png",
+      "description": "TATA TEA CHAI MASALA BAGS 50SX12",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1802,
+      "category_id": 306,
+      "name": "22152 TATA TEA GOLD LOOSE 900GX8",
+      "price": 56.99,
+      "image_path": "/uploads/img_xref_208.png",
+      "description": "TATA TEA GOLD LOOSE 900GX8",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1803,
+      "category_id": 306,
+      "name": "22151 TATA TEA GOLD LOOSE 450GX16",
+      "price": 60.99,
+      "image_path": "/uploads/img_xref_209.png",
+      "description": "TATA TEA GOLD LOOSE 450GX16",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1804,
+      "category_id": 306,
+      "name": "22195 TATA TEA PREMIUM 900GX8",
+      "price": 50.79,
+      "image_path": "/uploads/img_xref_213.png",
+      "description": "TATA TEA PREMIUM 900GX8",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1805,
+      "category_id": 306,
+      "name": "22153 TATA TEA PREMIUM 450GX16",
+      "price": 52.79,
+      "image_path": "/uploads/img_xref_214.png",
+      "description": "TATA TEA PREMIUM 450GX16",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1806,
+      "category_id": 306,
+      "name": "22296 TATA TEA PREMIUM JAR 800GX8 PMP 5.99",
+      "price": 37.99,
+      "image_path": "/uploads/img_xref_215.png",
+      "description": "TATA TEA PREMIUM JAR 800GX8 PMP 5.99",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1807,
+      "category_id": 306,
+      "name": "22154 TATA TEA PREMIUM JAR 400GX16",
+      "price": 49.99,
+      "image_path": "/uploads/img_xref_216.png",
+      "description": "TATA TEA PREMIUM JAR 400GX16",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1808,
+      "category_id": 306,
+      "name": "22148 TATA TEA PREMIUM ROUND BAGS 220GX8",
+      "price": 40.99,
+      "image_path": "/uploads/img_xref_217.png",
+      "description": "TATA TEA PREMIUM ROUND BAGS 220GX8",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1809,
+      "category_id": 307,
+      "name": "13029 MDH ACHARI ALOO MASALA 100GX60 CTN",
+      "price": 50.45,
+      "image_path": "/uploads/img_xref_221.png",
+      "description": "MDH ACHARI ALOO MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1810,
+      "category_id": 307,
+      "name": "13028 MDH ACHARI ALOO MASALA 100GX10 SL",
+      "price": 8.41,
+      "image_path": "/uploads/img_xref_221.png",
+      "description": "MDH ACHARI ALOO MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1811,
+      "category_id": 307,
+      "name": "13031 MDH ACHARI CHICKEN MASALA 100GX60 CTN",
+      "price": 50.45,
+      "image_path": "/uploads/img_xref_222.png",
+      "description": "MDH ACHARI CHICKEN MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1812,
+      "category_id": 307,
+      "name": "13030 MDH ACHARI CHICKEN MASALA 100GX10 SL",
+      "price": 8.41,
+      "image_path": "/uploads/img_xref_222.png",
+      "description": "MDH ACHARI CHICKEN MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1813,
+      "category_id": 307,
+      "name": "13033 MDH ACHARI GOSHT MASALA 100GX60 CTN",
+      "price": 50.45,
+      "image_path": "/uploads/img_xref_223.png",
+      "description": "MDH ACHARI GOSHT MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1814,
+      "category_id": 307,
+      "name": "13032 MDH ACHARI GOSHT MASALA 100GX10 SL",
+      "price": 8.41,
+      "image_path": "/uploads/img_xref_223.png",
+      "description": "MDH ACHARI GOSHT MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1815,
+      "category_id": 307,
+      "name": "12967 MDH AMCHUR POWDER 100GX60 CTN",
+      "price": 64.8,
+      "image_path": "/uploads/img_xref_224.png",
+      "description": "MDH AMCHUR POWDER 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1816,
+      "category_id": 307,
+      "name": "12966 MDH AMCHUR POWDER 100GX10 SL",
+      "price": 10.8,
+      "image_path": "/uploads/img_xref_224.png",
+      "description": "MDH AMCHUR POWDER 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1817,
+      "category_id": 307,
+      "name": "12951 MDH ANARDANA POWDER 100GX60 CTN",
+      "price": 93.6,
+      "image_path": "/uploads/img_xref_228.png",
+      "description": "MDH ANARDANA POWDER 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1818,
+      "category_id": 307,
+      "name": "12950 MDH ANARDANA POWDER 100GX10 SL",
+      "price": 15.6,
+      "image_path": "/uploads/img_xref_228.png",
+      "description": "MDH ANARDANA POWDER 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1819,
+      "category_id": 307,
+      "name": "12962 MDH ARHAR DAL MASALA 100GX60 CTN",
+      "price": 47.64,
+      "image_path": "/uploads/img_xref_229.png",
+      "description": "MDH ARHAR DAL MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1820,
+      "category_id": 307,
+      "name": "12961 MDH ARHAR DAL MASALA 100GX10 SL",
+      "price": 7.93,
+      "image_path": "/uploads/img_xref_229.png",
+      "description": "MDH ARHAR DAL MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1821,
+      "category_id": 307,
+      "name": "12977 MDH BAINGEN BHARTAA MASALA",
+      "price": 53.15,
+      "image_path": "/uploads/img_xref_230.png",
+      "description": "MDH BAINGEN BHARTAA MASALA",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1822,
+      "category_id": 307,
+      "name": "12976 MDH BAINGEN BHARTAA MASALA",
+      "price": 8.85,
+      "image_path": "/uploads/img_xref_230.png",
+      "description": "MDH BAINGEN BHARTAA MASALA",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1823,
+      "category_id": 307,
+      "name": "13008 MDH BOMBAY BIRYANI MASALA 100GX60 CTN",
+      "price": 60.27,
+      "image_path": "/uploads/img_xref_231.png",
+      "description": "MDH BOMBAY BIRYANI MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1824,
+      "category_id": 307,
+      "name": "13009 MDH BOMBAY BIRYANI MASALA 100GX10 SL",
+      "price": 10.04,
+      "image_path": "/uploads/img_xref_231.png",
+      "description": "MDH BOMBAY BIRYANI MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1825,
+      "category_id": 307,
+      "name": "12969 MDH BUTTER CHICKEN MASALA 100GX60 CTN",
+      "price": 69.01,
+      "image_path": "/uploads/img_xref_235.png",
+      "description": "MDH BUTTER CHICKEN MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1826,
+      "category_id": 307,
+      "name": "12968 MDH BUTTER CHICKEN MASALA 100GX10 SL",
+      "price": 11.5,
+      "image_path": "/uploads/img_xref_235.png",
+      "description": "MDH BUTTER CHICKEN MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1827,
+      "category_id": 307,
+      "name": "12979 MDH CHANA DAL MASALA 100GX60 CTN",
+      "price": 49.36,
+      "image_path": "/uploads/img_xref_236.png",
+      "description": "MDH CHANA DAL MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1828,
+      "category_id": 307,
+      "name": "12978 MDH CHANA DAL MASALA 100GX10 SL",
+      "price": 8.22,
+      "image_path": "/uploads/img_xref_236.png",
+      "description": "MDH CHANA DAL MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1829,
+      "category_id": 307,
+      "name": "13017 MDH CHANA MASALA 500GX24 CTN",
+      "price": 109,
+      "image_path": "/uploads/img_xref_238.png",
+      "description": "MDH CHANA MASALA 500GX24 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1830,
+      "category_id": 307,
+      "name": "13016 MDH CHANA MASALA 500GX4 SL",
+      "price": 18.17,
+      "image_path": "/uploads/img_xref_238.png",
+      "description": "MDH CHANA MASALA 500GX4 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1831,
+      "category_id": 307,
+      "name": "12955 MDH CHANA MASALA 100GX60 CTN",
+      "price": 60.27,
+      "image_path": "/uploads/img_xref_237.png",
+      "description": "MDH CHANA MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1832,
+      "category_id": 307,
+      "name": "12954 MDH CHANA MASALA 100GX10 SL",
+      "price": 10.04,
+      "image_path": "/uploads/img_xref_237.png",
+      "description": "MDH CHANA MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1833,
+      "category_id": 307,
+      "name": "13025 MDH CHICKEN CURRY MASALA 500GX24 CTN",
+      "price": 109,
+      "image_path": "/uploads/img_xref_242.png",
+      "description": "MDH CHICKEN CURRY MASALA 500GX24 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1834,
+      "category_id": 307,
+      "name": "13024 MDH CHICKEN CURRY MASALA 500GX4 SL",
+      "price": 18.17,
+      "image_path": "/uploads/img_xref_242.png",
+      "description": "MDH CHICKEN CURRY MASALA 500GX4 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1835,
+      "category_id": 307,
+      "name": "12959 MDH CHICKEN CURRY MASALA 100GX60 CTN",
+      "price": 60.27,
+      "image_path": "/uploads/img_xref_243.png",
+      "description": "MDH CHICKEN CURRY MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1836,
+      "category_id": 307,
+      "name": "12958 MDH CHICKEN CURRY MASALA 100GX10 SL",
+      "price": 10.04,
+      "image_path": "/uploads/img_xref_243.png",
+      "description": "MDH CHICKEN CURRY MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1837,
+      "category_id": 307,
+      "name": "13019 MDH CHUNKY CHAT MASALA 500GX24 CTN",
+      "price": 112,
+      "image_path": "/uploads/img_xref_244.png",
+      "description": "MDH CHUNKY CHAT MASALA 500GX24 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1838,
+      "category_id": 307,
+      "name": "13018 MDH CHUNKY CHAT MASALA 500GX4 SL",
+      "price": 18.67,
+      "image_path": "/uploads/img_xref_244.png",
+      "description": "MDH CHUNKY CHAT MASALA 500GX4 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1839,
+      "category_id": 307,
+      "name": "12963 MDH CHUNKY CHAT MASALA 100GX60 CTN",
+      "price": 57.6,
+      "image_path": "/uploads/img_xref_245.png",
+      "description": "MDH CHUNKY CHAT MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1840,
+      "category_id": 307,
+      "name": "12960 MDH CHUNKY CHAT MASALA 100GX10 SL",
+      "price": 9.6,
+      "image_path": "/uploads/img_xref_245.png",
+      "description": "MDH CHUNKY CHAT MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1841,
+      "category_id": 307,
+      "name": "12957 MDH CHUTNEY PODINA MASALA 100GX60 CTN",
+      "price": 54.77,
+      "image_path": "/uploads/img_xref_249.png",
+      "description": "MDH CHUTNEY PODINA MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1842,
+      "category_id": 307,
+      "name": "12956 MDH CHUTNEY PODINA MASALA 100GX10 SL",
+      "price": 9.12,
+      "image_path": "/uploads/img_xref_249.png",
+      "description": "MDH CHUTNEY PODINA MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1843,
+      "category_id": 307,
+      "name": "12965 MDH DAHIVADA RAITA MASALA 100GX60 CTN",
+      "price": 63.51,
+      "image_path": "/uploads/img_xref_250.png",
+      "description": "MDH DAHIVADA RAITA MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1844,
+      "category_id": 307,
+      "name": "12964 MDH DAHIVADA RAITA MASALA 100GX10 SL",
+      "price": 10.58,
+      "image_path": "/uploads/img_xref_250.png",
+      "description": "MDH DAHIVADA RAITA MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1845,
+      "category_id": 307,
+      "name": "31013 MDH DAL MAKHANI MASALA 100GX60 CTN",
+      "price": 53.15,
+      "image_path": "/uploads/img_xref_251.png",
+      "description": "MDH DAL MAKHANI MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1846,
+      "category_id": 307,
+      "name": "31012 MDH DAL MAKHANI MASALA 100GX10 SL",
+      "price": 8.85,
+      "image_path": "/uploads/img_xref_251.png",
+      "description": "MDH DAL MAKHANI MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1847,
+      "category_id": 307,
+      "name": "13027 MDH DEGGI MIRCH 500GX24 CTN",
+      "price": 150,
+      "image_path": "/uploads/img_xref_252.png",
+      "description": "MDH DEGGI MIRCH 500GX24 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1848,
+      "category_id": 307,
+      "name": "13026 MDH DEGGI MIRCH 500GX4 SL",
+      "price": 25,
+      "image_path": "/uploads/img_xref_252.png",
+      "description": "MDH DEGGI MIRCH 500GX4 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1849,
+      "category_id": 307,
+      "name": "13001 MDH DEGGI MIRCH 100GX60 CTN",
+      "price": 84,
+      "image_path": "/uploads/img_xref_256.png",
+      "description": "MDH DEGGI MIRCH 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1850,
+      "category_id": 307,
+      "name": "13002 MDH DEGGI MIRCH 100GX10 SL",
+      "price": 14,
+      "image_path": "/uploads/img_xref_256.png",
+      "description": "MDH DEGGI MIRCH 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1851,
+      "category_id": 307,
+      "name": "12971 MDH FISH CURRY MASALA 100GX60 CTN",
+      "price": 54.77,
+      "image_path": "/uploads/img_xref_257.png",
+      "description": "MDH FISH CURRY MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1852,
+      "category_id": 307,
+      "name": "12970 MDH FISH CURRY MASALA 100GX10 SL",
+      "price": 9.12,
+      "image_path": "/uploads/img_xref_257.png",
+      "description": "MDH FISH CURRY MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1853,
+      "category_id": 307,
+      "name": "13035 MDH GARAM MASALA 500GX24 CTN",
+      "price": 134,
+      "image_path": "/uploads/img_xref_258.png",
+      "description": "MDH GARAM MASALA 500GX24 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1854,
+      "category_id": 307,
+      "name": "13036 MDH GARAM MASALA 500GX4 SL",
+      "price": 22.33,
+      "image_path": "/uploads/img_xref_258.png",
+      "description": "MDH GARAM MASALA 500GX4 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1855,
+      "category_id": 307,
+      "name": "12973 MDH GARAM MASALA 100GX60 CTN",
+      "price": 72,
+      "image_path": "/uploads/img_xref_259.png",
+      "description": "MDH GARAM MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1856,
+      "category_id": 307,
+      "name": "12972 MDH GARAM MASALA 100GX10 SL",
+      "price": 12,
+      "image_path": "/uploads/img_xref_259.png",
+      "description": "MDH GARAM MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1857,
+      "category_id": 307,
+      "name": "31054 MDH HING POWDER 50G X 144 CTN",
+      "price": 190.41,
+      "image_path": "/uploads/img_xref_266.png",
+      "description": "MDH HING POWDER 50G X 144 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1858,
+      "category_id": 307,
+      "name": "31055 MDH HING POWDER 50G X 6 SL",
+      "price": 7.93,
+      "image_path": "/uploads/img_xref_266.png",
+      "description": "MDH HING POWDER 50G X 6 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1859,
+      "category_id": 307,
+      "name": "13103 MDH HENNA POWDER 500GX20 CTN",
+      "price": 39.53,
+      "image_path": "/uploads/img_xref_263.png",
+      "description": "MDH HENNA POWDER 500GX20 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1860,
+      "category_id": 307,
+      "name": "13104 MDH HENNA POWDER 500GX4 SL",
+      "price": 7.89,
+      "image_path": "/uploads/img_xref_263.png",
+      "description": "MDH HENNA POWDER 500GX4 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1861,
+      "category_id": 307,
+      "name": "12953 MDH HYDERABADI BIRYANI MASALA",
+      "price": 63,
+      "image_path": "/uploads/img_xref_264.png",
+      "description": "MDH HYDERABADI BIRYANI MASALA",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1862,
+      "category_id": 307,
+      "name": "12952 MDH HYDERABADI BIRYANI MASALA",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_264.png",
+      "description": "MDH HYDERABADI BIRYANI MASALA",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1863,
+      "category_id": 307,
+      "name": "13095 MDH JAL JEERA MASALA 500GX24 CTN",
+      "price": 91.2,
+      "image_path": "/uploads/img_xref_265.png",
+      "description": "MDH JAL JEERA MASALA 500GX24 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1864,
+      "category_id": 307,
+      "name": "13189 MDH JAL JEERA MASALA 500GX4 SL",
+      "price": 15.2,
+      "image_path": "/uploads/img_xref_265.png",
+      "description": "MDH JAL JEERA MASALA 500GX4 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1865,
+      "category_id": 307,
+      "name": "12975 MDH JAL JEERA MASALA 100GX60 CTN",
+      "price": 51.53,
+      "image_path": "/uploads/img_xref_270.png",
+      "description": "MDH JAL JEERA MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1866,
+      "category_id": 307,
+      "name": "12974 MDH JAL JEERA MASALA 100GX10 SL",
+      "price": 8.58,
+      "image_path": "/uploads/img_xref_270.png",
+      "description": "MDH JAL JEERA MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1867,
+      "category_id": 307,
+      "name": "13003 MDH KARAHI CHICKEN MASALA 100GX60 CTN",
+      "price": 53.15,
+      "image_path": "/uploads/img_xref_271.png",
+      "description": "MDH KARAHI CHICKEN MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1868,
+      "category_id": 307,
+      "name": "13004 MDH KARAHI CHICKEN MASALA 100GX10 SL",
+      "price": 8.85,
+      "image_path": "/uploads/img_xref_271.png",
+      "description": "MDH KARAHI CHICKEN MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1869,
+      "category_id": 307,
+      "name": "31015 MDH KARAHI GOSHT MASALA 100GX60 CTN",
+      "price": 55.85,
+      "image_path": "/uploads/img_xref_272.png",
+      "description": "MDH KARAHI GOSHT MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1870,
+      "category_id": 307,
+      "name": "31014 MDH KARAHI GOSHT MASALA 100GX10 SL",
+      "price": 9.3,
+      "image_path": "/uploads/img_xref_272.png",
+      "description": "MDH KARAHI GOSHT MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1871,
+      "category_id": 307,
+      "name": "31051 MDH KARAHI PANEER MASALA 100GX60 CTN",
+      "price": 53.15,
+      "image_path": "/uploads/img_xref_273.png",
+      "description": "MDH KARAHI PANEER MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1872,
+      "category_id": 307,
+      "name": "31052 MDH KARAHI PANEER MASALA 100GX10 SL",
+      "price": 8.85,
+      "image_path": "/uploads/img_xref_273.png",
+      "description": "MDH KARAHI PANEER MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1873,
+      "category_id": 307,
+      "name": "13010 MDH KASHMIRI MIRCH 100GX60 CTN",
+      "price": 84,
+      "image_path": "/uploads/img_xref_277.png",
+      "description": "MDH KASHMIRI MIRCH 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1874,
+      "category_id": 307,
+      "name": "13011 MDH KASHMIRI MIRCH 100GX10 SL",
+      "price": 14,
+      "image_path": "/uploads/img_xref_277.png",
+      "description": "MDH KASHMIRI MIRCH 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1875,
+      "category_id": 307,
+      "name": "12982 MDH KASOORI METHI LEAVES 1KGX6 CTN",
+      "price": 63,
+      "image_path": "/uploads/img_xref_278.png",
+      "description": "MDH KASOORI METHI LEAVES 1KGX6 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1876,
+      "category_id": 307,
+      "name": "12983 MDH KASOORI METHI LEAVES 1KGX1 SL",
+      "price": 10.5,
+      "image_path": "/uploads/img_xref_278.png",
+      "description": "MDH KASOORI METHI LEAVES 1KGX1 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1877,
+      "category_id": 307,
+      "name": "12981 MDH KASOORI METHI LEAVES 100GX48 CTN",
+      "price": 66,
+      "image_path": "/uploads/img_xref_279.png",
+      "description": "MDH KASOORI METHI LEAVES 100GX48 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1878,
+      "category_id": 307,
+      "name": "12980 MDH KASOORI METHI LEAVES 100GX6 SL",
+      "price": 8.25,
+      "image_path": "/uploads/img_xref_279.png",
+      "description": "MDH KASOORI METHI LEAVES 100GX6 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1879,
+      "category_id": 307,
+      "name": "12984 MDH KASOORI METHI LEAVES 25GX120 CTN",
+      "price": 53.41,
+      "image_path": "/uploads/img_xref_280.png",
+      "description": "MDH KASOORI METHI LEAVES 25GX120 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1880,
+      "category_id": 307,
+      "name": "13101 MDH KASOORI METHI LEAVES 25GX10 SL",
+      "price": 4.47,
+      "image_path": "/uploads/img_xref_280.png",
+      "description": "MDH KASOORI METHI LEAVES 25GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1881,
+      "category_id": 307,
+      "name": "13023 MDH KITCHEN KING 500GX24 CTN",
+      "price": 115.28,
+      "image_path": "/uploads/img_xref_284.png",
+      "description": "MDH KITCHEN KING 500GX24 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1882,
+      "category_id": 307,
+      "name": "13022 MDH KITCHEN KING 500GX4 SL",
+      "price": 19.22,
+      "image_path": "/uploads/img_xref_284.png",
+      "description": "MDH KITCHEN KING 500GX4 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1883,
+      "category_id": 307,
+      "name": "12987 MDH KITCHEN KING 100GX60 CTN",
+      "price": 63.51,
+      "image_path": "/uploads/img_xref_285.png",
+      "description": "MDH KITCHEN KING 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1884,
+      "category_id": 307,
+      "name": "12986 MDH KITCHEN KING 100GX10 SL",
+      "price": 10.58,
+      "image_path": "/uploads/img_xref_285.png",
+      "description": "MDH KITCHEN KING 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1885,
+      "category_id": 307,
+      "name": "31044 MDH MADRAS CURRY MASALA 100GX60 CTN",
+      "price": 60.27,
+      "image_path": "/uploads/img_xref_286.png",
+      "description": "MDH MADRAS CURRY MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1886,
+      "category_id": 307,
+      "name": "31045 MDH MADRAS CURRY MASALA 100GX10 SL",
+      "price": 10.04,
+      "image_path": "/uploads/img_xref_286.png",
+      "description": "MDH MADRAS CURRY MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1887,
+      "category_id": 307,
+      "name": "13021 MDH MEAT CURRY MASALA 500GX24 CTN",
+      "price": 116.47,
+      "image_path": "/uploads/img_xref_287.png",
+      "description": "MDH MEAT CURRY MASALA 500GX24 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1888,
+      "category_id": 307,
+      "name": "13020 MDH MEAT CURRY MASALA 500GX4 SL",
+      "price": 19.41,
+      "image_path": "/uploads/img_xref_287.png",
+      "description": "MDH MEAT CURRY MASALA 500GX4 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1889,
+      "category_id": 307,
+      "name": "12989 MDH MEAT CURRY MASALA 100GX60 CTN",
+      "price": 64.16,
+      "image_path": "/uploads/img_xref_291.png",
+      "description": "MDH MEAT CURRY MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1890,
+      "category_id": 307,
+      "name": "12988 MDH MEAT CURRY MASALA 100GX10 SL",
+      "price": 10.69,
+      "image_path": "/uploads/img_xref_291.png",
+      "description": "MDH MEAT CURRY MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1891,
+      "category_id": 307,
+      "name": "12991 MDH PAKORA MASALA 100GX60 CTN",
+      "price": 53.15,
+      "image_path": "/uploads/img_xref_292.png",
+      "description": "MDH PAKORA MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1892,
+      "category_id": 307,
+      "name": "12990 MDH PAKORA MASALA 100GX10 SL",
+      "price": 8.85,
+      "image_path": "/uploads/img_xref_292.png",
+      "description": "MDH PAKORA MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1893,
+      "category_id": 307,
+      "name": "12993 MDH PANI PURI MASALA 100GX60 CTN",
+      "price": 51.53,
+      "image_path": "/uploads/img_xref_293.png",
+      "description": "MDH PANI PURI MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1894,
+      "category_id": 307,
+      "name": "12992 MDH PANI PURI MASALA 100GX10 SL",
+      "price": 8.58,
+      "image_path": "/uploads/img_xref_293.png",
+      "description": "MDH PANI PURI MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1895,
+      "category_id": 307,
+      "name": "31009 MDH PARANTHA MASALA 100GX60 CTN",
+      "price": 50.45,
+      "image_path": "/uploads/img_xref_294.png",
+      "description": "MDH PARANTHA MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1896,
+      "category_id": 307,
+      "name": "31008 MDH PARANTHA MASALA 100GX10 SL",
+      "price": 8.41,
+      "image_path": "/uploads/img_xref_294.png",
+      "description": "MDH PARANTHA MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1897,
+      "category_id": 307,
+      "name": "12995 MDH PAV BHAJI MASALA 100GX60 CTN",
+      "price": 61.35,
+      "image_path": "/uploads/img_xref_298.png",
+      "description": "MDH PAV BHAJI MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1898,
+      "category_id": 307,
+      "name": "12994 MDH PAV BHAJI MASALA 100GX10 SL",
+      "price": 10.22,
+      "image_path": "/uploads/img_xref_298.png",
+      "description": "MDH PAV BHAJI MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1899,
+      "category_id": 307,
+      "name": "31017 MDH PULAO MASALA 50GX60 CTN",
+      "price": 64.8,
+      "image_path": "/uploads/img_xref_299.png",
+      "description": "MDH PULAO MASALA 50GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1900,
+      "category_id": 307,
+      "name": "31016 MDH PULAO MASALA 50GX10 SL",
+      "price": 10.8,
+      "image_path": "/uploads/img_xref_299.png",
+      "description": "MDH PULAO MASALA 50GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1901,
+      "category_id": 307,
+      "name": "12997 MDH RAJMAH MASALA 100GX60 CTN",
+      "price": 60.27,
+      "image_path": "/uploads/img_xref_300.png",
+      "description": "MDH RAJMAH MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1902,
+      "category_id": 307,
+      "name": "12996 MDH RAJMAH MASALA 100GX10 SL",
+      "price": 10.04,
+      "image_path": "/uploads/img_xref_300.png",
+      "description": "MDH RAJMAH MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1903,
+      "category_id": 307,
+      "name": "12999 MDH SABJI MASALA 100GX60 CTN",
+      "price": 54.77,
+      "image_path": "/uploads/img_xref_301.png",
+      "description": "MDH SABJI MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1904,
+      "category_id": 307,
+      "name": "12998 MDH SABJI MASALA 100GX10 SL",
+      "price": 9.12,
+      "image_path": "/uploads/img_xref_301.png",
+      "description": "MDH SABJI MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1905,
+      "category_id": 307,
+      "name": "31001 MDH SAMBAR MASALA 100GX60 CTN",
+      "price": 57.03,
+      "image_path": "/uploads/img_xref_305.png",
+      "description": "MDH SAMBAR MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1906,
+      "category_id": 307,
+      "name": "31000 MDH SAMBAR MASALA 100GX10 SL",
+      "price": 9.5,
+      "image_path": "/uploads/img_xref_305.png",
+      "description": "MDH SAMBAR MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1907,
+      "category_id": 307,
+      "name": "31011 MDH SHAHI PANEER MASALA 100GX60 CTN",
+      "price": 69.01,
+      "image_path": "/uploads/img_xref_306.png",
+      "description": "MDH SHAHI PANEER MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1908,
+      "category_id": 307,
+      "name": "31010 MDH SHAHI PANEER MASALA 100GX10 SL",
+      "price": 11.5,
+      "image_path": "/uploads/img_xref_306.png",
+      "description": "MDH SHAHI PANEER MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1909,
+      "category_id": 307,
+      "name": "13005 MDH SINDHI BIRYANI MASALA 100GX60 CTN",
+      "price": 58.77,
+      "image_path": "/uploads/img_xref_307.png",
+      "description": "MDH SINDHI BIRYANI MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1910,
+      "category_id": 307,
+      "name": "13006 MDH SINDHI BIRYANI MASALA 100GX10 SL",
+      "price": 9.8,
+      "image_path": "/uploads/img_xref_307.png",
+      "description": "MDH SINDHI BIRYANI MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1911,
+      "category_id": 307,
+      "name": "31003 MDH T PLUS TEA MASALA 35GX60 CTN",
+      "price": 50.69,
+      "image_path": "/uploads/img_xref_308.png",
+      "description": "MDH T PLUS TEA MASALA 35GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1912,
+      "category_id": 307,
+      "name": "31002 MDH T PLUS TEA MASALA 35GX10 SL",
+      "price": 8.58,
+      "image_path": "/uploads/img_xref_308.png",
+      "description": "MDH T PLUS TEA MASALA 35GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1913,
+      "category_id": 307,
+      "name": "31005 MDH TANDOORI BBQ MASALA 100GX60 CTN",
+      "price": 65.78,
+      "image_path": "/uploads/img_xref_312.png",
+      "description": "MDH TANDOORI BBQ MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1914,
+      "category_id": 307,
+      "name": "31004 MDH TANDOORI BBQ MASALA 100GX10 SL",
+      "price": 10.96,
+      "image_path": "/uploads/img_xref_312.png",
+      "description": "MDH TANDOORI BBQ MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1915,
+      "category_id": 307,
+      "name": "31007 MDH TAVA FRY MASALA 100GX60 CTN",
+      "price": 57.03,
+      "image_path": "/uploads/img_xref_313.png",
+      "description": "MDH TAVA FRY MASALA 100GX60 CTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1916,
+      "category_id": 307,
+      "name": "31006 MDH TAVA FRY MASALA 100GX10 SL",
+      "price": 9.5,
+      "image_path": "/uploads/img_xref_313.png",
+      "description": "MDH TAVA FRY MASALA 100GX10 SL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1917,
+      "category_id": 308,
+      "name": "20055 DABUR CHYAWANPRASH",
+      "price": 105.94,
+      "image_path": "/uploads/img_xref_317.png",
+      "description": "DABUR CHYAWANPRASH",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1918,
+      "category_id": 308,
+      "name": "20060 DABUR CHYAWANPRASH",
+      "price": 26.48,
+      "image_path": "/uploads/img_xref_317.png",
+      "description": "DABUR CHYAWANPRASH",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1919,
+      "category_id": 308,
+      "name": "20059 DABUR CHYAWANPRASH",
+      "price": 111.66,
+      "image_path": "/uploads/img_xref_319.png",
+      "description": "DABUR CHYAWANPRASH",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1920,
+      "category_id": 308,
+      "name": "20057 DABUR CHYAWANPRASH",
+      "price": 27.92,
+      "image_path": "/uploads/img_xref_319.png",
+      "description": "DABUR CHYAWANPRASH",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1921,
+      "category_id": 308,
+      "name": "20058 DABUR CHYAWANPRASH",
+      "price": 130.47,
+      "image_path": "/uploads/img_xref_318.png",
+      "description": "DABUR CHYAWANPRASH",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1922,
+      "category_id": 308,
+      "name": "20056 DABUR CHYAWANPRASH",
+      "price": 16.31,
+      "image_path": "/uploads/img_xref_318.png",
+      "description": "DABUR CHYAWANPRASH",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1923,
+      "category_id": 308,
+      "name": "20518 DABUR GHEE ORGANIC 850GX4",
+      "price": 84.55,
+      "image_path": "/uploads/img_xref_320.png",
+      "description": "DABUR GHEE ORGANIC 850GX4",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1924,
+      "category_id": 308,
+      "name": "21033 DABUR GHEE ORGANIC 470GX6",
+      "price": 75.68,
+      "image_path": "/uploads/img_xref_321.png",
+      "description": "DABUR GHEE ORGANIC 470GX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1925,
+      "category_id": 308,
+      "name": "21032 DABUR GHEE ORGANIC 230GX6",
+      "price": 43.3,
+      "image_path": "/uploads/img_xref_325.png",
+      "description": "DABUR GHEE ORGANIC 230GX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1926,
+      "category_id": 308,
+      "name": "20084 DABUR HAJMOLA IMLI 120TABX72",
+      "price": 58.22,
+      "image_path": "/uploads/img_xref_325.png",
+      "description": "DABUR HAJMOLA IMLI 120TABX72",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1927,
+      "category_id": 308,
+      "name": "20085 DABUR HAJMOLA IMLI 120TABX12",
+      "price": 9.7,
+      "image_path": "/uploads/img_xref_326.png",
+      "description": "DABUR HAJMOLA IMLI 120TABX12",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1928,
+      "category_id": 308,
+      "name": "20659 DABUR HAJMOLA PUDINA 120TABX72",
+      "price": 58.22,
+      "image_path": "/uploads/img_xref_327.png",
+      "description": "DABUR HAJMOLA PUDINA 120TABX72",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1929,
+      "category_id": 308,
+      "name": "20367 DABUR HAJMOLA PUDINA 120TABX12",
+      "price": 9.7,
+      "image_path": "/uploads/img_xref_327.png",
+      "description": "DABUR HAJMOLA PUDINA 120TABX12",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1930,
+      "category_id": 308,
+      "name": "20098 DABUR HAJMOLA REGULAR 120TABX72",
+      "price": 58.22,
+      "image_path": "/uploads/img_xref_328.png",
+      "description": "DABUR HAJMOLA REGULAR 120TABX72",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1931,
+      "category_id": 308,
+      "name": "20099 DABUR HAJMOLA REGULAR 120TABX12",
+      "price": 9.7,
+      "image_path": "/uploads/img_xref_328.png",
+      "description": "DABUR HAJMOLA REGULAR 120TABX12",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1932,
+      "category_id": 308,
+      "name": "20561 DABUR MUSTARD OIL INDIAN 1LX12",
+      "price": 62.04,
+      "image_path": "/uploads/img_xref_332.png",
+      "description": "DABUR MUSTARD OIL INDIAN 1LX12",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1933,
+      "category_id": 308,
+      "name": "20637 DABUR MUSTARD OIL INDIAN 1LX6",
+      "price": 31.03,
+      "image_path": "/uploads/img_xref_332.png",
+      "description": "DABUR MUSTARD OIL INDIAN 1LX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1934,
+      "category_id": 308,
+      "name": "21004 DABUR MUSTARD OIL INDIAN 475MLX24",
+      "price": 72.1,
+      "image_path": "/uploads/img_xref_333.png",
+      "description": "DABUR MUSTARD OIL INDIAN 475MLX24",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1935,
+      "category_id": 308,
+      "name": "21005 DABUR MUSTARD OIL INDIAN 475MLX6",
+      "price": 18.03,
+      "image_path": "/uploads/img_xref_333.png",
+      "description": "DABUR MUSTARD OIL INDIAN 475MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1936,
+      "category_id": 308,
+      "name": "21003 DABUR MUSTARD OIL INDIAN 250MLX24",
+      "price": 44.99,
+      "image_path": "/uploads/img_xref_334.png",
+      "description": "DABUR MUSTARD OIL INDIAN 250MLX24",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1937,
+      "category_id": 308,
+      "name": "20563 DABUR MUSTARD OIL INDIAN 250MLX6",
+      "price": 11.25,
+      "image_path": "/uploads/img_xref_334.png",
+      "description": "DABUR MUSTARD OIL INDIAN 250MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1938,
+      "category_id": 308,
+      "name": "20136 DABUR SESAME OIL 500MLX24",
+      "price": 58.48,
+      "image_path": "/uploads/img_xref_335.png",
+      "description": "DABUR SESAME OIL 500MLX24",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1939,
+      "category_id": 308,
+      "name": "21006 DABUR SESAME OIL 500 MLX6",
+      "price": 14.55,
+      "image_path": "/uploads/img_xref_335.png",
+      "description": "DABUR SESAME OIL 500 MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1940,
+      "category_id": 308,
+      "name": "20633 DABUR REAL JUICE MANGO 1L X 12",
+      "price": 13.99,
+      "image_path": "/uploads/img_xref_339.png",
+      "description": "DABUR REAL JUICE MANGO 1L X 12",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1941,
+      "category_id": 308,
+      "name": "20631 DABUR REAL JUICE MIX FRUIT 1L X 12",
+      "price": 14.99,
+      "image_path": "/uploads/img_xref_340.png",
+      "description": "DABUR REAL JUICE MIX FRUIT 1L X 12",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1942,
+      "category_id": 308,
+      "name": "20629 DABUR REAL JUICE ORANGE 1L X 12",
+      "price": 13.99,
+      "image_path": "/uploads/img_xref_341.png",
+      "description": "DABUR REAL JUICE ORANGE 1L X 12",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1943,
+      "category_id": 308,
+      "name": "20632 DABUR REAL JUICE POMEGRANATE 1L X 12",
+      "price": 14.99,
+      "image_path": "/uploads/img_xref_342.png",
+      "description": "DABUR REAL JUICE POMEGRANATE 1L X 12",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1944,
+      "category_id": 308,
+      "name": "20053 DABUR AMLA HAIR OIL 300MLX24",
+      "price": 66.87,
+      "image_path": "/uploads/img_xref_342.png",
+      "description": "DABUR AMLA HAIR OIL 300MLX24",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1945,
+      "category_id": 308,
+      "name": "20051 DABUR AMLA HAIR OIL 300MLX6",
+      "price": 16.84,
+      "image_path": "/uploads/img_xref_343.png",
+      "description": "DABUR AMLA HAIR OIL 300MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1946,
+      "category_id": 308,
+      "name": "20052 DABUR AMLA HAIR OIL 200MLX36",
+      "price": 79.36,
+      "image_path": "/uploads/img_xref_344.png",
+      "description": "DABUR AMLA HAIR OIL 200MLX36",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1947,
+      "category_id": 308,
+      "name": "20050 DABUR AMLA HAIR OIL 200MLX6",
+      "price": 13.23,
+      "image_path": "/uploads/img_xref_344.png",
+      "description": "DABUR AMLA HAIR OIL 200MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1948,
+      "category_id": 308,
+      "name": "20071 DABUR AMLA HAIR OIL 100MLX48",
+      "price": 62.82,
+      "image_path": "/uploads/img_xref_348.png",
+      "description": "DABUR AMLA HAIR OIL 100MLX48",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1949,
+      "category_id": 308,
+      "name": "20072 DABUR AMLA HAIR OIL 100MLX6",
+      "price": 7.86,
+      "image_path": "/uploads/img_xref_348.png",
+      "description": "DABUR AMLA HAIR OIL 100MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1950,
+      "category_id": 308,
+      "name": "20110 DABUR AMLA HAIR OIL GOLD 300MLX24",
+      "price": 76.65,
+      "image_path": "/uploads/img_xref_349.png",
+      "description": "DABUR AMLA HAIR OIL GOLD 300MLX24",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1951,
+      "category_id": 308,
+      "name": "20111 DABUR AMLA HAIR OIL GOLD 300MLX6",
+      "price": 12.78,
+      "image_path": "/uploads/img_xref_349.png",
+      "description": "DABUR AMLA HAIR OIL GOLD 300MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1952,
+      "category_id": 308,
+      "name": "21017 DABUR AMLA HAIR OIL GOLD 200MLX36",
+      "price": 91.94,
+      "image_path": "/uploads/img_xref_350.png",
+      "description": "DABUR AMLA HAIR OIL GOLD 200MLX36",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1953,
+      "category_id": 308,
+      "name": "20538 DABUR AMLA HAIR OIL GOLD 200MLX6",
+      "price": 15.31,
+      "image_path": "/uploads/img_xref_350.png",
+      "description": "DABUR AMLA HAIR OIL GOLD 200MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1954,
+      "category_id": 308,
+      "name": "20047 DABUR AMLA HAIR OIL JASMINE 200MLX36",
+      "price": 94.03,
+      "image_path": "/uploads/img_xref_351.png",
+      "description": "DABUR AMLA HAIR OIL JASMINE 200MLX36",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1955,
+      "category_id": 308,
+      "name": "20046 DABUR AMLA HAIR OIL JASMINE 200MLX6",
+      "price": 15.68,
+      "image_path": "/uploads/img_xref_351.png",
+      "description": "DABUR AMLA HAIR OIL JASMINE 200MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1956,
+      "category_id": 308,
+      "name": "20083 DABUR TOOTHPASTE HERBAL ALOE 100MLX72",
+      "price": 140.97,
+      "image_path": "/uploads/img_xref_358.png",
+      "description": "DABUR TOOTHPASTE HERBAL ALOE 100MLX72",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1957,
+      "category_id": 308,
+      "name": "20080 DABUR TOOTHPASTE HERBAL ALOE 100MLX6",
+      "price": 11.74,
+      "image_path": "/uploads/img_xref_358.png",
+      "description": "DABUR TOOTHPASTE HERBAL ALOE 100MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1958,
+      "category_id": 308,
+      "name": "20078 DABUR TOOTHPASTE HERBAL BASIL",
+      "price": 140.99,
+      "image_path": "/uploads/img_xref_357.png",
+      "description": "DABUR TOOTHPASTE HERBAL BASIL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1959,
+      "category_id": 308,
+      "name": "20065 DABUR TOOTHPASTE HERBAL BASIL 100MLX6",
+      "price": 11.74,
+      "image_path": "/uploads/img_xref_357.png",
+      "description": "DABUR TOOTHPASTE HERBAL BASIL 100MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1960,
+      "category_id": 308,
+      "name": "20619 DABUR TOOTHPASTE HERBAL BLKSEED",
+      "price": 140.97,
+      "image_path": "/uploads/img_xref_355.png",
+      "description": "DABUR TOOTHPASTE HERBAL BLKSEED",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1961,
+      "category_id": 308,
+      "name": "20620 DABUR TOOTHPASTE HERBAL BLKSEED",
+      "price": 11.15,
+      "image_path": "/uploads/img_xref_355.png",
+      "description": "DABUR TOOTHPASTE HERBAL BLKSEED",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1962,
+      "category_id": 308,
+      "name": "21034 DABUR TOOTHPASTE HERBAL CHARCOL",
+      "price": 140.97,
+      "image_path": "/uploads/img_xref_356.png",
+      "description": "DABUR TOOTHPASTE HERBAL CHARCOL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1963,
+      "category_id": 308,
+      "name": "20606 DABUR TOOTHPASTE HERBAL CHARCOL",
+      "price": 11.74,
+      "image_path": "/uploads/img_xref_356.png",
+      "description": "DABUR TOOTHPASTE HERBAL CHARCOL",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1964,
+      "category_id": 308,
+      "name": "20045 DABUR TOOTHPASTE HERBAL CLOVE",
+      "price": 140.97,
+      "image_path": "/uploads/img_xref_365.png",
+      "description": "DABUR TOOTHPASTE HERBAL CLOVE",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1965,
+      "category_id": 308,
+      "name": "20044 DABUR TOOTHPASTE HERBAL CLOVE 100MLX6",
+      "price": 11.74,
+      "image_path": "/uploads/img_xref_365.png",
+      "description": "DABUR TOOTHPASTE HERBAL CLOVE 100MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1966,
+      "category_id": 308,
+      "name": "20079 DABUR TOOTHPASTE HERBAL NEEM",
+      "price": 140.97,
+      "image_path": "/uploads/img_xref_364.png",
+      "description": "DABUR TOOTHPASTE HERBAL NEEM",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1967,
+      "category_id": 308,
+      "name": "20064 DABUR TOOTHPASTE HERBAL NEEM 100MLX6",
+      "price": 11.74,
+      "image_path": "/uploads/img_xref_364.png",
+      "description": "DABUR TOOTHPASTE HERBAL NEEM 100MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1968,
+      "category_id": 308,
+      "name": "20088 DABUR TOOTHPASTE MISWAK 100MLX72",
+      "price": 100.6,
+      "image_path": "/uploads/img_xref_363.png",
+      "description": "DABUR TOOTHPASTE MISWAK 100MLX72",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1969,
+      "category_id": 308,
+      "name": "20089 DABUR TOOTHPASTE MISWAK 100MLX6",
+      "price": 8.39,
+      "image_path": "/uploads/img_xref_363.png",
+      "description": "DABUR TOOTHPASTE MISWAK 100MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1970,
+      "category_id": 308,
+      "name": "20665 DABUR TOOTHPASTE MISWAK BLKSEED",
+      "price": 137.75,
+      "image_path": "/uploads/img_xref_362.png",
+      "description": "DABUR TOOTHPASTE MISWAK BLKSEED",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1971,
+      "category_id": 308,
+      "name": "20675 DABUR TOOTHPASTE MISWAK BLKSEED",
+      "price": 11.48,
+      "image_path": "/uploads/img_xref_362.png",
+      "description": "DABUR TOOTHPASTE MISWAK BLKSEED",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1972,
+      "category_id": 308,
+      "name": "20666 DABUR TOOTHPASTE MISWAK WHTN",
+      "price": 137.75,
+      "image_path": "/uploads/img_xref_369.png",
+      "description": "DABUR TOOTHPASTE MISWAK WHTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1973,
+      "category_id": 308,
+      "name": "20676 DABUR TOOTHPASTE MISWAK WHTN",
+      "price": 11.48,
+      "image_path": "/uploads/img_xref_369.png",
+      "description": "DABUR TOOTHPASTE MISWAK WHTN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1974,
+      "category_id": 308,
+      "name": "20132 DABUR TOOTHPASTE PROMISE 100MLX72",
+      "price": 58.88,
+      "image_path": "/uploads/img_xref_370.png",
+      "description": "DABUR TOOTHPASTE PROMISE 100MLX72",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1975,
+      "category_id": 308,
+      "name": "20133 DABUR TOOTHPASTE PROMISE 100MLX6",
+      "price": 5.13,
+      "image_path": "/uploads/img_xref_370.png",
+      "description": "DABUR TOOTHPASTE PROMISE 100MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1976,
+      "category_id": 308,
+      "name": "20101 DABUR TOOTHPASTE RED 200GX36",
+      "price": 84.08,
+      "image_path": "/uploads/img_xref_371.png",
+      "description": "DABUR TOOTHPASTE RED 200GX36",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1977,
+      "category_id": 308,
+      "name": "20102 DABUR TOOTHPASTE RED 200GX6",
+      "price": 14.01,
+      "image_path": "/uploads/img_xref_371.png",
+      "description": "DABUR TOOTHPASTE RED 200GX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1978,
+      "category_id": 308,
+      "name": "20141 DABUR TOOTHPASTE RED 100GX72",
+      "price": 82.47,
+      "image_path": "/uploads/img_xref_371.png",
+      "description": "DABUR TOOTHPASTE RED 100GX72",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1979,
+      "category_id": 308,
+      "name": "20517 DABUR TOOTHPASTE RED 100GX12",
+      "price": 13.75,
+      "image_path": "/uploads/img_xref_371.png",
+      "description": "DABUR TOOTHPASTE RED 100GX12",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1980,
+      "category_id": 308,
+      "name": "20643 DABUR VAT HAIR MASK ARGAN 500GX24",
+      "price": 102.73,
+      "image_path": "/uploads/img_xref_375.png",
+      "description": "DABUR VAT HAIR MASK ARGAN 500GX24",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1981,
+      "category_id": 308,
+      "name": "20549 DABUR VAT HAIR MASK ARGAN 500GX3",
+      "price": 12.84,
+      "image_path": "/uploads/img_xref_375.png",
+      "description": "DABUR VAT HAIR MASK ARGAN 500GX3",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1982,
+      "category_id": 308,
+      "name": "20178 DABUR VAT HAIR MASK BLACKSEED 500GX24",
+      "price": 102.73,
+      "image_path": "/uploads/img_xref_376.png",
+      "description": "DABUR VAT HAIR MASK BLACKSEED 500GX24",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1983,
+      "category_id": 308,
+      "name": "20097 DABUR VAT HAIR MASK BLACKSEED 500GX3",
+      "price": 12.2,
+      "image_path": "/uploads/img_xref_376.png",
+      "description": "DABUR VAT HAIR MASK BLACKSEED 500GX3",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1984,
+      "category_id": 308,
+      "name": "20175 DABUR VAT HAIR MASK CACTUS 500GX24",
+      "price": 102.73,
+      "image_path": "/uploads/img_xref_377.png",
+      "description": "DABUR VAT HAIR MASK CACTUS 500GX24",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1985,
+      "category_id": 308,
+      "name": "20183 DABUR VAT HAIR MASK CACTUS 500GX3",
+      "price": 12.84,
+      "image_path": "/uploads/img_xref_377.png",
+      "description": "DABUR VAT HAIR MASK CACTUS 500GX3",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1986,
+      "category_id": 308,
+      "name": "20176 DABUR VAT HAIR MASK COCONUT CTN 500GX24",
+      "price": 102.73,
+      "image_path": "/uploads/img_xref_378.png",
+      "description": "DABUR VAT HAIR MASK COCONUT CTN 500GX24",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1987,
+      "category_id": 308,
+      "name": "20184 DABUR VAT HAIR MASK COCONUT 500GX3",
+      "price": 12.84,
+      "image_path": "/uploads/img_xref_378.png",
+      "description": "DABUR VAT HAIR MASK COCONUT 500GX3",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1988,
+      "category_id": 308,
+      "name": "20109 DABUR VAT HAIR MASK EGG PROTEIN 500GX24",
+      "price": 102.73,
+      "image_path": "/uploads/img_xref_382.png",
+      "description": "DABUR VAT HAIR MASK EGG PROTEIN 500GX24",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1989,
+      "category_id": 308,
+      "name": "20113 DABUR VAT HAIR MASK EGG PROTEIN 500GX3",
+      "price": 12.84,
+      "image_path": "/uploads/img_xref_382.png",
+      "description": "DABUR VAT HAIR MASK EGG PROTEIN 500GX3",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1990,
+      "category_id": 308,
+      "name": "20068 DABUR VAT HAIR MASK GARLIC CTN 500Gx24",
+      "price": 102.73,
+      "image_path": "/uploads/img_xref_383.png",
+      "description": "DABUR VAT HAIR MASK GARLIC CTN 500Gx24",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1991,
+      "category_id": 308,
+      "name": "20644 DABUR VAT HAIR MASK GARLIC 500GX3",
+      "price": 12.84,
+      "image_path": "/uploads/img_xref_383.png",
+      "description": "DABUR VAT HAIR MASK GARLIC 500GX3",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1992,
+      "category_id": 308,
+      "name": "20107 DABUR VAT HAIR MASK OLIVE CTN 500Gx24",
+      "price": 102.73,
+      "image_path": "/uploads/img_xref_384.png",
+      "description": "DABUR VAT HAIR MASK OLIVE CTN 500Gx24",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1993,
+      "category_id": 308,
+      "name": "20108 DABUR VAT HAIR MASK OLIVE 500GX3",
+      "price": 12.84,
+      "image_path": "/uploads/img_xref_384.png",
+      "description": "DABUR VAT HAIR MASK OLIVE 500GX3",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1994,
+      "category_id": 308,
+      "name": "20125 DABUR VAT HAIR OIL ALMOND 200MLX36",
+      "price": 108.03,
+      "image_path": "/uploads/img_xref_385.png",
+      "description": "DABUR VAT HAIR OIL ALMOND 200MLX36",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1995,
+      "category_id": 308,
+      "name": "20116 DABUR VAT HAIR OIL ALMOND 200MLX6",
+      "price": 18,
+      "image_path": "/uploads/img_xref_385.png",
+      "description": "DABUR VAT HAIR OIL ALMOND 200MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1996,
+      "category_id": 308,
+      "name": "20164 DABUR VAT HAIR OIL ARGAN 200MLX36",
+      "price": 108.03,
+      "image_path": "/uploads/img_xref_389.png",
+      "description": "DABUR VAT HAIR OIL ARGAN 200MLX36",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1997,
+      "category_id": 308,
+      "name": "20165 DABUR VAT HAIR OIL ARGAN 200MLX6",
+      "price": 18,
+      "image_path": "/uploads/img_xref_389.png",
+      "description": "DABUR VAT HAIR OIL ARGAN 200MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1998,
+      "category_id": 308,
+      "name": "20137 DABUR VAT HAIR OIL BLACKSEED EN",
+      "price": 108.03,
+      "image_path": "/uploads/img_xref_390.png",
+      "description": "DABUR VAT HAIR OIL BLACKSEED EN",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 1999,
+      "category_id": 308,
+      "name": "20138 DABUR VAT HAIR OIL BLACKSEED EN 200MLX6",
+      "price": 18,
+      "image_path": "/uploads/img_xref_390.png",
+      "description": "DABUR VAT HAIR OIL BLACKSEED EN 200MLX6",
+      "created_at": "2026-05-21 09:28:37"
+    },
+    {
+      "id": 2000,
+      "category_id": 308,
+      "name": "20039 DABUR VAT HAIR OIL CACTUS 200MLX36",
+      "price": 108.03,
+      "image_path": "/uploads/img_xref_392.png",
+      "description": "DABUR VAT HAIR OIL CACTUS 200MLX36",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2001,
+      "category_id": 308,
+      "name": "20054 DABUR VAT HAIR OIL CACTUS 200MLX6",
+      "price": 18,
+      "image_path": "/uploads/img_xref_392.png",
+      "description": "DABUR VAT HAIR OIL CACTUS 200MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2002,
+      "category_id": 308,
+      "name": "21020 DABUR VAT HAIR OIL CASTOR 200MLX36",
+      "price": 108.03,
+      "image_path": "/uploads/img_xref_391.png",
+      "description": "DABUR VAT HAIR OIL CASTOR 200MLX36",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2003,
+      "category_id": 308,
+      "name": "20539 DABUR VAT HAIR OIL CASTOR 200MLX6",
+      "price": 18,
+      "image_path": "/uploads/img_xref_391.png",
+      "description": "DABUR VAT HAIR OIL CASTOR 200MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2004,
+      "category_id": 308,
+      "name": "20126 DABUR VAT HAIR OIL COCONUT 200MLX36",
+      "price": 108.03,
+      "image_path": "/uploads/img_xref_399.png",
+      "description": "DABUR VAT HAIR OIL COCONUT 200MLX36",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2005,
+      "category_id": 308,
+      "name": "20115 DABUR VAT HAIR OIL COCONUT 200MLX6",
+      "price": 18,
+      "image_path": "/uploads/img_xref_399.png",
+      "description": "DABUR VAT HAIR OIL COCONUT 200MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2006,
+      "category_id": 308,
+      "name": "20361 DABUR VAT HAIR OIL EGG PROTEIN 200MLX36",
+      "price": 108.03,
+      "image_path": "/uploads/img_xref_396.png",
+      "description": "DABUR VAT HAIR OIL EGG PROTEIN 200MLX36",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2007,
+      "category_id": 308,
+      "name": "20362 DABUR VAT HAIR OIL EGG PROTEIN 200MLX6",
+      "price": 18,
+      "image_path": "/uploads/img_xref_396.png",
+      "description": "DABUR VAT HAIR OIL EGG PROTEIN 200MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2008,
+      "category_id": 308,
+      "name": "20172 DABUR VAT HAIR OIL GARLIC 200MLX36",
+      "price": 108.03,
+      "image_path": "/uploads/img_xref_397.png",
+      "description": "DABUR VAT HAIR OIL GARLIC 200MLX36",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2009,
+      "category_id": 308,
+      "name": "20173 DABUR VAT HAIR OIL GARLIC 200MLX6",
+      "price": 18,
+      "image_path": "/uploads/img_xref_397.png",
+      "description": "DABUR VAT HAIR OIL GARLIC 200MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2010,
+      "category_id": 308,
+      "name": "20359 DABUR VAT HAIR OIL HIBISCUS 200MLX36",
+      "price": 108.03,
+      "image_path": "/uploads/img_xref_398.png",
+      "description": "DABUR VAT HAIR OIL HIBISCUS 200MLX36",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2011,
+      "category_id": 308,
+      "name": "20540 DABUR VAT HAIR OIL HIBISCUS 200MLX6",
+      "price": 18,
+      "image_path": "/uploads/img_xref_398.png",
+      "description": "DABUR VAT HAIR OIL HIBISCUS 200MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2012,
+      "category_id": 308,
+      "name": "20610 DABUR VAT HAIR OIL MUSTARD 200MLX36",
+      "price": 108.03,
+      "image_path": "/uploads/img_xref_405.png",
+      "description": "DABUR VAT HAIR OIL MUSTARD 200MLX36",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2013,
+      "category_id": 308,
+      "name": "20541 DABUR VAT HAIR OIL MUSTARD 200MLX6",
+      "price": 18,
+      "image_path": "/uploads/img_xref_405.png",
+      "description": "DABUR VAT HAIR OIL MUSTARD 200MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2014,
+      "category_id": 308,
+      "name": "20119 DABUR VAT HAIR OIL OLIVE 200MLX36",
+      "price": 108.03,
+      "image_path": "/uploads/img_xref_403.png",
+      "description": "DABUR VAT HAIR OIL OLIVE 200MLX36",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2015,
+      "category_id": 308,
+      "name": "20114 DABUR VAT HAIR OIL OLIVE 200MLX6",
+      "price": 18,
+      "image_path": "/uploads/img_xref_403.png",
+      "description": "DABUR VAT HAIR OIL OLIVE 200MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2016,
+      "category_id": 308,
+      "name": "20590 DABUR VAT HAIR OIL RED ONION 200MLX36",
+      "price": 108.03,
+      "image_path": "/uploads/img_xref_404.png",
+      "description": "DABUR VAT HAIR OIL RED ONION 200MLX36",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2017,
+      "category_id": 308,
+      "name": "20589 DABUR VAT HAIR OIL RED ONION 200MLX6",
+      "price": 18,
+      "image_path": "/uploads/img_xref_404.png",
+      "description": "DABUR VAT HAIR OIL RED ONION 200MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2018,
+      "category_id": 308,
+      "name": "20294 DABUR VAT HENNA HAIR COL BLK BRN",
+      "price": 81.23,
+      "image_path": "/uploads/img_xref_406.png",
+      "description": "DABUR VAT HENNA HAIR COL BLK BRN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2019,
+      "category_id": 308,
+      "name": "20585 DABUR VAT HENNA HAIR COL BLK BRN",
+      "price": 20.31,
+      "image_path": "/uploads/img_xref_406.png",
+      "description": "DABUR VAT HENNA HAIR COL BLK BRN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2020,
+      "category_id": 308,
+      "name": "20174 DABUR VAT HENNA HAIR COL BURGUNDY",
+      "price": 81.23,
+      "image_path": "/uploads/img_xref_411.png",
+      "description": "DABUR VAT HENNA HAIR COL BURGUNDY",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2021,
+      "category_id": 308,
+      "name": "20520 DABUR VAT HENNA HAIR COL BURGUNDY",
+      "price": 20.31,
+      "image_path": "/uploads/img_xref_411.png",
+      "description": "DABUR VAT HENNA HAIR COL BURGUNDY",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2022,
+      "category_id": 308,
+      "name": "21011 DABUR VAT HENNA HAIR COL DRK BRN",
+      "price": 81.23,
+      "image_path": "/uploads/img_xref_410.png",
+      "description": "DABUR VAT HENNA HAIR COL DRK BRN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2023,
+      "category_id": 308,
+      "name": "20583 DABUR VAT HENNA HAIR COL DRK BRN",
+      "price": 20.31,
+      "image_path": "/uploads/img_xref_410.png",
+      "description": "DABUR VAT HENNA HAIR COL DRK BRN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2024,
+      "category_id": 308,
+      "name": "21002 DABUR VAT HENNA HAIR COL JET BLK",
+      "price": 81.23,
+      "image_path": "/uploads/img_xref_412.png",
+      "description": "DABUR VAT HENNA HAIR COL JET BLK",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2025,
+      "category_id": 308,
+      "name": "20519 DABUR VAT HENNA HAIR COL JET BLK 60GX6",
+      "price": 20.31,
+      "image_path": "/uploads/img_xref_412.png",
+      "description": "DABUR VAT HENNA HAIR COL JET BLK 60GX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2026,
+      "category_id": 308,
+      "name": "21012 DABUR VAT HENNA HAIR COL NAT BRN",
+      "price": 81.23,
+      "image_path": "/uploads/img_xref_413.png",
+      "description": "DABUR VAT HENNA HAIR COL NAT BRN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2027,
+      "category_id": 308,
+      "name": "20584 DABUR VAT HENNA HAIR COL NAT BRN",
+      "price": 20.31,
+      "image_path": "/uploads/img_xref_413.png",
+      "description": "DABUR VAT HENNA HAIR COL NAT BRN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2028,
+      "category_id": 308,
+      "name": "21001 DABUR VAT HENNA HAIR COL RICH BLK",
+      "price": 81.23,
+      "image_path": "/uploads/img_xref_423.png",
+      "description": "DABUR VAT HENNA HAIR COL RICH BLK",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2029,
+      "category_id": 308,
+      "name": "20523 DABUR VAT HENNA HAIR COL RICH BLK",
+      "price": 20.31,
+      "image_path": "/uploads/img_xref_423.png",
+      "description": "DABUR VAT HENNA HAIR COL RICH BLK",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2030,
+      "category_id": 308,
+      "name": "20476 DABUR VAT SHAMPOO ALMOND 400MLX6",
+      "price": 12.99,
+      "image_path": "/uploads/img_xref_418.png",
+      "description": "DABUR VAT SHAMPOO ALMOND 400MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2031,
+      "category_id": 308,
+      "name": "20529 DABUR VAT SHAMPOO ARGAN 400MLX6",
+      "price": 14.53,
+      "image_path": "/uploads/img_xref_417.png",
+      "description": "DABUR VAT SHAMPOO ARGAN 400MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2032,
+      "category_id": 308,
+      "name": "20591 DABUR VAT SHAMPOO AVOCADO 425MLX6",
+      "price": 15.96,
+      "image_path": "/uploads/img_xref_419.png",
+      "description": "DABUR VAT SHAMPOO AVOCADO 425MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2033,
+      "category_id": 308,
+      "name": "20482 DABUR VAT SHAMPOO BLACKSEED 400MLX6",
+      "price": 14.53,
+      "image_path": "/uploads/img_xref_420.png",
+      "description": "DABUR VAT SHAMPOO BLACKSEED 400MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2034,
+      "category_id": 308,
+      "name": "20480 DABUR VAT SHAMPOO CACTUS 400MLX6",
+      "price": 12.99,
+      "image_path": "/uploads/img_xref_421.png",
+      "description": "DABUR VAT SHAMPOO CACTUS 400MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2035,
+      "category_id": 308,
+      "name": "20545 DABUR VAT SHAMPOO COCONUT 400MLX6",
+      "price": 12.99,
+      "image_path": "/uploads/img_xref_422.png",
+      "description": "DABUR VAT SHAMPOO COCONUT 400MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2036,
+      "category_id": 308,
+      "name": "20544 DABUR VAT SHAMPOO EGG PROTEIN 400MLX6",
+      "price": 12.99,
+      "image_path": "/uploads/img_xref_427.png",
+      "description": "DABUR VAT SHAMPOO EGG PROTEIN 400MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2037,
+      "category_id": 308,
+      "name": "20527 DABUR VAT SHAMPOO GARLIC 400MLX6",
+      "price": 14.53,
+      "image_path": "/uploads/img_xref_428.png",
+      "description": "DABUR VAT SHAMPOO GARLIC 400MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2038,
+      "category_id": 308,
+      "name": "20546 DABUR VAT SHAMPOO HIBISCUS 425MLX6",
+      "price": 15.96,
+      "image_path": "/uploads/img_xref_429.png",
+      "description": "DABUR VAT SHAMPOO HIBISCUS 425MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2039,
+      "category_id": 308,
+      "name": "20542 DABUR VAT SHAMPOO LEMON 400MLX6",
+      "price": 12.99,
+      "image_path": "/uploads/img_xref_430.png",
+      "description": "DABUR VAT SHAMPOO LEMON 400MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2040,
+      "category_id": 308,
+      "name": "20543 DABUR VAT SHAMPOO OLIVE 400MLX6",
+      "price": 12.99,
+      "image_path": "/uploads/img_xref_431.png",
+      "description": "DABUR VAT SHAMPOO OLIVE 400MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2041,
+      "category_id": 308,
+      "name": "20547 DABUR VAT SHAMPOO SHEA BUTTER 425MLX6",
+      "price": 15.96,
+      "image_path": "/uploads/img_xref_432.png",
+      "description": "DABUR VAT SHAMPOO SHEA BUTTER 425MLX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2042,
+      "category_id": 308,
+      "name": "20149 DABUR VAT SOAP DERMO ALMOND CTN",
+      "price": 66.86,
+      "image_path": "/uploads/img_xref_432.png",
+      "description": "DABUR VAT SOAP DERMO ALMOND CTN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2043,
+      "category_id": 308,
+      "name": "20150 DABUR VAT SOAP DERMO ALMOND",
+      "price": 5.58,
+      "image_path": "/uploads/img_xref_433.png",
+      "description": "DABUR VAT SOAP DERMO ALMOND",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2044,
+      "category_id": 308,
+      "name": "20081 DABUR VAT SOAP DERMO ALOEVERA",
+      "price": 66.86,
+      "image_path": "/uploads/img_xref_437.png",
+      "description": "DABUR VAT SOAP DERMO ALOEVERA",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2045,
+      "category_id": 308,
+      "name": "20069 DABUR VAT SOAP DERMO ALOEVERA",
+      "price": 5.58,
+      "image_path": "/uploads/img_xref_437.png",
+      "description": "DABUR VAT SOAP DERMO ALOEVERA",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2046,
+      "category_id": 308,
+      "name": "20147 DABUR VAT SOAP DERMO BLACKSEED CTN",
+      "price": 66.86,
+      "image_path": "/uploads/img_xref_438.png",
+      "description": "DABUR VAT SOAP DERMO BLACKSEED CTN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2047,
+      "category_id": 308,
+      "name": "20148 DABUR VAT SOAP DERMO BLACKSEED",
+      "price": 5.58,
+      "image_path": "/uploads/img_xref_438.png",
+      "description": "DABUR VAT SOAP DERMO BLACKSEED",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2048,
+      "category_id": 308,
+      "name": "20672 DABUR VAT SOAP DERMO CHARCOAL",
+      "price": 66.86,
+      "image_path": "/uploads/img_xref_439.png",
+      "description": "DABUR VAT SOAP DERMO CHARCOAL",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2049,
+      "category_id": 308,
+      "name": "20677 DABUR VAT SOAP DERMO CHARCOAL",
+      "price": 5.58,
+      "image_path": "/uploads/img_xref_439.png",
+      "description": "DABUR VAT SOAP DERMO CHARCOAL",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2050,
+      "category_id": 308,
+      "name": "20082 DABUR VAT SOAP DERMO NEEM 100GX72",
+      "price": 66.86,
+      "image_path": "/uploads/img_xref_440.png",
+      "description": "DABUR VAT SOAP DERMO NEEM 100GX72",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2051,
+      "category_id": 308,
+      "name": "20070 DABUR VAT SOAP DERMO NEEM 100GX6",
+      "price": 5.58,
+      "image_path": "/uploads/img_xref_440.png",
+      "description": "DABUR VAT SOAP DERMO NEEM 100GX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2052,
+      "category_id": 308,
+      "name": "20166 DABUR VAT SOAP DERMO OLIVE 100GX72",
+      "price": 66.86,
+      "image_path": "/uploads/img_xref_444.png",
+      "description": "DABUR VAT SOAP DERMO OLIVE 100GX72",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2053,
+      "category_id": 308,
+      "name": "20167 DABUR VAT SOAP DERMO OLIVE 100GX6",
+      "price": 5.58,
+      "image_path": "/uploads/img_xref_444.png",
+      "description": "DABUR VAT SOAP DERMO OLIVE 100GX6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2054,
+      "category_id": 308,
+      "name": "21016 DABUR VAT SOAP DERMO SANDALWOOD",
+      "price": 66.86,
+      "image_path": "/uploads/img_xref_445.png",
+      "description": "DABUR VAT SOAP DERMO SANDALWOOD",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2055,
+      "category_id": 308,
+      "name": "20562 DABUR VAT SOAP DERMO SANDALWOOD",
+      "price": 5.58,
+      "image_path": "/uploads/img_xref_445.png",
+      "description": "DABUR VAT SOAP DERMO SANDALWOOD",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2056,
+      "category_id": 309,
+      "name": "20502 EMAMI 7OILS BLACKSEED DAM",
+      "price": 12.25,
+      "image_path": "/uploads/img_xref_449.png",
+      "description": "EMAMI 7OILS BLACKSEED DAM",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2057,
+      "category_id": 309,
+      "name": "20504 EMAMI 7OILS CACTUS STRONG HAIR 6X200ML",
+      "price": 12.25,
+      "image_path": "/uploads/img_xref_450.png",
+      "description": "EMAMI 7OILS CACTUS STRONG HAIR 6X200ML",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2058,
+      "category_id": 309,
+      "name": "20506 EMAMI 7OILS SHEA BUTTER N HAIR",
+      "price": 12.25,
+      "image_path": "/uploads/img_xref_451.png",
+      "description": "EMAMI 7OILS SHEA BUTTER N HAIR",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2059,
+      "category_id": 309,
+      "name": "20275 GLOW AND LOVELY CREAM 6X12X50G CTN",
+      "price": 57.51,
+      "image_path": "/uploads/img_xref_451.png",
+      "description": "GLOW AND LOVELY CREAM 6X12X50G CTN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2060,
+      "category_id": 309,
+      "name": "12726 GLOW AND LOVELY CREAM 12X50G",
+      "price": 9.51,
+      "image_path": "/uploads/img_xref_452.png",
+      "description": "GLOW AND LOVELY CREAM 12X50G",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2061,
+      "category_id": 309,
+      "name": "22436 GODREJ CINTHOL DEO COLOGNE SOAP",
+      "price": 39.25,
+      "image_path": "/uploads/img_xref_453.png",
+      "description": "GODREJ CINTHOL DEO COLOGNE SOAP",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2062,
+      "category_id": 309,
+      "name": "22421 GODREJ CINTHOL DEO COLOGNE SOAP 6X125G",
+      "price": 3.3,
+      "image_path": "/uploads/img_xref_453.png",
+      "description": "GODREJ CINTHOL DEO COLOGNE SOAP 6X125G",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2063,
+      "category_id": 309,
+      "name": "22438 GODREJ CINTHOL DEO SPORT SOAP 12X6X125G",
+      "price": 39.25,
+      "image_path": "/uploads/img_xref_457.png",
+      "description": "GODREJ CINTHOL DEO SPORT SOAP 12X6X125G",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2064,
+      "category_id": 309,
+      "name": "22423 GODREJ CINTHOL DEO SPORT SOAP 6X125G",
+      "price": 3.3,
+      "image_path": "/uploads/img_xref_457.png",
+      "description": "GODREJ CINTHOL DEO SPORT SOAP 6X125G",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2065,
+      "category_id": 309,
+      "name": "22437 GODREJ CINTHOL LIME FRESH SOAP 12X6X125G",
+      "price": 39.25,
+      "image_path": "/uploads/img_xref_458.png",
+      "description": "GODREJ CINTHOL LIME FRESH SOAP 12X6X125G",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2066,
+      "category_id": 309,
+      "name": "22422 GODREJ CINTHOL LIME FRESH SOAP 6X125G",
+      "price": 3.3,
+      "image_path": "/uploads/img_xref_458.png",
+      "description": "GODREJ CINTHOL LIME FRESH SOAP 6X125G",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2067,
+      "category_id": 309,
+      "name": "22435 GODREJ CINTHOL ORIGINAL DEO SOAP",
+      "price": 78.92,
+      "image_path": "/uploads/img_xref_459.png",
+      "description": "GODREJ CINTHOL ORIGINAL DEO SOAP",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2068,
+      "category_id": 309,
+      "name": "22420 GODREJ CINTHOL ORIGINAL DEO SOAP",
+      "price": 4.3,
+      "image_path": "/uploads/img_xref_459.png",
+      "description": "GODREJ CINTHOL ORIGINAL DEO SOAP",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2069,
+      "category_id": 309,
+      "name": "22427 GODREJ EXPRT CRÈME HCOL - BLACK BROWN",
+      "price": 69.83,
+      "image_path": "/uploads/img_xref_460.png",
+      "description": "GODREJ EXPRT CRÈME HCOL - BLACK BROWN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2070,
+      "category_id": 309,
+      "name": "22410 GODREJ EXPRTCRÈME HCOL - BLACK BROWN",
+      "price": 11.64,
+      "image_path": "/uploads/img_xref_460.png",
+      "description": "GODREJ EXPRTCRÈME HCOL - BLACK BROWN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2071,
+      "category_id": 309,
+      "name": "22428 GODREJ EXPRT CRÈME HCOL - BURG 24X8X20G",
+      "price": 69.85,
+      "image_path": "/uploads/img_xref_464.png",
+      "description": "GODREJ EXPRT CRÈME HCOL - BURG 24X8X20G",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2072,
+      "category_id": 309,
+      "name": "22411 GODREJ EXPRT CRÈME HCOL - BURG 4X8X20G",
+      "price": 11.64,
+      "image_path": "/uploads/img_xref_464.png",
+      "description": "GODREJ EXPRT CRÈME HCOL - BURG 4X8X20G",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2073,
+      "category_id": 309,
+      "name": "22429 GODREJ EXPRT CRÈME HCOL - DARK BROWN",
+      "price": 69.83,
+      "image_path": "/uploads/img_xref_465.png",
+      "description": "GODREJ EXPRT CRÈME HCOL - DARK BROWN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2074,
+      "category_id": 309,
+      "name": "22412 GODREJ EXPRT CRÈME HCOL - DARK BROWN",
+      "price": 11.64,
+      "image_path": "/uploads/img_xref_465.png",
+      "description": "GODREJ EXPRT CRÈME HCOL - DARK BROWN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2075,
+      "category_id": 309,
+      "name": "22430 GODREJ EXPRT CRÈME HCOL - NATURAL BLACK",
+      "price": 69.83,
+      "image_path": "/uploads/img_xref_466.png",
+      "description": "GODREJ EXPRT CRÈME HCOL - NATURAL BLACK",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2076,
+      "category_id": 309,
+      "name": "22413 GODREJ EXPRT CRÈME HCOL - NATURAL BLACK",
+      "price": 11.64,
+      "image_path": "/uploads/img_xref_466.png",
+      "description": "GODREJ EXPRT CRÈME HCOL - NATURAL BLACK",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2077,
+      "category_id": 309,
+      "name": "22431 GODREJ EX CRM HCOL - NATURAL BROWN",
+      "price": 69.85,
+      "image_path": "/uploads/img_xref_467.png",
+      "description": "GODREJ EX CRM HCOL - NATURAL BROWN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2078,
+      "category_id": 309,
+      "name": "22414 GODREJ EXPRT CRÈME HCOL - NATURAL",
+      "price": 11.64,
+      "image_path": "/uploads/img_xref_467.png",
+      "description": "GODREJ EXPRT CRÈME HCOL - NATURAL",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2079,
+      "category_id": 309,
+      "name": "22439 GODREJ NUPUR HENNA 6X4X500G CTN",
+      "price": 77.31,
+      "image_path": "/uploads/img_xref_471.png",
+      "description": "GODREJ NUPUR HENNA 6X4X500G CTN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2080,
+      "category_id": 309,
+      "name": "22440 GODREJ NUPUR HENNA 4X500G",
+      "price": 12.89,
+      "image_path": "/uploads/img_xref_471.png",
+      "description": "GODREJ NUPUR HENNA 4X500G",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2081,
+      "category_id": 309,
+      "name": "22443 GODREJ NUPUR HENNA 6X12X140G CTN",
+      "price": 81.95,
+      "image_path": "/uploads/img_xref_472.png",
+      "description": "GODREJ NUPUR HENNA 6X12X140G CTN",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2082,
+      "category_id": 309,
+      "name": "22444 GODREJ NUPUR HENNA 12X140G",
+      "price": 13.69,
+      "image_path": "/uploads/img_xref_472.png",
+      "description": "GODREJ NUPUR HENNA 12X140G",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2083,
+      "category_id": 309,
+      "name": "16514 HIMANI AYUCARE NEEM TOOTHPASTE 12X100ML",
+      "price": 10.49,
+      "image_path": "/uploads/img_xref_473.png",
+      "description": "HIMANI AYUCARE NEEM TOOTHPASTE 12X100ML",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2084,
+      "category_id": 309,
+      "name": "20605 HIMANI BOROPLUS SKINCARE CREAM",
+      "price": 8.96,
+      "image_path": "/uploads/img_xref_474.png",
+      "description": "HIMANI BOROPLUS SKINCARE CREAM",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2085,
+      "category_id": 309,
+      "name": "20654 MEDIMEX SOAP CLASSIC 5X125G (30SL=MC)",
+      "price": 3.3,
+      "image_path": "/uploads/img_xref_475.png",
+      "description": "MEDIMEX SOAP CLASSIC 5X125G (30SL=MC)",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2086,
+      "category_id": 309,
+      "name": "20652 MEDIMEX SOAP GLYCERINE",
+      "price": 4.5,
+      "image_path": "/uploads/img_xref_476.png",
+      "description": "MEDIMEX SOAP GLYCERINE",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2087,
+      "category_id": 309,
+      "name": "20656 MEDIMEX SOAP SANDAL 5X125G (36SL=MC)",
+      "price": 3.3,
+      "image_path": "/uploads/img_xref_480.png",
+      "description": "MEDIMEX SOAP SANDAL 5X125G (36SL=MC)",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2088,
+      "category_id": 309,
+      "name": "16438 PARACHUTE COCONUT OIL 1LX20",
+      "price": 108.43,
+      "image_path": "/uploads/img_xref_482.png",
+      "description": "PARACHUTE COCONUT OIL 1LX20",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2089,
+      "category_id": 309,
+      "name": "16428 PARACHUTE COCONUT OIL 500MLX36",
+      "price": 97.59,
+      "image_path": "/uploads/img_xref_482.png",
+      "description": "PARACHUTE COCONUT OIL 500MLX36",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2090,
+      "category_id": 309,
+      "name": "16427 PARACHUTE COCONUT OIL 500MLX12",
+      "price": 32.49,
+      "image_path": "/uploads/img_xref_481.png",
+      "description": "PARACHUTE COCONUT OIL 500MLX12",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2091,
+      "category_id": 309,
+      "name": "16416 PARACHUTE COCONUT OIL 200MLX96",
+      "price": 105.21,
+      "image_path": "/uploads/img_xref_483.png",
+      "description": "PARACHUTE COCONUT OIL 200MLX96",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2092,
+      "category_id": 309,
+      "name": "18196 PARACHUTE COCONUT OIL 200MLX12",
+      "price": 13.15,
+      "image_path": "/uploads/img_xref_483.png",
+      "description": "PARACHUTE COCONUT OIL 200MLX12",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2093,
+      "category_id": 309,
+      "name": "16437 PARACHUTE COCONUT OIL JAR 500MLX40",
+      "price": 108.43,
+      "image_path": "/uploads/img_xref_484.png",
+      "description": "PARACHUTE COCONUT OIL JAR 500MLX40",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2094,
+      "category_id": 309,
+      "name": "16808 PARACHUTE COCONUT OIL JAR 500MLX4",
+      "price": 10.83,
+      "image_path": "/uploads/img_xref_484.png",
+      "description": "PARACHUTE COCONUT OIL JAR 500MLX4",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2095,
+      "category_id": 309,
+      "name": "16435 PARACHUTE COCONUT OIL JAR 200MLX90",
+      "price": 98.64,
+      "image_path": "/uploads/img_xref_488.png",
+      "description": "PARACHUTE COCONUT OIL JAR 200MLX90",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2096,
+      "category_id": 309,
+      "name": "16415 PARACHUTE COCONUT OIL JAR 200MLX10",
+      "price": 10.95,
+      "image_path": "/uploads/img_xref_488.png",
+      "description": "PARACHUTE COCONUT OIL JAR 200MLX10",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2097,
+      "category_id": 309,
+      "name": "832555 PARACHUTE ORG VIRGIN COCONUT OIL",
+      "price": 49.4,
+      "image_path": "/uploads/img_xref_489.png",
+      "description": "PARACHUTE ORG VIRGIN COCONUT OIL",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2098,
+      "category_id": 309,
+      "name": "832543 PARACHUTE ORG VIRGN COCONUT OIL",
+      "price": 52.4,
+      "image_path": "/uploads/img_xref_489.png",
+      "description": "PARACHUTE ORG VIRGN COCONUT OIL",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2099,
+      "category_id": 309,
+      "name": "832544 PARACHUTE ORG VIRGIN COCONUT OIL",
+      "price": 26.2,
+      "image_path": "/uploads/img_xref_490.png",
+      "description": "PARACHUTE ORG VIRGIN COCONUT OIL",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2100,
+      "category_id": 309,
+      "name": "832541 PARACHUTE ORG VIRGN COCONUT OIL",
+      "price": 54.2,
+      "image_path": "/uploads/img_xref_491.png",
+      "description": "PARACHUTE ORG VIRGN COCONUT OIL",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2101,
+      "category_id": 309,
+      "name": "832542 PARACHUTE ORG VIRGIN COCONUT OIL",
+      "price": 13.55,
+      "image_path": "/uploads/img_xref_491.png",
+      "description": "PARACHUTE ORG VIRGIN COCONUT OIL",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2102,
+      "category_id": 310,
+      "name": "24350 JALPUR BESAN FLOUR 2KG X 6",
+      "price": 20.76,
+      "image_path": "/uploads/img_xref_495.png",
+      "description": "JALPUR BESAN FLOUR 2KG X 6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2103,
+      "category_id": 310,
+      "name": "24351 JALPUR BESAN FLOUR 1KG X 12",
+      "price": 21.41,
+      "image_path": "/uploads/img_xref_495.png",
+      "description": "JALPUR BESAN FLOUR 1KG X 12",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2104,
+      "category_id": 310,
+      "name": "24352 JALPUR BESAN FLOUR 500G X 24",
+      "price": 22.05,
+      "image_path": "/uploads/img_xref_495.png",
+      "description": "JALPUR BESAN FLOUR 500G X 24",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2105,
+      "category_id": 310,
+      "name": "24353 JALPUR BAJRI FLOUR 2KG X 6",
+      "price": 20.76,
+      "image_path": "/uploads/img_xref_496.png",
+      "description": "JALPUR BAJRI FLOUR 2KG X 6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2106,
+      "category_id": 310,
+      "name": "24354 JALPUR BAJRI FLOUR 1KG X 12",
+      "price": 21.41,
+      "image_path": "/uploads/img_xref_496.png",
+      "description": "JALPUR BAJRI FLOUR 1KG X 12",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2107,
+      "category_id": 310,
+      "name": "24355 JALPUR BAJRI FLOUR 500G X 24",
+      "price": 21.95,
+      "image_path": "/uploads/img_xref_496.png",
+      "description": "JALPUR BAJRI FLOUR 500G X 24",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2108,
+      "category_id": 310,
+      "name": "24356 JALPUR GOR PAPDI 2KG X 6",
+      "price": 21.73,
+      "image_path": "/uploads/img_xref_497.png",
+      "description": "JALPUR GOR PAPDI 2KG X 6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2109,
+      "category_id": 310,
+      "name": "24357 JALPUR GOR PAPDI 1KG X 12",
+      "price": 22.27,
+      "image_path": "/uploads/img_xref_497.png",
+      "description": "JALPUR GOR PAPDI 1KG X 12",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2110,
+      "category_id": 310,
+      "name": "24358 JALPUR JUWAR FLOUR 2KG X 6",
+      "price": 23.46,
+      "image_path": "/uploads/img_xref_501.png",
+      "description": "JALPUR JUWAR FLOUR 2KG X 6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2111,
+      "category_id": 310,
+      "name": "24359 JALPUR JUWAR FLOUR 1KG X 12",
+      "price": 24,
+      "image_path": "/uploads/img_xref_501.png",
+      "description": "JALPUR JUWAR FLOUR 1KG X 12",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2112,
+      "category_id": 310,
+      "name": "24360 JALPUR JUWAR FLOUR 500G X 24",
+      "price": 24.54,
+      "image_path": "/uploads/img_xref_501.png",
+      "description": "JALPUR JUWAR FLOUR 500G X 24",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2113,
+      "category_id": 310,
+      "name": "24361 JALPUR MAGHAJ FLOUR 1KG X 12",
+      "price": 24,
+      "image_path": "/uploads/img_xref_502.png",
+      "description": "JALPUR MAGHAJ FLOUR 1KG X 12",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2114,
+      "category_id": 310,
+      "name": "24362 JALPUR ONDHWA FLOUR 2KG X 6",
+      "price": 23.68,
+      "image_path": "/uploads/img_xref_503.png",
+      "description": "JALPUR ONDHWA FLOUR 2KG X 6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2115,
+      "category_id": 310,
+      "name": "24363 JALPUR ONDHWA FLOUR 1KG X 12",
+      "price": 24.26,
+      "image_path": "/uploads/img_xref_503.png",
+      "description": "JALPUR ONDHWA FLOUR 1KG X 12",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2116,
+      "category_id": 310,
+      "name": "24364 JALPUR RICE FLOUR 2KG X 6",
+      "price": 20.54,
+      "image_path": "/uploads/img_xref_504.png",
+      "description": "JALPUR RICE FLOUR 2KG X 6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2117,
+      "category_id": 310,
+      "name": "24365 JALPUR RICE FLOUR 1KG X 12",
+      "price": 21.13,
+      "image_path": "/uploads/img_xref_504.png",
+      "description": "JALPUR RICE FLOUR 1KG X 12",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2118,
+      "category_id": 310,
+      "name": "24366 JALPUR DHANA JEERA 1.5KG X 6",
+      "price": 47.3,
+      "image_path": "/uploads/img_xref_508.png",
+      "description": "JALPUR DHANA JEERA 1.5KG X 6",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2119,
+      "category_id": 310,
+      "name": "24367 JALPUR DHANA JEERA 1KG X 8",
+      "price": 42.54,
+      "image_path": "/uploads/img_xref_508.png",
+      "description": "JALPUR DHANA JEERA 1KG X 8",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2120,
+      "category_id": 310,
+      "name": "24368 JALPUR DAL MASALA 175G X 20",
+      "price": 52.43,
+      "image_path": "/uploads/img_xref_509.png",
+      "description": "JALPUR DAL MASALA 175G X 20",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2121,
+      "category_id": 310,
+      "name": "24369 JALPUR GARAM MASALA 175G X 20",
+      "price": 54.97,
+      "image_path": "/uploads/img_xref_510.png",
+      "description": "JALPUR GARAM MASALA 175G X 20",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2122,
+      "category_id": 310,
+      "name": "24370 JALPUR TEA MASALA 175G X 20",
+      "price": 61.51,
+      "image_path": "/uploads/img_xref_511.png",
+      "description": "JALPUR TEA MASALA 175G X 20",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2123,
+      "category_id": 310,
+      "name": "24371 JALPUR RAGGI FLOUR 1KG X 10",
+      "price": 18.38,
+      "image_path": "/uploads/img_xref_512.png",
+      "description": "JALPUR RAGGI FLOUR 1KG X 10",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2124,
+      "category_id": 310,
+      "name": "24372 JALPUR CORN FLOUR 1KG X 10",
+      "price": 11.88,
+      "image_path": "/uploads/img_xref_513.png",
+      "description": "JALPUR CORN FLOUR 1KG X 10",
+      "created_at": "2026-05-21 09:28:38"
+    },
+    {
+      "id": 2125,
+      "category_id": 311,
+      "name": "paracetamol",
+      "price": 5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-21 10:42:45"
+    }
+  ],
+  "customers": [],
+  "orders": [
+    {
+      "id": 1,
+      "customer_name": "Test",
+      "customer_email": "vikkydubey@gmail.com",
+      "customer_phone": "07436693729",
+      "total_price": 164.7,
+      "status": "cancelled",
+      "notes": "",
+      "created_at": "2026-05-21 08:03:57",
+      "updated_at": "2026-05-21 09:12:08"
+    },
+    {
+      "id": 2,
+      "customer_name": "John Smith",
+      "customer_email": "john.smith@email.com",
+      "customer_phone": "+44-7911-123456",
+      "total_price": 9.51,
+      "status": "pending",
+      "notes": "",
+      "created_at": "2026-05-21 09:57:57",
+      "updated_at": "2026-05-21 09:57:57"
+    },
+    {
+      "id": 3,
+      "customer_name": "prashant",
+      "customer_email": "vikkydubey@gmail.com",
+      "customer_phone": "07436693729",
+      "total_price": 74.48,
+      "status": "completed",
+      "notes": "",
+      "created_at": "2026-05-21 10:56:54",
+      "updated_at": "2026-05-21 10:58:22"
+    }
+  ],
+  "orderItems": [
+    {
+      "id": 1,
+      "order_id": 1,
+      "item_id": 640,
+      "quantity": 6,
+      "price": 26
+    },
+    {
+      "id": 2,
+      "order_id": 1,
+      "item_id": 641,
+      "quantity": 6,
+      "price": 1.45
+    },
+    {
+      "id": 3,
+      "order_id": 2,
+      "item_id": 2060,
+      "quantity": 1,
+      "price": 9.51
+    },
+    {
+      "id": 4,
+      "order_id": 3,
+      "item_id": 2120,
+      "quantity": 1,
+      "price": 52.43
+    },
+    {
+      "id": 5,
+      "order_id": 3,
+      "item_id": 2104,
+      "quantity": 1,
+      "price": 22.05
+    },
+    {
+      "id": 6,
+      "order_id": 4,
+      "item_id": 2060,
+      "quantity": 3,
+      "price": 9.51
+    }
+  ]
+}
