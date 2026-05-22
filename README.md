@@ -205,6 +205,17 @@ The frontend will run on `http://localhost:3000`
 
 5. **Enable HTTPS** for secure data transmission
 
+## Railway Data Persistence (Important)
+
+If you are deploying on Railway with SQLite, configure a persistent volume and set `DATABASE_PATH`.
+
+1. In Railway service settings, attach a persistent volume and mount it at `/data`.
+2. In Railway Variables, set:
+   - `DATABASE_PATH=/data/orders.db`
+3. Redeploy once after setting this.
+
+Without this, SQLite uses container filesystem and data can reset on restart/redeploy.
+
 ## Tips
 
 - Use the PDF order sheet to extract categories and items data

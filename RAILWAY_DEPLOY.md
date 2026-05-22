@@ -65,6 +65,13 @@ PORT=3001
 DATABASE_PATH=/data/orders.db
 ```
 
+### Required for SQLite persistence
+1. Open your Railway service.
+2. Go to the Volumes tab and add a volume.
+3. Mount path: `/data`
+4. In Variables, set `DATABASE_PATH=/data/orders.db`
+5. Redeploy the service.
+
 ---
 
 ## Project Structure for Railway
@@ -111,8 +118,8 @@ After successful deployment:
 ## Database Persistence
 
 ### Current Setup (SQLite in Container)
-- Database resets on container restart
-- Good for testing/demo
+- If `DATABASE_PATH` is not set to a mounted volume, data can reset on restart/redeploy
+- Good for testing/demo only
 
 ### For Production (Optional)
 Add a PostgreSQL plugin in Railway Dashboard:
