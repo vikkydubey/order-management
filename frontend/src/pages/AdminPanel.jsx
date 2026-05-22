@@ -13,6 +13,11 @@ function AdminPanel({ onViewOrder }) {
   const [loading, setLoading] = useState(true);
 
   // Form states
+  // Search states
+  const [categorySearch, setCategorySearch] = useState('');
+  const [itemSearch, setItemSearch] = useState('');
+
+  // Form states
   const [newCategory, setNewCategory] = useState('');
   const [newItem, setNewItem] = useState({
     name: '',
@@ -21,6 +26,14 @@ function AdminPanel({ onViewOrder }) {
     description: ''
   });
   const [itemImage, setItemImage] = useState(null);
+  const [editingItemId, setEditingItemId] = useState(null);
+  const [editItem, setEditItem] = useState({
+    name: '',
+    price: '',
+    category_id: '',
+    description: ''
+  });
+  const [editItemImage, setEditItemImage] = useState(null);
   const [newCustomer, setNewCustomer] = useState({
     name: '',
     email: '',
@@ -33,6 +46,7 @@ function AdminPanel({ onViewOrder }) {
     } else if (activeTab === 'categories') {
       fetchCategories();
     } else if (activeTab === 'items') {
+      fetchCategories();
       fetchItems();
     } else if (activeTab === 'customers') {
       fetchCustomers();
@@ -157,11 +171,65 @@ function AdminPanel({ onViewOrder }) {
 
     try {
       await axios.delete(`/api/admin/items/${itemId}`);
+      if (editingItemId === itemId) {
+        handleCancelEditItem();
+      }
       fetchItems();
       alert('Item deleted');
     } catch (error) {
       console.error('Error deleting item:', error);
       alert('Error deleting item');
+    }
+  };
+
+  const handleStartEditItem = (item) => {
+    setEditingItemId(item.id);
+    setEditItem({
+      name: item.name || '',
+      price: item.price || '',
+      category_id: String(item.category_id || ''),
+      description: item.description || ''
+    });
+    setEditItemImage(null);
+  };
+
+  const handleCancelEditItem = () => {
+    setEditingItemId(null);
+    setEditItem({ name: '', price: '', category_id: '', description: '' });
+    setEditItemImage(null);
+  };
+
+  const handleUpdateItem = async (e) => {
+    e.preventDefault();
+    if (!editingItemId) {
+      return;
+    }
+
+    if (!editItem.name || !editItem.price || !editItem.category_id) {
+      alert('Please fill in all required fields');
+      return;
+    }
+
+    try {
+      const formData = new FormData();
+      formData.append('name', editItem.name);
+      formData.append('price', editItem.price);
+      formData.append('category_id', editItem.category_id);
+      formData.append('description', editItem.description);
+      if (editItemImage) {
+        formData.append('image', editItemImage);
+      }
+
+      await axios.put(`/api/admin/items/${editingItemId}`, formData, {
+        headers: { 'Content-Type': 'multipart/form-data' }
+      });
+
+      handleCancelEditItem();
+      fetchItems();
+      alert('Item updated successfully');
+    } catch (error) {
+      console.error('Error updating item:', error);
+      alert('Error updating item');
     }
   };
 
@@ -208,6 +276,22 @@ function AdminPanel({ onViewOrder }) {
       fetchCustomers();
       alert('Customer deleted');
     }
+  };
+
+  const getFilteredCategories = () => {
+    if (!categorySearch.trim()) return categories;
+    const q = categorySearch.toLowerCase();
+    return categories.filter(c => c.name.toLowerCase().includes(q));
+  };
+
+  const getFilteredItems = () => {
+    if (!itemSearch.trim()) return items;
+    const q = itemSearch.toLowerCase();
+    return items.filter(item =>
+      item.name.toLowerCase().includes(q) ||
+      (item.category_name && item.category_name.toLowerCase().includes(q)) ||
+      (item.description && item.description.toLowerCase().includes(q))
+    );
   };
 
   const handleViewOrder = (orderId) => {
@@ -339,11 +423,26 @@ function AdminPanel({ onViewOrder }) {
             <button type="submit">Add Category</button>
           </form>
 
+          <div className="admin-search-bar">
+            <input
+              type="text"
+              value={categorySearch}
+              onChange={(e) => setCategorySearch(e.target.value)}
+              placeholder="Search categories..."
+              className="admin-search-input"
+            />
+            {categorySearch && (
+              <button className="clear-search" onClick={() => setCategorySearch('')}>✕</button>
+            )}
+          </div>
+
           <div className="categories-list">
             {categories.length === 0 ? (
               <p className="no-data">No categories yet</p>
+            ) : getFilteredCategories().length === 0 ? (
+              <p className="no-data">No categories matching "{categorySearch}"</p>
             ) : (
-              categories.map(category => (
+              getFilteredCategories().map(category => (
                 <div key={category.id} className="category-item">
                   <div>
                     <h4>{category.name}</h4>
@@ -425,11 +524,26 @@ function AdminPanel({ onViewOrder }) {
             <button type="submit">Add Item</button>
           </form>
 
+          <div className="admin-search-bar">
+            <input
+              type="text"
+              value={itemSearch}
+              onChange={(e) => setItemSearch(e.target.value)}
+              placeholder="Search items by name, category or description..."
+              className="admin-search-input"
+            />
+            {itemSearch && (
+              <button className="clear-search" onClick={() => setItemSearch('')}>✕</button>
+            )}
+          </div>
+
           <div className="items-list">
             {items.length === 0 ? (
               <p className="no-data">No items yet</p>
+            ) : getFilteredItems().length === 0 ? (
+              <p className="no-data">No items matching "{itemSearch}"</p>
             ) : (
-              items.map(item => (
+              getFilteredItems().map(item => (
                 <div key={item.id} className="item-item">
                   {item.image_path && (
                     <img src={getImageUrl(item.image_path)} alt={item.name} className="item-thumb" />
@@ -440,12 +554,83 @@ function AdminPanel({ onViewOrder }) {
                     <p><strong>Price:</strong> £{item.price}</p>
                     {item.description && <p>{item.description}</p>}
                   </div>
-                  <button 
-                    className="danger"
-                    onClick={() => handleDeleteItem(item.id)}
-                  >
-                    Delete
-                  </button>
+                  <div className="item-actions">
+                    <button
+                      className="secondary"
+                      onClick={() => handleStartEditItem(item)}
+                    >
+                      Edit
+                    </button>
+                    <button
+                      className="danger"
+                      onClick={() => handleDeleteItem(item.id)}
+                    >
+                      Delete
+                    </button>
+                  </div>
+
+                  {editingItemId === item.id && (
+                    <form onSubmit={handleUpdateItem} className="edit-item-form">
+                      <div className="form-row">
+                        <div className="form-group">
+                          <label>Item Name *</label>
+                          <input
+                            type="text"
+                            value={editItem.name}
+                            onChange={(e) => setEditItem({ ...editItem, name: e.target.value })}
+                            required
+                          />
+                        </div>
+                        <div className="form-group">
+                          <label>Price *</label>
+                          <input
+                            type="number"
+                            step="0.01"
+                            value={editItem.price}
+                            onChange={(e) => setEditItem({ ...editItem, price: e.target.value })}
+                            required
+                          />
+                        </div>
+                        <div className="form-group">
+                          <label>Category *</label>
+                          <select
+                            value={editItem.category_id}
+                            onChange={(e) => setEditItem({ ...editItem, category_id: e.target.value })}
+                            required
+                          >
+                            <option value="">Select category</option>
+                            {categories.map(cat => (
+                              <option key={cat.id} value={cat.id}>{cat.name}</option>
+                            ))}
+                          </select>
+                        </div>
+                      </div>
+                      <div className="form-row">
+                        <div className="form-group">
+                          <label>Description</label>
+                          <textarea
+                            value={editItem.description}
+                            onChange={(e) => setEditItem({ ...editItem, description: e.target.value })}
+                            rows="2"
+                          ></textarea>
+                        </div>
+                        <div className="form-group">
+                          <label>Replace Image</label>
+                          <input
+                            type="file"
+                            accept="image/*"
+                            onChange={(e) => setEditItemImage(e.target.files[0])}
+                          />
+                        </div>
+                      </div>
+                      <div className="edit-item-actions">
+                        <button type="submit">Save Changes</button>
+                        <button type="button" className="secondary" onClick={handleCancelEditItem}>
+                          Cancel
+                        </button>
+                      </div>
+                    </form>
+                  )}
                 </div>
               ))
             )}

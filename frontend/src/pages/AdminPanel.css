@@ -61,6 +61,44 @@
   padding: 30px;
 }
 
+.admin-search-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.admin-search-input {
+  flex: 1;
+  padding: 9px 14px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 14px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.admin-search-input:focus {
+  border-color: #4a90e2;
+  box-shadow: 0 0 0 2px rgba(74, 144, 226, 0.15);
+}
+
+.clear-search {
+  background: none;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 8px 12px;
+  cursor: pointer;
+  color: #666;
+  font-size: 13px;
+  line-height: 1;
+}
+
+.clear-search:hover {
+  background: #f5f5f5;
+  color: #333;
+}
+
 /* Orders Header with filter */
 .orders-header {
   display: flex;
@@ -272,6 +310,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
   padding: 15px;
   border: 1px solid #ddd;
   border-radius: 8px;
@@ -309,6 +348,24 @@
 
 .item-item button {
   flex-shrink: 0;
+}
+
+.item-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.edit-item-form {
+  width: 100%;
+  margin-top: 5px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 15px;
+}
+
+.edit-item-actions {
+  display: flex;
+  gap: 10px;
 }
 
 @media (max-width: 1024px) {
@@ -352,6 +409,16 @@
   .item-item {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .item-actions,
+  .edit-item-actions {
+    width: 100%;
+  }
+
+  .item-actions button,
+  .edit-item-actions button {
+    flex: 1;
   }
 
   .orders-table {
