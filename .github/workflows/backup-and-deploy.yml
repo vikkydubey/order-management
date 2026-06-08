@@ -1,0 +1,58 @@
+name: Backup Then Deploy Railway
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  backup-production-db:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install backend deps
+        run: npm ci --prefix backend
+
+      - name: Create backup folder
+        run: mkdir -p backend/backups
+
+      - name: Backup production database
+        env:
+          DATABASE_URL: ${{ secrets.PRODUCTION_DATABASE_URL }}
+        run: |
+          if [ -z "$DATABASE_URL" ]; then
+            echo "Missing secret: PRODUCTION_DATABASE_URL"
+            exit 1
+          fi
+          npm run backup:db --prefix backend -- backend/backups/prod-backup-${{ github.ref_name }}-${{ github.sha }}.json
+
+      - name: Upload backup artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: prod-db-backup-${{ github.run_number }}
+          path: backend/backups/*.json
+          retention-days: 30
+
+  deploy-to-railway:
+    runs-on: ubuntu-latest
+    needs: backup-production-db
+    steps:
+      - name: Trigger Railway deploy hook
+        env:
+          RAILWAY_DEPLOY_HOOK_URL: ${{ secrets.RAILWAY_DEPLOY_HOOK_URL }}
+        run: |
+          if [ -z "$RAILWAY_DEPLOY_HOOK_URL" ]; then
+            echo "Missing secret: RAILWAY_DEPLOY_HOOK_URL"
+            exit 1
+          fi
+          curl -fsS -X POST "$RAILWAY_DEPLOY_HOOK_URL"
+          echo "Railway deployment triggered after successful backup."

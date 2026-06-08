@@ -36,10 +36,14 @@ export async function seedDatabase() {
 
     console.log(`Seeding database: ${categories.length} categories, ${items.length} items...`);
 
-  // Insert categories (preserve original IDs)
+    const isPostgres = db.engine === 'postgres';
+
+    // Insert categories (preserve original IDs)
   for (const c of categories) {
     await db.run(
-      'INSERT OR IGNORE INTO categories (id, name, description, created_at) VALUES (?, ?, ?, ?)',
+      isPostgres
+        ? 'INSERT INTO categories (id, name, description, created_at) VALUES (?, ?, ?, ?) ON CONFLICT (id) DO NOTHING'
+        : 'INSERT OR IGNORE INTO categories (id, name, description, created_at) VALUES (?, ?, ?, ?)',
       [c.id, c.name, c.description, c.created_at]
     );
   }
@@ -47,7 +51,9 @@ export async function seedDatabase() {
   // Insert items (preserve original IDs)
   for (const item of items) {
     await db.run(
-      'INSERT OR IGNORE INTO items (id, category_id, name, price, image_path, description, created_at) VALUES (?, ?, ?, ?, ?, ?, ?)',
+      isPostgres
+        ? 'INSERT INTO items (id, category_id, name, price, image_path, description, created_at) VALUES (?, ?, ?, ?, ?, ?, ?) ON CONFLICT (id) DO NOTHING'
+        : 'INSERT OR IGNORE INTO items (id, category_id, name, price, image_path, description, created_at) VALUES (?, ?, ?, ?, ?, ?, ?)',
       [item.id, item.category_id, item.name, item.price, item.image_path, item.description, item.created_at]
     );
   }
@@ -55,7 +61,9 @@ export async function seedDatabase() {
   // Insert customers
   for (const c of customers) {
     await db.run(
-      'INSERT OR IGNORE INTO customers (id, name, email, phone, created_at) VALUES (?, ?, ?, ?, ?)',
+      isPostgres
+        ? 'INSERT INTO customers (id, name, email, phone, created_at) VALUES (?, ?, ?, ?, ?) ON CONFLICT (id) DO NOTHING'
+        : 'INSERT OR IGNORE INTO customers (id, name, email, phone, created_at) VALUES (?, ?, ?, ?, ?)',
       [c.id, c.name, c.email, c.phone, c.created_at]
     );
   }
@@ -63,7 +71,9 @@ export async function seedDatabase() {
   // Insert orders
   for (const o of orders) {
     await db.run(
-      'INSERT OR IGNORE INTO orders (id, customer_name, customer_email, customer_phone, total_price, status, notes, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)',
+      isPostgres
+        ? 'INSERT INTO orders (id, customer_name, customer_email, customer_phone, total_price, status, notes, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?) ON CONFLICT (id) DO NOTHING'
+        : 'INSERT OR IGNORE INTO orders (id, customer_name, customer_email, customer_phone, total_price, status, notes, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)',
       [o.id, o.customer_name, o.customer_email, o.customer_phone, o.total_price, o.status, o.notes, o.created_at, o.updated_at]
     );
   }
@@ -71,10 +81,16 @@ export async function seedDatabase() {
   // Insert order items
   for (const oi of orderItems) {
     await db.run(
-      'INSERT OR IGNORE INTO order_items (id, order_id, item_id, quantity, price) VALUES (?, ?, ?, ?, ?)',
+      isPostgres
+        ? 'INSERT INTO order_items (id, order_id, item_id, quantity, price) VALUES (?, ?, ?, ?, ?) ON CONFLICT (id) DO NOTHING'
+        : 'INSERT OR IGNORE INTO order_items (id, order_id, item_id, quantity, price) VALUES (?, ?, ?, ?, ?)',
       [oi.id, oi.order_id, oi.item_id, oi.quantity, oi.price]
     );
   }
+
+    if (db.engine === 'postgres' && typeof db.syncIdentitySequences === 'function') {
+      await db.syncIdentitySequences(['categories', 'items', 'customers', 'orders', 'order_items']);
+    }
 
     console.log(`Seeded: ${categories.length} categories, ${items.length} items, ${orders.length} orders`);
   } catch (err) {

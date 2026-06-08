@@ -207,14 +207,41 @@ The frontend will run on `http://localhost:3000`
 
 ## Railway Data Persistence (Important)
 
-If you are deploying on Railway with SQLite, configure a persistent volume and set `DATABASE_PATH`.
+This app supports two database modes:
 
-1. In Railway service settings, attach a persistent volume and mount it at `/data`.
-2. In Railway Variables, set:
-   - `DATABASE_PATH=/data/orders.db`
-3. Redeploy once after setting this.
+1. PostgreSQL (recommended for production)
+   - Set `DATABASE_URL` in Railway variables.
+   - Example: `postgresql://user:password@host/database?sslmode=require`
+   - Data persists across deploys/restarts.
 
-Without this, SQLite uses container filesystem and data can reset on restart/redeploy.
+2. SQLite (local/dev fallback)
+   - If using SQLite on Railway, configure a persistent volume and set `DATABASE_PATH`.
+   - In Railway service settings, attach volume at `/data`.
+   - Set `DATABASE_PATH=/data/orders.db`.
+   - Without a mounted volume, SQLite data can reset on restart/redeploy.
+
+## Automated Backup Before Deploy (GitHub Actions)
+
+This repository includes a workflow at [\.github/workflows/backup-and-deploy.yml](.github/workflows/backup-and-deploy.yml) that:
+
+1. Runs on push to main/master.
+2. Backs up production DB to JSON using [backend/backup_db.js](backend/backup_db.js).
+3. Uploads the backup as a GitHub Actions artifact.
+4. Triggers Railway deploy only after backup succeeds.
+
+Setup steps:
+
+1. In GitHub repo settings, add secret PRODUCTION_DATABASE_URL with your Neon production connection string.
+2. In Railway service settings, create a Deploy Hook URL.
+3. In GitHub repo settings, add secret RAILWAY_DEPLOY_HOOK_URL with that hook.
+4. Disable Railway auto-deploy on push, so deployment happens only through this workflow.
+
+Restore when needed:
+
+1. Download the backup artifact JSON from the workflow run.
+2. Set DATABASE_URL to production DB.
+3. Run:
+   npm run restore:db --prefix backend -- ./path-to-backup.json
 
 ## Tips
 

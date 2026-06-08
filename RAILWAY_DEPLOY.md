@@ -59,13 +59,18 @@ NODE_ENV=production
 PORT=3001
 ```
 
-### Optional
+### Recommended (Persistent Database)
+```
+DATABASE_URL=postgresql://<user>:<password>@<host>/<db>?sslmode=require
+```
+
+### Optional (SQLite only)
 ```
 # Database path (defaults to SQLite in container)
 DATABASE_PATH=/data/orders.db
 ```
 
-### Required for SQLite persistence
+### Required for SQLite persistence (only if using volume)
 1. Open your Railway service.
 2. Go to the Volumes tab and add a volume.
 3. Mount path: `/data`
@@ -117,16 +122,16 @@ After successful deployment:
 
 ## Database Persistence
 
-### Current Setup (SQLite in Container)
+### Current Setup (PostgreSQL via DATABASE_URL)
+- Recommended for free tier when Railway volume is unavailable
+- Data persists across deploys/restarts
+
+### SQLite in Container
 - If `DATABASE_PATH` is not set to a mounted volume, data can reset on restart/redeploy
 - Good for testing/demo only
 
-### For Production (Optional)
-Add a PostgreSQL plugin in Railway Dashboard:
-1. Click "Create" in your Railway project
-2. Select "PostgreSQL"
-3. Railway automatically injects `DATABASE_URL`
-4. Update `backend/database.js` to use PostgreSQL
+### For Production
+Use any managed PostgreSQL (Railway plugin, Neon, Supabase, etc.) and set `DATABASE_URL`.
 
 ---
 

@@ -1,24 +1,6 @@
 {
   "categories": [
     {
-      "id": 299,
-      "name": "RICE & FLOUR",
-      "description": null,
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 300,
-      "name": "SCHANI",
-      "description": null,
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 301,
-      "name": "SNACKS",
-      "description": null,
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
       "id": 302,
       "name": "DRINKS",
       "description": null,
@@ -27,12 +9,6 @@
     {
       "id": 303,
       "name": "PATANJALI",
-      "description": null,
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 304,
-      "name": "MARIO",
       "description": null,
       "created_at": "2026-05-21 09:28:36"
     },
@@ -49,34 +25,166 @@
       "created_at": "2026-05-21 09:28:36"
     },
     {
-      "id": 307,
-      "name": "MDH",
-      "description": null,
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 308,
-      "name": "DABUR",
-      "description": null,
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
       "id": 309,
       "name": "COSMETICS",
       "description": null,
       "created_at": "2026-05-21 09:28:38"
     },
     {
-      "id": 310,
-      "name": "JALPUR",
+      "id": 312,
+      "name": "BALAJI",
       "description": null,
-      "created_at": "2026-05-21 09:28:38"
+      "created_at": "2026-05-25 14:11:19"
     },
     {
-      "id": 311,
-      "name": "medicine",
+      "id": 313,
+      "name": "ASHOKA",
       "description": null,
-      "created_at": "2026-05-21 10:41:45"
+      "created_at": "2026-05-25 14:11:32"
+    },
+    {
+      "id": 314,
+      "name": "BAIDHYANATH",
+      "description": null,
+      "created_at": "2026-05-25 14:11:50"
+    },
+    {
+      "id": 315,
+      "name": "BRITANNIA",
+      "description": null,
+      "created_at": "2026-05-25 14:12:09"
+    },
+    {
+      "id": 317,
+      "name": "CHINGS",
+      "description": null,
+      "created_at": "2026-05-25 14:12:55"
+    },
+    {
+      "id": 318,
+      "name": "CHITALE BANDHU",
+      "description": null,
+      "created_at": "2026-05-25 14:13:27"
+    },
+    {
+      "id": 319,
+      "name": "EURO",
+      "description": null,
+      "created_at": "2026-05-25 14:13:34"
+    },
+    {
+      "id": 320,
+      "name": "FORTUNE",
+      "description": null,
+      "created_at": "2026-05-25 14:13:47"
+    },
+    {
+      "id": 322,
+      "name": "GOPAL",
+      "description": null,
+      "created_at": "2026-05-25 14:14:14"
+    },
+    {
+      "id": 323,
+      "name": "HALDIRAM",
+      "description": null,
+      "created_at": "2026-05-25 14:14:38"
+    },
+    {
+      "id": 325,
+      "name": "KURKURE & LAYS",
+      "description": null,
+      "created_at": "2026-05-25 14:15:30"
+    },
+    {
+      "id": 326,
+      "name": "CHHEDA,KAILAS,LAXMINARAYAN,POP MAK",
+      "description": null,
+      "created_at": "2026-05-25 14:16:42"
+    },
+    {
+      "id": 327,
+      "name": "KARACHI",
+      "description": null,
+      "created_at": "2026-05-25 14:17:07"
+    },
+    {
+      "id": 328,
+      "name": "JABSONS",
+      "description": null,
+      "created_at": "2026-05-25 14:17:13"
+    },
+    {
+      "id": 329,
+      "name": "KIRTIRAJ",
+      "description": null,
+      "created_at": "2026-05-25 14:17:29"
+    },
+    {
+      "id": 330,
+      "name": "GANESH & KATDARE",
+      "description": null,
+      "created_at": "2026-05-25 14:17:52"
+    },
+    {
+      "id": 331,
+      "name": "PARLE",
+      "description": null,
+      "created_at": "2026-05-25 14:18:39"
+    },
+    {
+      "id": 332,
+      "name": "RAJU",
+      "description": null,
+      "created_at": "2026-05-25 14:19:03"
+    },
+    {
+      "id": 333,
+      "name": "REAL",
+      "description": null,
+      "created_at": "2026-05-25 14:19:09"
+    },
+    {
+      "id": 334,
+      "name": "RASOI MAGIC",
+      "description": null,
+      "created_at": "2026-05-25 14:19:25"
+    },
+    {
+      "id": 335,
+      "name": "SOHUM",
+      "description": null,
+      "created_at": "2026-05-25 14:19:51"
+    },
+    {
+      "id": 337,
+      "name": "TALOD",
+      "description": null,
+      "created_at": "2026-05-25 14:20:13"
+    },
+    {
+      "id": 338,
+      "name": "VIDHYA & MOMS",
+      "description": null,
+      "created_at": "2026-05-25 14:20:38"
+    },
+    {
+      "id": 339,
+      "name": "SWAD & WAHLUFT",
+      "description": null,
+      "created_at": "2026-05-25 14:21:13"
+    },
+    {
+      "id": 341,
+      "name": "CHOCOLATES ",
+      "description": null,
+      "created_at": "2026-05-25 16:59:06"
+    },
+    {
+      "id": 342,
+      "name": "MAGGI",
+      "description": null,
+      "created_at": "2026-05-25 17:47:36"
     }
   ],
   "items": [
@@ -99,51 +207,6 @@
       "created_at": "2026-05-21 09:28:36"
     },
     {
-      "id": 1632,
-      "category_id": 299,
-      "name": "10620 BEGUM BASMATI RICE 20KG",
-      "price": 29,
-      "image_path": "/uploads/img_xref_8001.png",
-      "description": "BEGUM BASMATI RICE 20KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1633,
-      "category_id": 299,
-      "name": "10619 BEGUM BASMATI RICE 5KG",
-      "price": 8,
-      "image_path": "/uploads/img_xref_8002.png",
-      "description": "BEGUM BASMATI RICE 5KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1634,
-      "category_id": 299,
-      "name": "10610 HASINA EXTRA LONG BASMATI RICE 20KG",
-      "price": 25.75,
-      "image_path": "/uploads/img_xref_8003.png",
-      "description": "HASINA EXTRA LONG BASMATI RICE 20KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1635,
-      "category_id": 299,
-      "name": "10611 HASINA EXTRA LONG BASMATI RICE 10KG",
-      "price": 12.99,
-      "image_path": "/uploads/img_xref_8004.png",
-      "description": "HASINA EXTRA LONG BASMATI RICE 10KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1636,
-      "category_id": 299,
-      "name": "10612 HASINA EXTRA LONG BASMATI RICE 5KG",
-      "price": 6.99,
-      "image_path": "/uploads/img_xref_8005.png",
-      "description": "HASINA EXTRA LONG BASMATI RICE 5KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
       "id": 1637,
       "category_id": 299,
       "name": "21079 HEER CHAKKI ATTA (INDIAN WHEAT) 10KG",
@@ -159,132 +222,6 @@
       "price": 4.99,
       "image_path": "/uploads/img_xref_10.png",
       "description": "HEER CHAKKI ATTA (INDIAN WHEAT) 5KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1639,
-      "category_id": 299,
-      "name": "10601 HEER EASY COOK SELLA RICE 20KG",
-      "price": 26.5,
-      "image_path": "/uploads/img_xref_8.png",
-      "description": "HEER EASY COOK SELLA RICE 20KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1640,
-      "category_id": 299,
-      "name": "10602 HEER EASY COOK SELLA RICE 10KG",
-      "price": 13.25,
-      "image_path": "/uploads/img_xref_7.png",
-      "description": "HEER EASY COOK SELLA RICE 10KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1641,
-      "category_id": 299,
-      "name": "10603 HEER EASY COOK SELLA RICE 5KG",
-      "price": 6.65,
-      "image_path": "/uploads/img_xref_9.png",
-      "description": "HEER EASY COOK SELLA RICE 5KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1642,
-      "category_id": 299,
-      "name": "10624 HEER EXTRA LONG BASMATI RICE 20KG",
-      "price": 29.99,
-      "image_path": "/uploads/img_xref_3.png",
-      "description": "HEER EXTRA LONG BASMATI RICE 20KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1643,
-      "category_id": 299,
-      "name": "10625 HEER EXTRA LONG BASMATI RICE 10KG",
-      "price": 16.5,
-      "image_path": "/uploads/img_xref_4.png",
-      "description": "HEER EXTRA LONG BASMATI RICE 10KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1644,
-      "category_id": 299,
-      "name": "10626 HEER EXTRA LONG BASMATI RICE 5 KG",
-      "price": 8.5,
-      "image_path": "/uploads/img_xref_5.png",
-      "description": "HEER EXTRA LONG BASMATI RICE 5 KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1645,
-      "category_id": 299,
-      "name": "10604 HEER EXTRA LONG BASMATI RICE 6X1KG",
-      "price": 13.5,
-      "image_path": "/uploads/img_xref_6.png",
-      "description": "HEER EXTRA LONG BASMATI RICE 6X1KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1646,
-      "category_id": 299,
-      "name": "10627 HEER GOLDEN SELLA RICE 20KG",
-      "price": 27,
-      "image_path": "/uploads/img_xref_18.png",
-      "description": "HEER GOLDEN SELLA RICE 20KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1647,
-      "category_id": 299,
-      "name": "10628 HEER GOLDEN SELLA RICE 10KG",
-      "price": 13.5,
-      "image_path": "/uploads/img_xref_19.png",
-      "description": "HEER GOLDEN SELLA RICE 10KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1648,
-      "category_id": 299,
-      "name": "10629 HEER GOLDEN SELLA RICE 5KG",
-      "price": 6.75,
-      "image_path": "/uploads/img_xref_17.png",
-      "description": "HEER GOLDEN SELLA RICE 5KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1649,
-      "category_id": 299,
-      "name": "10772 HEER ORIGINAL BASMATI RICE 20KG",
-      "price": 30.5,
-      "image_path": "/uploads/img_xref_20.png",
-      "description": "HEER ORIGINAL BASMATI RICE 20KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1650,
-      "category_id": 299,
-      "name": "10778 HEER ORIGINAL BASMATI RICE 5 KG",
-      "price": 7.65,
-      "image_path": "/uploads/img_xref_16.png",
-      "description": "HEER ORIGINAL BASMATI RICE 5 KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1651,
-      "category_id": 299,
-      "name": "10764 HEER SONA MASOORI RICE 10KG",
-      "price": 12,
-      "image_path": "/uploads/img_xref_15.png",
-      "description": "HEER SONA MASOORI RICE 10KG",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1652,
-      "category_id": 299,
-      "name": "10763 HEER SONA MASOORI RICE 5 KG",
-      "price": 6.25,
-      "image_path": "/uploads/img_xref_14.png",
-      "description": "HEER SONA MASOORI RICE 5 KG",
       "created_at": "2026-05-21 09:28:36"
     },
     {
@@ -528,15 +465,6 @@
       "price": 26,
       "image_path": "/uploads/img_xref_54.png",
       "description": "SCHANI PHOOL MAKHANA 20X50G",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1680,
-      "category_id": 300,
-      "name": "00308 SCHANI RED(MASOOR DAL) 1 X 25KG",
-      "price": 26,
-      "image_path": "/uploads/img_xref_59.png",
-      "description": "SCHANI RED(MASOOR DAL) 1 X 25KG",
       "created_at": "2026-05-21 09:28:36"
     },
     {
@@ -884,19 +812,10 @@
     {
       "id": 1719,
       "category_id": 303,
-      "name": "20758 PATANJALI COW GHEE 1KG X 12",
-      "price": 134.99,
+      "name": "PATANJALI COW GHEE 1KG X 12",
+      "price": 120,
       "image_path": "/uploads/img_xref_113.png",
       "description": "PATANJALI COW GHEE 1KG X 12",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1720,
-      "category_id": 303,
-      "name": "20756 PATANJALI COW GHEE 500G X 12",
-      "price": 70.49,
-      "image_path": "/uploads/img_xref_111.png",
-      "description": "PATANJALI COW GHEE 500G X 12",
       "created_at": "2026-05-21 09:28:36"
     },
     {
@@ -920,10 +839,10 @@
     {
       "id": 1723,
       "category_id": 303,
-      "name": "20752 PATANJALI JUICE AMLA 500ML X 24",
+      "name": "PATANJALI JUICE AMLA 1LTR*12",
       "price": 31.49,
       "image_path": "/uploads/img_xref_119.png",
-      "description": "PATANJALI JUICE AMLA 500ML X 24",
+      "description": "PATANJALI JUICE AMLA 1LTR*12",
       "created_at": "2026-05-21 09:28:36"
     },
     {
@@ -942,15 +861,6 @@
       "price": 15.75,
       "image_path": "/uploads/img_xref_120.png",
       "description": "PATANJALI JUICE ARJUN AMLA 500ML X 12",
-      "created_at": "2026-05-21 09:28:36"
-    },
-    {
-      "id": 1726,
-      "category_id": 303,
-      "name": "20762 PATANJALI MUSTARD OIL 1L X 12",
-      "price": 43.3,
-      "image_path": "/uploads/img_xref_121.png",
-      "description": "PATANJALI MUSTARD OIL 1L X 12",
       "created_at": "2026-05-21 09:28:36"
     },
     {
@@ -1746,60 +1656,6 @@
       "created_at": "2026-05-21 09:28:37"
     },
     {
-      "id": 1815,
-      "category_id": 307,
-      "name": "12967 MDH AMCHUR POWDER 100GX60 CTN",
-      "price": 64.8,
-      "image_path": "/uploads/img_xref_224.png",
-      "description": "MDH AMCHUR POWDER 100GX60 CTN",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1816,
-      "category_id": 307,
-      "name": "12966 MDH AMCHUR POWDER 100GX10 SL",
-      "price": 10.8,
-      "image_path": "/uploads/img_xref_224.png",
-      "description": "MDH AMCHUR POWDER 100GX10 SL",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1817,
-      "category_id": 307,
-      "name": "12951 MDH ANARDANA POWDER 100GX60 CTN",
-      "price": 93.6,
-      "image_path": "/uploads/img_xref_228.png",
-      "description": "MDH ANARDANA POWDER 100GX60 CTN",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1818,
-      "category_id": 307,
-      "name": "12950 MDH ANARDANA POWDER 100GX10 SL",
-      "price": 15.6,
-      "image_path": "/uploads/img_xref_228.png",
-      "description": "MDH ANARDANA POWDER 100GX10 SL",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1819,
-      "category_id": 307,
-      "name": "12962 MDH ARHAR DAL MASALA 100GX60 CTN",
-      "price": 47.64,
-      "image_path": "/uploads/img_xref_229.png",
-      "description": "MDH ARHAR DAL MASALA 100GX60 CTN",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1820,
-      "category_id": 307,
-      "name": "12961 MDH ARHAR DAL MASALA 100GX10 SL",
-      "price": 7.93,
-      "image_path": "/uploads/img_xref_229.png",
-      "description": "MDH ARHAR DAL MASALA 100GX10 SL",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
       "id": 1821,
       "category_id": 307,
       "name": "12977 MDH BAINGEN BHARTAA MASALA",
@@ -1833,24 +1689,6 @@
       "price": 10.04,
       "image_path": "/uploads/img_xref_231.png",
       "description": "MDH BOMBAY BIRYANI MASALA 100GX10 SL",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1825,
-      "category_id": 307,
-      "name": "12969 MDH BUTTER CHICKEN MASALA 100GX60 CTN",
-      "price": 69.01,
-      "image_path": "/uploads/img_xref_235.png",
-      "description": "MDH BUTTER CHICKEN MASALA 100GX60 CTN",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1826,
-      "category_id": 307,
-      "name": "12968 MDH BUTTER CHICKEN MASALA 100GX10 SL",
-      "price": 11.5,
-      "image_path": "/uploads/img_xref_235.png",
-      "description": "MDH BUTTER CHICKEN MASALA 100GX10 SL",
       "created_at": "2026-05-21 09:28:37"
     },
     {
@@ -1890,24 +1728,6 @@
       "created_at": "2026-05-21 09:28:37"
     },
     {
-      "id": 1831,
-      "category_id": 307,
-      "name": "12955 MDH CHANA MASALA 100GX60 CTN",
-      "price": 60.27,
-      "image_path": "/uploads/img_xref_237.png",
-      "description": "MDH CHANA MASALA 100GX60 CTN",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1832,
-      "category_id": 307,
-      "name": "12954 MDH CHANA MASALA 100GX10 SL",
-      "price": 10.04,
-      "image_path": "/uploads/img_xref_237.png",
-      "description": "MDH CHANA MASALA 100GX10 SL",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
       "id": 1833,
       "category_id": 307,
       "name": "13025 MDH CHICKEN CURRY MASALA 500GX24 CTN",
@@ -1926,24 +1746,6 @@
       "created_at": "2026-05-21 09:28:37"
     },
     {
-      "id": 1835,
-      "category_id": 307,
-      "name": "12959 MDH CHICKEN CURRY MASALA 100GX60 CTN",
-      "price": 60.27,
-      "image_path": "/uploads/img_xref_243.png",
-      "description": "MDH CHICKEN CURRY MASALA 100GX60 CTN",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1836,
-      "category_id": 307,
-      "name": "12958 MDH CHICKEN CURRY MASALA 100GX10 SL",
-      "price": 10.04,
-      "image_path": "/uploads/img_xref_243.png",
-      "description": "MDH CHICKEN CURRY MASALA 100GX10 SL",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
       "id": 1837,
       "category_id": 307,
       "name": "13019 MDH CHUNKY CHAT MASALA 500GX24 CTN",
@@ -1959,60 +1761,6 @@
       "price": 18.67,
       "image_path": "/uploads/img_xref_244.png",
       "description": "MDH CHUNKY CHAT MASALA 500GX4 SL",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1839,
-      "category_id": 307,
-      "name": "12963 MDH CHUNKY CHAT MASALA 100GX60 CTN",
-      "price": 57.6,
-      "image_path": "/uploads/img_xref_245.png",
-      "description": "MDH CHUNKY CHAT MASALA 100GX60 CTN",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1840,
-      "category_id": 307,
-      "name": "12960 MDH CHUNKY CHAT MASALA 100GX10 SL",
-      "price": 9.6,
-      "image_path": "/uploads/img_xref_245.png",
-      "description": "MDH CHUNKY CHAT MASALA 100GX10 SL",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1841,
-      "category_id": 307,
-      "name": "12957 MDH CHUTNEY PODINA MASALA 100GX60 CTN",
-      "price": 54.77,
-      "image_path": "/uploads/img_xref_249.png",
-      "description": "MDH CHUTNEY PODINA MASALA 100GX60 CTN",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1842,
-      "category_id": 307,
-      "name": "12956 MDH CHUTNEY PODINA MASALA 100GX10 SL",
-      "price": 9.12,
-      "image_path": "/uploads/img_xref_249.png",
-      "description": "MDH CHUTNEY PODINA MASALA 100GX10 SL",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1843,
-      "category_id": 307,
-      "name": "12965 MDH DAHIVADA RAITA MASALA 100GX60 CTN",
-      "price": 63.51,
-      "image_path": "/uploads/img_xref_250.png",
-      "description": "MDH DAHIVADA RAITA MASALA 100GX60 CTN",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1844,
-      "category_id": 307,
-      "name": "12964 MDH DAHIVADA RAITA MASALA 100GX10 SL",
-      "price": 10.58,
-      "image_path": "/uploads/img_xref_250.png",
-      "description": "MDH DAHIVADA RAITA MASALA 100GX10 SL",
       "created_at": "2026-05-21 09:28:37"
     },
     {
@@ -2076,15 +1824,6 @@
       "price": 54.77,
       "image_path": "/uploads/img_xref_257.png",
       "description": "MDH FISH CURRY MASALA 100GX60 CTN",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1852,
-      "category_id": 307,
-      "name": "12970 MDH FISH CURRY MASALA 100GX10 SL",
-      "price": 9.12,
-      "image_path": "/uploads/img_xref_257.png",
-      "description": "MDH FISH CURRY MASALA 100GX10 SL",
       "created_at": "2026-05-21 09:28:37"
     },
     {
@@ -2157,24 +1896,6 @@
       "price": 7.89,
       "image_path": "/uploads/img_xref_263.png",
       "description": "MDH HENNA POWDER 500GX4 SL",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1861,
-      "category_id": 307,
-      "name": "12953 MDH HYDERABADI BIRYANI MASALA",
-      "price": 63,
-      "image_path": "/uploads/img_xref_264.png",
-      "description": "MDH HYDERABADI BIRYANI MASALA",
-      "created_at": "2026-05-21 09:28:37"
-    },
-    {
-      "id": 1862,
-      "category_id": 307,
-      "name": "12952 MDH HYDERABADI BIRYANI MASALA",
-      "price": 10.5,
-      "image_path": "/uploads/img_xref_264.png",
-      "description": "MDH HYDERABADI BIRYANI MASALA",
       "created_at": "2026-05-21 09:28:37"
     },
     {
@@ -4543,6 +4264,2598 @@
       "image_path": null,
       "description": "",
       "created_at": "2026-05-21 10:42:45"
+    },
+    {
+      "id": 2126,
+      "category_id": 312,
+      "name": "BALAJI MASALA MASTI 150GM*24",
+      "price": 22,
+      "image_path": "/uploads/1779719031248.png",
+      "description": "",
+      "created_at": "2026-05-25 14:23:51"
+    },
+    {
+      "id": 2127,
+      "category_id": 312,
+      "name": "BALAJI MASALA MASTI 45GM*48",
+      "price": 18,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:24:19"
+    },
+    {
+      "id": 2128,
+      "category_id": 312,
+      "name": "BALAJI SIMPLY SALTED 150GM*24",
+      "price": 22,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:24:40"
+    },
+    {
+      "id": 2129,
+      "category_id": 312,
+      "name": "BALAJI SIMPLY SALTED 45GM*48",
+      "price": 18,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:36:52"
+    },
+    {
+      "id": 2130,
+      "category_id": 312,
+      "name": "BALAJI CHAT CHASKA 135GM*24",
+      "price": 22,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:37:28"
+    },
+    {
+      "id": 2131,
+      "category_id": 312,
+      "name": "BALAJI CHAT CHASKA 45GM*48",
+      "price": 18,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:37:53"
+    },
+    {
+      "id": 2132,
+      "category_id": 312,
+      "name": "BALAJI TOMATO TWIST 135GM*24",
+      "price": 22,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:38:20"
+    },
+    {
+      "id": 2133,
+      "category_id": 312,
+      "name": "BALAJI TOMATO TWIST 45GM*48",
+      "price": 18,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:38:45"
+    },
+    {
+      "id": 2134,
+      "category_id": 312,
+      "name": "BALAJI CRUNCHEX SIMPLY SALTED 135GM*24",
+      "price": 22,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:39:29"
+    },
+    {
+      "id": 2135,
+      "category_id": 312,
+      "name": "BALAJI RUMBLE MINT TWIST 135GM*24",
+      "price": 22,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:40:04"
+    },
+    {
+      "id": 2136,
+      "category_id": 312,
+      "name": "BALAJI BANANA MAST MARI 1+1 150GM*24",
+      "price": 36,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:41:07"
+    },
+    {
+      "id": 2137,
+      "category_id": 312,
+      "name": "BALAJI BANANA MAST MASALA 1+1 150GM*24",
+      "price": 36,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:42:13"
+    },
+    {
+      "id": 2138,
+      "category_id": 312,
+      "name": "BALAJI CHATAKA PATAKA MASALA MASTI 65GM*80",
+      "price": 36,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:43:41"
+    },
+    {
+      "id": 2139,
+      "category_id": 312,
+      "name": "BALAJI CHATAKA PATAKA FLAMING HOT 65GM*80",
+      "price": 36,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:44:18"
+    },
+    {
+      "id": 2140,
+      "category_id": 312,
+      "name": "BALAJI CHATAKA PATAKA TANGI TOMATO 65GM*80",
+      "price": 36,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:44:49"
+    },
+    {
+      "id": 2141,
+      "category_id": 312,
+      "name": "BALAJI POP RING 65GM*48",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:45:28"
+    },
+    {
+      "id": 2142,
+      "category_id": 312,
+      "name": "BALAJI WHEELOS 55GM*48",
+      "price": 26.4,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:45:55"
+    },
+    {
+      "id": 2143,
+      "category_id": 312,
+      "name": "BALAJI FLAMING HOT NACHOS 140GM*24",
+      "price": 21.6,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:46:24"
+    },
+    {
+      "id": 2144,
+      "category_id": 312,
+      "name": "BALAJI CHANA DAL 400GM*10",
+      "price": 16.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:46:46"
+    },
+    {
+      "id": 2145,
+      "category_id": 312,
+      "name": "BALAJI CHANADAL 200GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:47:13"
+    },
+    {
+      "id": 2146,
+      "category_id": 312,
+      "name": "BALAJI CHANA DAL 65GM*60",
+      "price": 27,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:47:45"
+    },
+    {
+      "id": 2147,
+      "category_id": 312,
+      "name": "BALAJI MUNG DAL 400GM*10",
+      "price": 16.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:48:04"
+    },
+    {
+      "id": 2148,
+      "category_id": 312,
+      "name": "BALAJI MUNG DAL 200GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:48:49"
+    },
+    {
+      "id": 2149,
+      "category_id": 312,
+      "name": "BALAJI MUNG DAL 55GM*60",
+      "price": 27,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:49:38"
+    },
+    {
+      "id": 2150,
+      "category_id": 312,
+      "name": "BALAJI FARALI CHEVDO 400GM*10",
+      "price": 15.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:50:22"
+    },
+    {
+      "id": 2151,
+      "category_id": 312,
+      "name": "BALAJI FARALI CHEVDO 190GMS*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:50:47"
+    },
+    {
+      "id": 2152,
+      "category_id": 312,
+      "name": "BALAJI TIKHA MITHA MIX 400GM*10",
+      "price": 15.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:51:14"
+    },
+    {
+      "id": 2153,
+      "category_id": 312,
+      "name": "BALAJI TIKHA MITHA MIX 190GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:51:32"
+    },
+    {
+      "id": 2154,
+      "category_id": 312,
+      "name": "BALAJI FARALI CHENDO 60GM*40",
+      "price": 18,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:52:08"
+    },
+    {
+      "id": 2155,
+      "category_id": 312,
+      "name": "BALAJI TIKHA MITHA MIX 70GM*40",
+      "price": 18,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:52:35"
+    },
+    {
+      "id": 2156,
+      "category_id": 312,
+      "name": "BALAJI KHATTA MITHA MIX 400GM*10",
+      "price": 15.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:53:04"
+    },
+    {
+      "id": 2157,
+      "category_id": 312,
+      "name": "BALAJI RATLAMI SEV 400GM*10",
+      "price": 15.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:53:22"
+    },
+    {
+      "id": 2158,
+      "category_id": 312,
+      "name": "BALAJI RATLAMI SEV 190GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:53:42"
+    },
+    {
+      "id": 2159,
+      "category_id": 312,
+      "name": "BALAJI RATLAMI SEV 70GM*40",
+      "price": 18,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:54:06"
+    },
+    {
+      "id": 2160,
+      "category_id": 312,
+      "name": "BALAJI ALOO SEV 400GM*10",
+      "price": 15.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:54:21"
+    },
+    {
+      "id": 2161,
+      "category_id": 312,
+      "name": "BALAJI ALOO SEV 190GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:54:41"
+    },
+    {
+      "id": 2162,
+      "category_id": 312,
+      "name": "BALAJI ALOO SEV 60GM*40",
+      "price": 18,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:54:56"
+    },
+    {
+      "id": 2163,
+      "category_id": 312,
+      "name": "BALAJI NUM YAM BHUJIA SEV 400GM*10",
+      "price": 15.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:55:25"
+    },
+    {
+      "id": 2164,
+      "category_id": 312,
+      "name": "BALAJI NUM YAM BHATAKANI 350GM*10",
+      "price": 15.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:55:48"
+    },
+    {
+      "id": 2165,
+      "category_id": 312,
+      "name": "BALAJI CLASSIC SEV 400GM*10",
+      "price": 15.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:56:04"
+    },
+    {
+      "id": 2166,
+      "category_id": 312,
+      "name": "BALAJI GATHIYA 300GM*10",
+      "price": 15,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:56:29"
+    },
+    {
+      "id": 2167,
+      "category_id": 312,
+      "name": "BALAJI SEV MUMRA 250GM*12",
+      "price": 15,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:56:47"
+    },
+    {
+      "id": 2168,
+      "category_id": 312,
+      "name": "BALAJI MASALA SEV MUMRA 250GM*12",
+      "price": 15,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:57:39"
+    },
+    {
+      "id": 2169,
+      "category_id": 312,
+      "name": "BALAJI BHEL MIX 250GM*12",
+      "price": 15,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:57:58"
+    },
+    {
+      "id": 2170,
+      "category_id": 312,
+      "name": "BALAJI CHANA JOR GARAM 250GM*16",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:58:28"
+    },
+    {
+      "id": 2171,
+      "category_id": 312,
+      "name": "BALAJI KHAKHRA METHI 200GM*20",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:59:03"
+    },
+    {
+      "id": 2172,
+      "category_id": 312,
+      "name": "BALAJI KHAKHRA JEERA 200GM*20",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:59:23"
+    },
+    {
+      "id": 2173,
+      "category_id": 312,
+      "name": "BALAJI KHAKHRA MASALA 200GM*20",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 14:59:46"
+    },
+    {
+      "id": 2174,
+      "category_id": 312,
+      "name": "BALAJI KHAKHRA PLAIN 200GM*20",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:00:05"
+    },
+    {
+      "id": 2175,
+      "category_id": 312,
+      "name": "BALAJI SING BHUJIA 400GM*10",
+      "price": 17.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:00:27"
+    },
+    {
+      "id": 2176,
+      "category_id": 312,
+      "name": "BALAJI SING BHUJIA 210GM*20",
+      "price": 25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:01:16"
+    },
+    {
+      "id": 2177,
+      "category_id": 312,
+      "name": "BALAJI SING BHUJIA *120",
+      "price": 36,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:01:56"
+    },
+    {
+      "id": 2178,
+      "category_id": 312,
+      "name": "BALAJI MASALA SING 45GM*180",
+      "price": 55,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:02:32"
+    },
+    {
+      "id": 2179,
+      "category_id": 312,
+      "name": "BALAJI CREAM AND ONION *24",
+      "price": 23,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:03:26"
+    },
+    {
+      "id": 2180,
+      "category_id": 312,
+      "name": "BALAJI CHILLI TADKA *24",
+      "price": 23,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:03:41"
+    },
+    {
+      "id": 2181,
+      "category_id": 312,
+      "name": "BALAJI KATAK BATAK *120",
+      "price": 48,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:04:15"
+    },
+    {
+      "id": 2182,
+      "category_id": 333,
+      "name": "REAL KHARI PLAIN 200GM*24",
+      "price": 28.8,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:05:06"
+    },
+    {
+      "id": 2183,
+      "category_id": 333,
+      "name": "REAL KHARI JEERA 200GM*24",
+      "price": 28.8,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:05:25"
+    },
+    {
+      "id": 2184,
+      "category_id": 333,
+      "name": "REAL KHARI MASALA 200GM*24",
+      "price": 28.8,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:05:41"
+    },
+    {
+      "id": 2185,
+      "category_id": 333,
+      "name": "REAL KHARI METHI 200GM*24",
+      "price": 28.8,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:05:57"
+    },
+    {
+      "id": 2186,
+      "category_id": 333,
+      "name": "REAL SING BHUJIA 400GM*20",
+      "price": 22,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:06:15"
+    },
+    {
+      "id": 2187,
+      "category_id": 333,
+      "name": "REAL FRALAI TIKHA 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:06:38"
+    },
+    {
+      "id": 2188,
+      "category_id": 333,
+      "name": "REAL FARALI MITHA 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:07:08"
+    },
+    {
+      "id": 2189,
+      "category_id": 333,
+      "name": "REAL ALOO SEV 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:07:23"
+    },
+    {
+      "id": 2190,
+      "category_id": 333,
+      "name": "REAL BHAVNAGARI GATHIYA 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:07:40"
+    },
+    {
+      "id": 2191,
+      "category_id": 333,
+      "name": "REAL BHEL MIX 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:07:53"
+    },
+    {
+      "id": 2192,
+      "category_id": 333,
+      "name": "REAL BIKANARI SEV 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:08:09"
+    },
+    {
+      "id": 2193,
+      "category_id": 333,
+      "name": "REAL BOONDI PLAIN 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:08:25"
+    },
+    {
+      "id": 2194,
+      "category_id": 333,
+      "name": "REAL BOONDI MASALA 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:08:59"
+    },
+    {
+      "id": 2195,
+      "category_id": 333,
+      "name": "REAL CHANA DAL 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:09:17"
+    },
+    {
+      "id": 2196,
+      "category_id": 333,
+      "name": "REAL CHANA JOR GARAM 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:09:32"
+    },
+    {
+      "id": 2197,
+      "category_id": 333,
+      "name": "REAL CLASSIC SEV 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:09:48"
+    },
+    {
+      "id": 2198,
+      "category_id": 333,
+      "name": "REAL INDORI MIX 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:10:02"
+    },
+    {
+      "id": 2199,
+      "category_id": 333,
+      "name": "REAL INDORI MIX 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:10:02"
+    },
+    {
+      "id": 2200,
+      "category_id": 333,
+      "name": "REAL KHATTA MITHA 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:10:22"
+    },
+    {
+      "id": 2201,
+      "category_id": 333,
+      "name": "REAL MASALA SEV MUMRA 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:10:37"
+    },
+    {
+      "id": 2202,
+      "category_id": 333,
+      "name": "REAL MUNG DAL 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:10:50"
+    },
+    {
+      "id": 2203,
+      "category_id": 333,
+      "name": "REAL SEV MUMRA 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:11:04"
+    },
+    {
+      "id": 2204,
+      "category_id": 333,
+      "name": "REAL NADIYADI MIX 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:11:22"
+    },
+    {
+      "id": 2205,
+      "category_id": 333,
+      "name": "REAL PAPAD CHAVANU 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:11:43"
+    },
+    {
+      "id": 2206,
+      "category_id": 333,
+      "name": "REAL TIKHA MIX 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:12:26"
+    },
+    {
+      "id": 2207,
+      "category_id": 333,
+      "name": "REAL RATLAMI SEV 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:12:43"
+    },
+    {
+      "id": 2208,
+      "category_id": 333,
+      "name": "REAL SURATI MIX 400GM*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:12:59"
+    },
+    {
+      "id": 2209,
+      "category_id": 333,
+      "name": "REAL SOYA STICK 200GM*20",
+      "price": 21.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:13:31"
+    },
+    {
+      "id": 2210,
+      "category_id": 333,
+      "name": "REAL SOYA CHIPS 200GM*20",
+      "price": 21.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:13:49"
+    },
+    {
+      "id": 2211,
+      "category_id": 333,
+      "name": "REAL ROLL VANILA *8",
+      "price": 6,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:14:29"
+    },
+    {
+      "id": 2212,
+      "category_id": 333,
+      "name": "REAL ROLL STRAWBERRY *8",
+      "price": 6,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:14:45"
+    },
+    {
+      "id": 2213,
+      "category_id": 333,
+      "name": "REAL ROLL CHOCO *8 ",
+      "price": 6,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:14:58"
+    },
+    {
+      "id": 2214,
+      "category_id": 333,
+      "name": "REAL WAFER FARALI 150GM*12",
+      "price": 15,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:15:32"
+    },
+    {
+      "id": 2215,
+      "category_id": 333,
+      "name": "REAL WAFER MASALA PUNCH 150GM*12",
+      "price": 15,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:15:51"
+    },
+    {
+      "id": 2216,
+      "category_id": 333,
+      "name": "REAL WAFER TASTY SALTY 150GM*12",
+      "price": 15,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:16:12"
+    },
+    {
+      "id": 2217,
+      "category_id": 332,
+      "name": "RAJU CHANA DAL 250G*20",
+      "price": 25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:21:24"
+    },
+    {
+      "id": 2218,
+      "category_id": 332,
+      "name": "RAJU MASALA BOONDI 250G*20",
+      "price": 25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:22:11"
+    },
+    {
+      "id": 2219,
+      "category_id": 332,
+      "name": "RAJU PAPAD PAUVA 250G*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:22:29"
+    },
+    {
+      "id": 2220,
+      "category_id": 332,
+      "name": "RAJU PLAIN SEV 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:22:58"
+    },
+    {
+      "id": 2221,
+      "category_id": 332,
+      "name": "RAJU BHATA KHANI 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:23:36"
+    },
+    {
+      "id": 2222,
+      "category_id": 332,
+      "name": "RAJU PAPAD CHAVANU 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:23:58"
+    },
+    {
+      "id": 2223,
+      "category_id": 332,
+      "name": "RAJU SURATI GATHIYA 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:24:34"
+    },
+    {
+      "id": 2224,
+      "category_id": 332,
+      "name": "RAJU DALMOTH 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:25:22"
+    },
+    {
+      "id": 2225,
+      "category_id": 332,
+      "name": "RAJU NYLON SEV 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:25:54"
+    },
+    {
+      "id": 2226,
+      "category_id": 332,
+      "name": "RAJU NYLON GATHIA 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:26:18"
+    },
+    {
+      "id": 2228,
+      "category_id": 332,
+      "name": "RAJU RATLAMI SEV 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:27:04"
+    },
+    {
+      "id": 2229,
+      "category_id": 332,
+      "name": "RAJU MAKAI CHEVDO 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:27:29"
+    },
+    {
+      "id": 2230,
+      "category_id": 332,
+      "name": "RAJU BOMBAY MIX 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:27:47"
+    },
+    {
+      "id": 2231,
+      "category_id": 332,
+      "name": "RAJU MARVADI SEV 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:28:16"
+    },
+    {
+      "id": 2232,
+      "category_id": 332,
+      "name": "RAJU TIKHA MIX 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:29:07"
+    },
+    {
+      "id": 2233,
+      "category_id": 332,
+      "name": "RAJU BHAVNAGRI GATHIA 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:29:26"
+    },
+    {
+      "id": 2234,
+      "category_id": 332,
+      "name": "RAJU GARLIC MIX 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:30:06"
+    },
+    {
+      "id": 2235,
+      "category_id": 332,
+      "name": "RAJU NADIYADI MIX 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:30:26"
+    },
+    {
+      "id": 2236,
+      "category_id": 332,
+      "name": "RAJU SURTI MIX 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:30:47"
+    },
+    {
+      "id": 2237,
+      "category_id": 332,
+      "name": "RAJU DAL SEV 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:31:35"
+    },
+    {
+      "id": 2238,
+      "category_id": 332,
+      "name": "RAJU MAMRA MIX 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:31:57"
+    },
+    {
+      "id": 2239,
+      "category_id": 332,
+      "name": "RAJU MANGLORI MIX 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:32:32"
+    },
+    {
+      "id": 2240,
+      "category_id": 332,
+      "name": "RAJU KHATTA MITHA 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:32:53"
+    },
+    {
+      "id": 2241,
+      "category_id": 332,
+      "name": "RAJU JADI SEV 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:33:13"
+    },
+    {
+      "id": 2242,
+      "category_id": 332,
+      "name": "RAJU LIMBOO MARI 250GM*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:33:35"
+    },
+    {
+      "id": 2243,
+      "category_id": 332,
+      "name": "RAJU NAVRATAN MIX 250GM*20",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:33:52"
+    },
+    {
+      "id": 2244,
+      "category_id": 315,
+      "name": "BRITANNIA TREAT CARDMOM SANDWICH 100GM*24",
+      "price": 10.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:48:34"
+    },
+    {
+      "id": 2245,
+      "category_id": 315,
+      "name": "BRITANNIA TREAT PINEAPPLE SANDWICH 100GM*24",
+      "price": 10.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:49:03"
+    },
+    {
+      "id": 2246,
+      "category_id": 315,
+      "name": "BRITANNIA TREAT STRAWBERRY SANDWICH 100GM*24",
+      "price": 10.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:49:55"
+    },
+    {
+      "id": 2247,
+      "category_id": 315,
+      "name": "BRITANNIA TREAT ORANGE SANDWICH 100GM*24",
+      "price": 10.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:50:37"
+    },
+    {
+      "id": 2248,
+      "category_id": 315,
+      "name": "BRITANNIA 50 50(8*6*62GM)1.79",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:51:29"
+    },
+    {
+      "id": 2249,
+      "category_id": 315,
+      "name": "BRITANNIA MASKA CHASKA 8*6*62GM(2.29)",
+      "price": 15.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:52:14"
+    },
+    {
+      "id": 2250,
+      "category_id": 315,
+      "name": "BRITANNIA CHOCO CHIP120GM*24(.75)",
+      "price": 14,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:54:16"
+    },
+    {
+      "id": 2251,
+      "category_id": 315,
+      "name": "BRITANNIA SUJI RUSK 235GM*12(.99)",
+      "price": 9.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:55:00"
+    },
+    {
+      "id": 2252,
+      "category_id": 315,
+      "name": "BRITANNIA MILK RUSK 207GM*12(.99)",
+      "price": 9.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:55:41"
+    },
+    {
+      "id": 2253,
+      "category_id": 315,
+      "name": "BRITANNIA MARIE GOLD 154GM*24(.79)",
+      "price": 14.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:58:37"
+    },
+    {
+      "id": 2254,
+      "category_id": 315,
+      "name": "BRITANNIA BOURNBON 400GM*24(2.20)",
+      "price": 42,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 15:59:39"
+    },
+    {
+      "id": 2255,
+      "category_id": 315,
+      "name": "BRITANNIA MILK BIKIS 8*6*90GM(2.49)",
+      "price": 16.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:00:25"
+    },
+    {
+      "id": 2256,
+      "category_id": 315,
+      "name": "BRITANNIA GOOD DAY PISTA BADAM(2.99)",
+      "price": 15,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:01:30"
+    },
+    {
+      "id": 2257,
+      "category_id": 315,
+      "name": "BRITANNIA GOOD DAY CASHEW (2.99)",
+      "price": 15,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:02:41"
+    },
+    {
+      "id": 2258,
+      "category_id": 315,
+      "name": "BRITANNIA GOOD DAY BUTTER (3.79)",
+      "price": 18,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:03:10"
+    },
+    {
+      "id": 2259,
+      "category_id": 315,
+      "name": "BRITANNIA GOOD DAY PISTA BADAM (1.29)",
+      "price": 32.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:03:55"
+    },
+    {
+      "id": 2260,
+      "category_id": 315,
+      "name": "BRITANNIA GOOD DAY CASHEW (1.29)",
+      "price": 32.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:04:22"
+    },
+    {
+      "id": 2261,
+      "category_id": 315,
+      "name": "BRITANNIA GOOD DAY BUTTER(1.29)",
+      "price": 32.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:05:11"
+    },
+    {
+      "id": 2262,
+      "category_id": 315,
+      "name": "BRITANNIA MILK RUSK+TREAT ORANGE (2.99)",
+      "price": 15,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:06:43"
+    },
+    {
+      "id": 2263,
+      "category_id": 315,
+      "name": "BRITANNIA SUJI WHEAT RUSK +TREAT CARDMOM(2.99)",
+      "price": 15,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:07:42"
+    },
+    {
+      "id": 2264,
+      "category_id": 317,
+      "name": "CHINGS HAKKA NOODLE *12",
+      "price": 26,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:08:52"
+    },
+    {
+      "id": 2265,
+      "category_id": 317,
+      "name": "CHINGS STIR FRY SAUCE *24",
+      "price": 36.2,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:09:53"
+    },
+    {
+      "id": 2266,
+      "category_id": 317,
+      "name": "CHINGS SOYA SAUCE 750GM*24",
+      "price": 35.2,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:10:26"
+    },
+    {
+      "id": 2267,
+      "category_id": 317,
+      "name": "CHINGS SCHEZWAN CHUTNEY 250GM*24",
+      "price": 28.8,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:12:54"
+    },
+    {
+      "id": 2268,
+      "category_id": 317,
+      "name": "CHINGS RED CHILLY SAUCE 680GM*24",
+      "price": 35.2,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:15:03"
+    },
+    {
+      "id": 2269,
+      "category_id": 317,
+      "name": "CHINGS GREEN CHILLY SAUCE 680GM*24",
+      "price": 35.2,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:15:45"
+    },
+    {
+      "id": 2270,
+      "category_id": 317,
+      "name": "CHINGS JAIN SCHEZWAN 250GM*24",
+      "price": 28,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:19:16"
+    },
+    {
+      "id": 2271,
+      "category_id": 317,
+      "name": "CHINGS SOUP HOT & SOUR*12",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:26:30"
+    },
+    {
+      "id": 2272,
+      "category_id": 317,
+      "name": "CHINGS SOUP MANCHOW *12",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:26:57"
+    },
+    {
+      "id": 2273,
+      "category_id": 317,
+      "name": "CHINGS SOUP SWEETCORN*12",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:27:24"
+    },
+    {
+      "id": 2274,
+      "category_id": 317,
+      "name": "CHINGS CHOWMEIN NOODLE 150*30",
+      "price": 23.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:28:41"
+    },
+    {
+      "id": 2275,
+      "category_id": 317,
+      "name": "CHINGS MASALA SCHEZWAN FRIED RICE *10",
+      "price": 9,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:29:26"
+    },
+    {
+      "id": 2276,
+      "category_id": 317,
+      "name": "CHINGS MASALA PANEER CHILLY *10",
+      "price": 9,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:30:20"
+    },
+    {
+      "id": 2277,
+      "category_id": 317,
+      "name": "CHINGS MASALA MANCHURIAN*10",
+      "price": 9,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:30:42"
+    },
+    {
+      "id": 2278,
+      "category_id": 317,
+      "name": "CHINGS HAKKA NOODLE 150GM*30(2+1FREE)",
+      "price": 23.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:31:28"
+    },
+    {
+      "id": 2279,
+      "category_id": 317,
+      "name": "CHINGS SCHEZWAN CHUTNEY 1KG*12",
+      "price": 41,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:32:35"
+    },
+    {
+      "id": 2280,
+      "category_id": 317,
+      "name": "CHINGS SCHEZWAN CHUTNEY 250GM*12 1+1",
+      "price": 18,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:33:27"
+    },
+    {
+      "id": 2281,
+      "category_id": 317,
+      "name": "CHINGS CHILLY VINEGAR 170ML*24",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:34:04"
+    },
+    {
+      "id": 2282,
+      "category_id": 317,
+      "name": "CHINGS RED CHILLY SAUCE 200GM*24",
+      "price": 25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:35:00"
+    },
+    {
+      "id": 2283,
+      "category_id": 317,
+      "name": "CHINGS GREEN CHILLY SAUCE 190GM*24",
+      "price": 22,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:35:27"
+    },
+    {
+      "id": 2284,
+      "category_id": 317,
+      "name": "CHINGS SOYA SAUCE 210GM*24",
+      "price": 22,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:35:48"
+    },
+    {
+      "id": 2285,
+      "category_id": 317,
+      "name": "CHINGS SOUP TOMATO *12",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:37:10"
+    },
+    {
+      "id": 2286,
+      "category_id": 313,
+      "name": "ASHOKA CHUTNEY SWEET MANGO 300GM*6",
+      "price": 7,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:39:12"
+    },
+    {
+      "id": 2287,
+      "category_id": 313,
+      "name": "ASHOKA CHUTNEY PANI PURI CONCENRATE 250GM*6",
+      "price": 7,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:39:52"
+    },
+    {
+      "id": 2288,
+      "category_id": 313,
+      "name": "ASHOKA PICKLE SHREDDED MANGO CHUNDO 575GM*6 1.99",
+      "price": 8.99,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:40:39"
+    },
+    {
+      "id": 2289,
+      "category_id": 305,
+      "name": "BOURNVITA 500GM*15",
+      "price": 4.8,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:42:01"
+    },
+    {
+      "id": 2290,
+      "category_id": 305,
+      "name": "BOURNVITA 1KG*12",
+      "price": 7.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:42:45"
+    },
+    {
+      "id": 2291,
+      "category_id": 305,
+      "name": "CANDUKAKA DABELI MASALA*12",
+      "price": 22,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:43:15"
+    },
+    {
+      "id": 2292,
+      "category_id": 326,
+      "name": "CHHEDA SALT & PEPPER 170GM*6",
+      "price": 7.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:43:54"
+    },
+    {
+      "id": 2293,
+      "category_id": 326,
+      "name": "CHHEDA YELLOW 170GM*6",
+      "price": 8.8,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:44:20"
+    },
+    {
+      "id": 2294,
+      "category_id": 326,
+      "name": "CHHEDA LONG 170GM *12",
+      "price": 16,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:44:45"
+    },
+    {
+      "id": 2295,
+      "category_id": 318,
+      "name": "CHITLEBANDHU BAKARWADI 250GM*20",
+      "price": 36,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:45:40"
+    },
+    {
+      "id": 2296,
+      "category_id": 305,
+      "name": "CHUNO BABU*20",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:46:08"
+    },
+    {
+      "id": 2297,
+      "category_id": 305,
+      "name": "CHUNO MOBILE *24",
+      "price": 24,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:46:42"
+    },
+    {
+      "id": 2298,
+      "category_id": 305,
+      "name": "CHUNO SIDDHANT*100",
+      "price": 100,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:47:06"
+    },
+    {
+      "id": 2299,
+      "category_id": 302,
+      "name": "DAVAT SODA 160ML*80",
+      "price": 26,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:49:02"
+    },
+    {
+      "id": 2300,
+      "category_id": 319,
+      "name": "EURO NYLON SEV*7(21)",
+      "price": 5.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:50:36"
+    },
+    {
+      "id": 2301,
+      "category_id": 319,
+      "name": "EURO FARALI CHEVDA MITHA*7(21)",
+      "price": 5.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:51:15"
+    },
+    {
+      "id": 2302,
+      "category_id": 319,
+      "name": "EURO USAL SEV*7(21)",
+      "price": 5.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:51:38"
+    },
+    {
+      "id": 2303,
+      "category_id": 319,
+      "name": "EURO FARALI CHEVDA TIKHA*7(21)",
+      "price": 5.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:52:06"
+    },
+    {
+      "id": 2304,
+      "category_id": 319,
+      "name": "EURO 3 IN 1 PURI*7(21)",
+      "price": 5.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:52:43"
+    },
+    {
+      "id": 2305,
+      "category_id": 319,
+      "name": "EURO BHAVNAGRI GATHIA *7(21)",
+      "price": 5.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:53:11"
+    },
+    {
+      "id": 2306,
+      "category_id": 319,
+      "name": "EURO MAKKAI CHIVDA*7(21)",
+      "price": 5.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:53:34"
+    },
+    {
+      "id": 2307,
+      "category_id": 319,
+      "name": "EURO METHI GATHIA*7(21)",
+      "price": 5.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:53:56"
+    },
+    {
+      "id": 2308,
+      "category_id": 319,
+      "name": "EURO KACHORI*7(21)",
+      "price": 5.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:54:15"
+    },
+    {
+      "id": 2309,
+      "category_id": 319,
+      "name": "EURO SOYA STICK*7(21)",
+      "price": 5.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:54:38"
+    },
+    {
+      "id": 2310,
+      "category_id": 319,
+      "name": "EURO METHI PURI*7(21)",
+      "price": 5.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:55:02"
+    },
+    {
+      "id": 2311,
+      "category_id": 305,
+      "name": "EVEREST GARAM MASALA 100GM*10",
+      "price": 12.75,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:56:11"
+    },
+    {
+      "id": 2312,
+      "category_id": 305,
+      "name": "EVEREST KITCHEN KING MASALA 100GM*10",
+      "price": 12.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:56:58"
+    },
+    {
+      "id": 2313,
+      "category_id": 305,
+      "name": "EVEREST TEA MASALA 100GM*10",
+      "price": 16.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:57:24"
+    },
+    {
+      "id": 2314,
+      "category_id": 305,
+      "name": "EVEREST TIKHALAL CHILLY POWDER 100GM*10",
+      "price": 10.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:58:00"
+    },
+    {
+      "id": 2315,
+      "category_id": 305,
+      "name": "FARFAR",
+      "price": 7.2,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:58:39"
+    },
+    {
+      "id": 2316,
+      "category_id": 341,
+      "name": "FATAFAT CANDY JAR (36)",
+      "price": 4.8,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 16:59:58"
+    },
+    {
+      "id": 2317,
+      "category_id": 320,
+      "name": "FORTUNE ATTA 10KG",
+      "price": 11.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:01:02"
+    },
+    {
+      "id": 2318,
+      "category_id": 320,
+      "name": "FORTUNE MUSTURD OIL 1LTR*12",
+      "price": 39.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:01:47"
+    },
+    {
+      "id": 2319,
+      "category_id": 320,
+      "name": "FORTUNE GROUNDNUT OIL 1LTR*12",
+      "price": 36,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:02:19"
+    },
+    {
+      "id": 2320,
+      "category_id": 330,
+      "name": "GANESH BHEL FAMILY 300GM*10",
+      "price": 15,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:04:00"
+    },
+    {
+      "id": 2321,
+      "category_id": 330,
+      "name": "GANESH BHEL DRY*10",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:04:18"
+    },
+    {
+      "id": 2322,
+      "category_id": 330,
+      "name": "GANESH DABELI MIX 170GM*12",
+      "price": 16.8,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:04:48"
+    },
+    {
+      "id": 2323,
+      "category_id": 330,
+      "name": "GANESH BHEL TRAVEL 100GM*10",
+      "price": 6,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:05:17"
+    },
+    {
+      "id": 2324,
+      "category_id": 330,
+      "name": "GANESH MISAL COMBO 350GM*12",
+      "price": 27,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:05:52"
+    },
+    {
+      "id": 2325,
+      "category_id": 330,
+      "name": "GANESH CHAKLI 500GM*12",
+      "price": 30,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:06:15"
+    },
+    {
+      "id": 2326,
+      "category_id": 330,
+      "name": "GANESH 3 IN 1 PANIPURI COMBO 400GM*10",
+      "price": 14,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:06:47"
+    },
+    {
+      "id": 2327,
+      "category_id": 330,
+      "name": "GANESH PANI PURI PAPAD 200GM*25",
+      "price": 27.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:07:19"
+    },
+    {
+      "id": 2328,
+      "category_id": 330,
+      "name": "GANESH PANI PURI CHUTNEY 150GM*25",
+      "price": 21.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:07:48"
+    },
+    {
+      "id": 2329,
+      "category_id": 330,
+      "name": "GANESH IMLY CHUTNEY 150GM*25",
+      "price": 21.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:08:13"
+    },
+    {
+      "id": 2330,
+      "category_id": 330,
+      "name": "KATDARE KACCHHI DABELI MASALA 100GM*10",
+      "price": 10,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:09:31"
+    },
+    {
+      "id": 2331,
+      "category_id": 330,
+      "name": "KATDARE GARAM MASALA 100GM*10",
+      "price": 9,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:09:53"
+    },
+    {
+      "id": 2332,
+      "category_id": 330,
+      "name": "KATDARE PAVBHAJI MASALA 100GM*10",
+      "price": 9.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:10:20"
+    },
+    {
+      "id": 2333,
+      "category_id": 330,
+      "name": "KATDARE ONION GARLIC MASALA 100GM*10",
+      "price": 7,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:10:54"
+    },
+    {
+      "id": 2334,
+      "category_id": 330,
+      "name": "KATDARE GODA MASALA 100GM*10",
+      "price": 7,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:11:16"
+    },
+    {
+      "id": 2335,
+      "category_id": 330,
+      "name": "KATDARE MALWADI MASALA 100GM*10",
+      "price": 9,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:11:40"
+    },
+    {
+      "id": 2336,
+      "category_id": 330,
+      "name": "KATDARE SEV BHAJI MASALA 100GM*10",
+      "price": 9,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:12:01"
+    },
+    {
+      "id": 2337,
+      "category_id": 330,
+      "name": "KATDARE BUTTERMILK MASALA 100GM*10",
+      "price": 7,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:12:35"
+    },
+    {
+      "id": 2338,
+      "category_id": 330,
+      "name": "KATDARE MISAL MASALA 100GM*10",
+      "price": 7,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:13:00"
+    },
+    {
+      "id": 2339,
+      "category_id": 330,
+      "name": "KATDARE GARLIC DRY COCONUT CHUTNEY 100GM*10",
+      "price": 7,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:13:32"
+    },
+    {
+      "id": 2340,
+      "category_id": 330,
+      "name": "KATDARE INSTANT BATATAVADA MIX 100GM*10",
+      "price": 7,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:13:59"
+    },
+    {
+      "id": 2341,
+      "category_id": 322,
+      "name": "GOPAL CHANA DAL 250GM*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:16:58"
+    },
+    {
+      "id": 2342,
+      "category_id": 322,
+      "name": "GOPAL DABELA CHANA 250GM*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:17:19"
+    },
+    {
+      "id": 2343,
+      "category_id": 322,
+      "name": "GOPAL DAL MOTH 250GM*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:17:40"
+    },
+    {
+      "id": 2344,
+      "category_id": 322,
+      "name": "GOPAL FARARI CHEVDA 250GM*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:18:13"
+    },
+    {
+      "id": 2345,
+      "category_id": 322,
+      "name": "GOPAL GARLIC/MASALA SEV MAMRA 250GM*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:18:54"
+    },
+    {
+      "id": 2346,
+      "category_id": 322,
+      "name": "GOPAL KHATTA MITHA SEV MAMRA 250ML*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:20:38"
+    },
+    {
+      "id": 2347,
+      "category_id": 322,
+      "name": "GOPAL NADIYADI MIX 250GM*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:21:03"
+    },
+    {
+      "id": 2348,
+      "category_id": 322,
+      "name": "GOPAL RATLAMI SEV 250GM*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:21:26"
+    },
+    {
+      "id": 2349,
+      "category_id": 322,
+      "name": "GOPAL SAKKARPARA 250GM*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:21:57"
+    },
+    {
+      "id": 2350,
+      "category_id": 322,
+      "name": "GOPAL BHAVNAGRI GATHIA 250GM*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:22:22"
+    },
+    {
+      "id": 2351,
+      "category_id": 322,
+      "name": "GOPAL TIKHA MITHA MIX 250GM*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:22:49"
+    },
+    {
+      "id": 2352,
+      "category_id": 322,
+      "name": "GOPAL VANELA GATHIA 250GM*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:23:13"
+    },
+    {
+      "id": 2353,
+      "category_id": 322,
+      "name": "GOPAL SP MASALA CUP 40GM*54",
+      "price": 18,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:23:45"
+    },
+    {
+      "id": 2354,
+      "category_id": 322,
+      "name": "GOPAL SP CHOKDI 40GM*54",
+      "price": 18,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:24:09"
+    },
+    {
+      "id": 2355,
+      "category_id": 322,
+      "name": "GOPAL SP ALPHABET 40GM*54",
+      "price": 18,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:24:40"
+    },
+    {
+      "id": 2356,
+      "category_id": 322,
+      "name": "GOPAL SP TOMATO CUP 40GM*54",
+      "price": 18,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:25:03"
+    },
+    {
+      "id": 2357,
+      "category_id": 322,
+      "name": "GOPAL BHAKARVADI 250GM*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:25:22"
+    },
+    {
+      "id": 2358,
+      "category_id": 322,
+      "name": "GOPAL NYLON SEV 250GM*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:25:45"
+    },
+    {
+      "id": 2359,
+      "category_id": 322,
+      "name": "GOPAL SEV 250GM*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:26:04"
+    },
+    {
+      "id": 2360,
+      "category_id": 322,
+      "name": "GOPAL NYLON CHIWDA 250GM*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:26:39"
+    },
+    {
+      "id": 2361,
+      "category_id": 322,
+      "name": "GOPAL CHAMPAKALI GATHIA *20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:27:05"
+    },
+    {
+      "id": 2362,
+      "category_id": 322,
+      "name": "GOPAL ALOO BHUJIA *20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:27:35"
+    },
+    {
+      "id": 2363,
+      "category_id": 322,
+      "name": "GOPAL RAJASTHANI SEV*20",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:28:01"
+    },
+    {
+      "id": 2364,
+      "category_id": 305,
+      "name": "HAWABAN HARDE *6",
+      "price": 10.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:29:43"
+    },
+    {
+      "id": 2365,
+      "category_id": 305,
+      "name": "HALDIRAM ALOO SAAG 300GM*10",
+      "price": 19.99,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:30:35"
+    },
+    {
+      "id": 2366,
+      "category_id": 305,
+      "name": "HIMALAYA PINK SALT 400GM*24",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:31:26"
+    },
+    {
+      "id": 2367,
+      "category_id": 305,
+      "name": "HIMALAYA PINK SALT 800GM*18",
+      "price": 20,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:31:54"
+    },
+    {
+      "id": 2368,
+      "category_id": 305,
+      "name": "HEERA SODA DI CARBONATE 100GM*20",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:32:46"
+    },
+    {
+      "id": 2369,
+      "category_id": 331,
+      "name": "PARLE HIDE N SEEK CHOCO ROLL200GM*20",
+      "price": 35,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:33:40"
+    },
+    {
+      "id": 2370,
+      "category_id": 305,
+      "name": "JALANI JALJIRA",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:34:47"
+    },
+    {
+      "id": 2371,
+      "category_id": 305,
+      "name": "JALANI AAM PANNA",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:35:00"
+    },
+    {
+      "id": 2372,
+      "category_id": 305,
+      "name": "JALANI NIMBOO PANI",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:35:20"
+    },
+    {
+      "id": 2373,
+      "category_id": 326,
+      "name": "KAILAS BHEL FAMILY 250GM*30",
+      "price": 45,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:36:11"
+    },
+    {
+      "id": 2374,
+      "category_id": 326,
+      "name": "KAILAS PANI PURI CHUTNEY150GM*12",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:36:39"
+    },
+    {
+      "id": 2375,
+      "category_id": 326,
+      "name": "KAILAS IMLY SWEET CHUTNEY*12",
+      "price": 12,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:37:02"
+    },
+    {
+      "id": 2376,
+      "category_id": 326,
+      "name": "KAILAS MISAL FAMILY 400GM*10(30)",
+      "price": 25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:37:58"
+    },
+    {
+      "id": 2377,
+      "category_id": 305,
+      "name": "MR MAKHANA HIMALAYA PINK SALT *6",
+      "price": 11.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:40:47"
+    },
+    {
+      "id": 2378,
+      "category_id": 305,
+      "name": "MR MAKHANA BLACK SALT *6",
+      "price": 11.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:41:16"
+    },
+    {
+      "id": 2379,
+      "category_id": 305,
+      "name": "MR MAKHANA LIME & CHILLY*6",
+      "price": 11.25,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:41:50"
+    },
+    {
+      "id": 2380,
+      "category_id": 305,
+      "name": "MR SOUTH BANANA CHIPS MALABAR*5",
+      "price": 6,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:42:41"
+    },
+    {
+      "id": 2381,
+      "category_id": 305,
+      "name": "MR SOUTH BANANA CHIP KERALA BLACK PAPER*5",
+      "price": 6,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:43:31"
+    },
+    {
+      "id": 2382,
+      "category_id": 305,
+      "name": "MR SOUTH BANANA CHIP PERI PERI*5",
+      "price": 6,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:44:00"
+    },
+    {
+      "id": 2383,
+      "category_id": 305,
+      "name": "MR SOUTH BANANA CHIPS CHILLY *5",
+      "price": 6,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:44:39"
+    },
+    {
+      "id": 2384,
+      "category_id": 305,
+      "name": "MR SOUTH BANANA CHIP SALTED*5",
+      "price": 6,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:45:21"
+    },
+    {
+      "id": 2385,
+      "category_id": 342,
+      "name": "MAGGI 52GM*108",
+      "price": 15,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:47:47"
+    },
+    {
+      "id": 2386,
+      "category_id": 342,
+      "name": "MAGGI MASALA*60",
+      "price": 8,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:48:16"
+    },
+    {
+      "id": 2388,
+      "category_id": 326,
+      "name": "POP MAK MAKHANA BLACK PEPPER 80GM*10",
+      "price": 19.2,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:51:24"
+    },
+    {
+      "id": 2389,
+      "category_id": 326,
+      "name": "POP MAK MAKHANA BLACK SALT 80GM*10",
+      "price": 19.2,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:51:56"
+    },
+    {
+      "id": 2390,
+      "category_id": 326,
+      "name": "POP MAK MAKHANA CHAT MASALA 80GM*10",
+      "price": 19.2,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:52:24"
+    },
+    {
+      "id": 2391,
+      "category_id": 326,
+      "name": "POP MAK MAKHANA PERI PERI 80GM*10",
+      "price": 19.2,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:52:54"
+    },
+    {
+      "id": 2392,
+      "category_id": 326,
+      "name": "POP MAK MAKHANA SPANISH TOMATO 80GM*10",
+      "price": 19.2,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:54:46"
+    },
+    {
+      "id": 2393,
+      "category_id": 326,
+      "name": "POP MAK MAKHANA CORIENDER 80GM*10",
+      "price": 19.2,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:55:16"
+    },
+    {
+      "id": 2394,
+      "category_id": 326,
+      "name": "PRAKASH KOLHAPURI THECHA *10",
+      "price": 8.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:58:00"
+    },
+    {
+      "id": 2395,
+      "category_id": 326,
+      "name": "PRAKASH ONION GARLIC MASALA 200GM*10",
+      "price": 19,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:58:41"
+    },
+    {
+      "id": 2396,
+      "category_id": 326,
+      "name": "BEDKAR GARLIC CHUTNEY 100GM*10",
+      "price": 11,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 17:59:13"
+    },
+    {
+      "id": 2397,
+      "category_id": 339,
+      "name": "SWAD SCHEZWAN CHUTNEY HOT & SPICY 250GM*24",
+      "price": 26,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:00:03"
+    },
+    {
+      "id": 2398,
+      "category_id": 339,
+      "name": "SWAD SARSO DA SAAG 450GM*12",
+      "price": 14.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:00:42"
+    },
+    {
+      "id": 2399,
+      "category_id": 339,
+      "name": "SWAD PATRA CURRIED 400GM*12",
+      "price": 14.5,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:01:06"
+    },
+    {
+      "id": 2400,
+      "category_id": 339,
+      "name": "SWAD PICKLE METHIA MANGO 400GM*12",
+      "price": 17,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:01:47"
+    },
+    {
+      "id": 2401,
+      "category_id": 339,
+      "name": "SWAD PICKLE CHUNDO 500GM*12",
+      "price": 17,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:02:11"
+    },
+    {
+      "id": 2402,
+      "category_id": 339,
+      "name": "SWAD PICKLE SWEET LIME 500GM*12",
+      "price": 17,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:02:40"
+    },
+    {
+      "id": 2403,
+      "category_id": 339,
+      "name": "SWAD PICKLE MIXED 400GM*12",
+      "price": 17,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:03:11"
+    },
+    {
+      "id": 2404,
+      "category_id": 339,
+      "name": "SWAD PICKLE MANGO 400GM*12",
+      "price": 17,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:03:34"
+    },
+    {
+      "id": 2405,
+      "category_id": 339,
+      "name": "SWAD PICKLE LIME 400GM*12",
+      "price": 17,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:04:13"
+    },
+    {
+      "id": 2406,
+      "category_id": 339,
+      "name": "SWAD PICKLE GORKERI 500GM*12",
+      "price": 17,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:04:51"
+    },
+    {
+      "id": 2407,
+      "category_id": 339,
+      "name": "SWAD MANGO PULP 850GM*6",
+      "price": 14.1,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:05:17"
+    },
+    {
+      "id": 2408,
+      "category_id": 339,
+      "name": "WAHLUFT BHEL MAKHANA MIX 100GM*12",
+      "price": 8.7,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:05:48"
+    },
+    {
+      "id": 2409,
+      "category_id": 339,
+      "name": "WAHLUFT BHEL KACHHA MANGO 100GM*12",
+      "price": 8.7,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:06:15"
+    },
+    {
+      "id": 2410,
+      "category_id": 339,
+      "name": "WAHLUFT BHEL SCHEZWAN 100GM*12",
+      "price": 8.7,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:06:58"
+    },
+    {
+      "id": 2411,
+      "category_id": 339,
+      "name": "WAHLUFT BHEL PUDINA 100GM*12",
+      "price": 8.7,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:07:23"
+    },
+    {
+      "id": 2412,
+      "category_id": 339,
+      "name": "SWAD BHEL CLASSIC 100GM*12",
+      "price": 8.7,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:07:44"
+    },
+    {
+      "id": 2413,
+      "category_id": 339,
+      "name": "WAHLUFT BHEL SUPER SPICY 100GM*12",
+      "price": 8.7,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:08:09"
+    },
+    {
+      "id": 2414,
+      "category_id": 305,
+      "name": "SALT TATA *15",
+      "price": 9,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:10:30"
+    },
+    {
+      "id": 2415,
+      "category_id": 305,
+      "name": "KISSAN JAM MIXED FRUIT *24",
+      "price": 62,
+      "image_path": null,
+      "description": "",
+      "created_at": "2026-05-25 18:14:48"
     }
   ],
   "customers": [],
@@ -4579,6 +6892,28 @@
       "notes": "",
       "created_at": "2026-05-21 10:56:54",
       "updated_at": "2026-05-21 10:58:22"
+    },
+    {
+      "id": 4,
+      "customer_name": "Moksha shah",
+      "customer_email": "",
+      "customer_phone": "",
+      "total_price": 491.72999999999996,
+      "status": "pending",
+      "notes": "",
+      "created_at": "2026-05-23 06:56:38",
+      "updated_at": "2026-05-23 06:56:38"
+    },
+    {
+      "id": 5,
+      "customer_name": "AAA",
+      "customer_email": "",
+      "customer_phone": "",
+      "total_price": 31.49,
+      "status": "pending",
+      "notes": "",
+      "created_at": "2026-05-25 19:05:32",
+      "updated_at": "2026-05-25 19:05:32"
     }
   ],
   "orderItems": [
@@ -4623,6 +6958,55 @@
       "item_id": 2060,
       "quantity": 3,
       "price": 9.51
+    },
+    {
+      "id": 7,
+      "order_id": 4,
+      "item_id": 2060,
+      "quantity": 1,
+      "price": 9.51
+    },
+    {
+      "id": 8,
+      "order_id": 4,
+      "item_id": 2091,
+      "quantity": 3,
+      "price": 105.21
+    },
+    {
+      "id": 9,
+      "order_id": 4,
+      "item_id": 2064,
+      "quantity": 2,
+      "price": 3.3
+    },
+    {
+      "id": 10,
+      "order_id": 4,
+      "item_id": 2069,
+      "quantity": 1,
+      "price": 69.83
+    },
+    {
+      "id": 11,
+      "order_id": 4,
+      "item_id": 2071,
+      "quantity": 1,
+      "price": 69.85
+    },
+    {
+      "id": 12,
+      "order_id": 4,
+      "item_id": 2027,
+      "quantity": 1,
+      "price": 20.31
+    },
+    {
+      "id": 13,
+      "order_id": 5,
+      "item_id": 1723,
+      "quantity": 1,
+      "price": 31.49
     }
   ]
 }
