@@ -130,6 +130,9 @@ router.put('/items/:id', upload.single('image'), async (req, res) => {
     if (req.file) {
       updateQuery += ', image_path = ?';
       params.push(`/uploads/${req.file.filename}`);
+    } else if (req.body.image_path !== undefined) {
+      updateQuery += ', image_path = ?';
+      params.push(req.body.image_path);
     }
     
     updateQuery += ' WHERE id = ?';
