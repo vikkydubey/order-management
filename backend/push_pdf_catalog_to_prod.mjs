@@ -1,6 +1,7 @@
 /**
- * Add categories and items from PDF catalog to production.
- * Run AFTER deploying admin.js changes.
+ * Add/replace categories and items from PDF catalog to production.
+ * For each PDF category: deletes existing items then re-creates from pdf_catalog.json.
+ * Safe to re-run — idempotent.
  * Usage: node push_pdf_catalog_to_prod.mjs
  */
 import fs from 'fs';
@@ -13,20 +14,23 @@ const CATALOG_PATH = path.join(__dirname, '..', 'pdf_catalog.json');
 
 function isValidItemName(name) {
   if (!name || name.length < 3) return false;
-  // Reject if name starts with a digit (it's a size/qty string like "170gm | 1x12")
+  // Reject if name starts with a digit (size/qty string like "170gm | 1x12")
   if (/^\d/.test(name)) return false;
-  // Reject if name is mostly numbers/units
-  if (/^[\d\s|xgmGMlLkK×.]+$/.test(name)) return false;
   // Must contain at least one letter
   if (!/[a-zA-Z]/.test(name)) return false;
-  // Reject pure description patterns
-  if (/^\d+\s*(gm|ml|ltr|ptks|pkts|pkt|tab)\b/i.test(name)) return false;
+  // Reject pure size/unit strings
+  if (/^[\d\s|xgmGMlLkK×.]+$/.test(name)) return false;
+  // Reject if name is a size-only descriptor
+  if (/^\d+\s*(gm|ml|ltr|ptks|pkts|pkt|tab|pcs)\b/i.test(name)) return false;
+  // Reject promotional fragments "(10p +10p Free)"
+  if (/^\(/.test(name)) return false;
+  // Reject names containing "pcs pack of"
+  if (/pcs\s+pack\s+of/i.test(name)) return false;
+  // Reject names containing "|" (they're size/qty lines)
+  if (name.includes('|')) return false;
+  // Reject very long concatenated names (> 100 chars)
+  if (name.length > 100) return false;
   return true;
-}
-
-function cleanName(name) {
-  // Remove trailing size/qty patterns from combined names
-  return name.replace(/\s+\d+gm.*$/i, '').replace(/\s+\d+ml.*$/i, '').trim();
 }
 
 async function main() {
@@ -39,13 +43,12 @@ async function main() {
   const existingCatMap = Object.fromEntries(existingCats.map(c => [c.name.toLowerCase(), c.id]));
   console.log(`Production has ${existingCats.length} existing categories`);
 
-  // Fetch existing items to avoid duplicates
+  // Fetch all existing items once
   const itemRes = await fetch(`${PROD_URL}/api/admin/items`);
   const existingItems = await itemRes.json();
-  const existingItemKeys = new Set(existingItems.map(i => `${i.category_id}:${i.name.toLowerCase().trim()}`));
   console.log(`Production has ${existingItems.length} existing items`);
 
-  let catsCreated = 0, itemsCreated = 0, itemsSkipped = 0, itemsInvalid = 0;
+  let catsCreated = 0, itemsCreated = 0, itemsDeleted = 0, itemsInvalid = 0;
 
   for (const catEntry of catalog) {
     const catName = catEntry.category;
@@ -71,17 +74,22 @@ async function main() {
       }
     }
 
-    // Add items
+    // Delete existing items in this category (clean replace)
+    const oldItems = existingItems.filter(i => i.category_id === categoryId);
+    for (const old of oldItems) {
+      const dr = await fetch(`${PROD_URL}/api/admin/items/${old.id}`, { method: 'DELETE' });
+      if (dr.ok) itemsDeleted++;
+    }
+    if (oldItems.length > 0) {
+      console.log(`  Deleted ${oldItems.length} old items from "${catName}"`);
+    }
+
+    // Add items from catalog
+    let addedCount = 0;
     for (const item of catEntry.items) {
       const name = item.name ? item.name.trim() : '';
       if (!isValidItemName(name)) {
         itemsInvalid++;
-        continue;
-      }
-
-      const itemKey = `${categoryId}:${name.toLowerCase()}`;
-      if (existingItemKeys.has(itemKey)) {
-        itemsSkipped++;
         continue;
       }
 
@@ -100,20 +108,20 @@ async function main() {
       });
 
       if (r.ok) {
-        existingItemKeys.add(itemKey);
         itemsCreated++;
-        if (itemsCreated % 25 === 0) console.log(`  ${itemsCreated} items created so far...`);
+        addedCount++;
       } else {
         const txt = await r.text();
         console.error(`  FAIL item "${name}": ${r.status} ${txt}`);
       }
     }
+    console.log(`  "${catName}": ${addedCount} items added`);
   }
 
   console.log(`\n=== DONE ===`);
   console.log(`Categories created: ${catsCreated}`);
-  console.log(`Items created: ${itemsCreated}`);
-  console.log(`Items skipped (already exist): ${itemsSkipped}`);
+  console.log(`Items deleted (old): ${itemsDeleted}`);
+  console.log(`Items created (new): ${itemsCreated}`);
   console.log(`Items filtered (invalid name): ${itemsInvalid}`);
 }
 
