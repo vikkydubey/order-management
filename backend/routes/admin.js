@@ -80,7 +80,7 @@ router.delete('/categories/:id', async (req, res) => {
 // Add Item with image
 router.post('/items', upload.single('image'), async (req, res) => {
   const { name, price, category_id, description } = req.body;
-  const image_path = req.file ? `/uploads/${req.file.filename}` : null;
+  const image_path = req.file ? `/uploads/${req.file.filename}` : (req.body.image_path || null);
   const db = getDatabase();
   
   try {
